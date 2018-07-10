@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Annibale Panichella</title>
+    <link>https://apanichella.github.io/publication/</link>
+    <description>Recent content in Publications on Annibale Panichella</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://apanichella.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Scent of a Smell: An Extensive Comparison between Textual and Structural Smells</title>
+      <link>https://apanichella.github.io/publication/ieee-tse2018d/</link>
+      <pubDate>Tue, 10 Jul 2018 11:25:49 +0200</pubDate>
+      
+      <guid>https://apanichella.github.io/publication/ieee-tse2018d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Developer Testing in The IDE: Patterns, Beliefs, And Behavior</title>
+      <link>https://apanichella.github.io/publication/ieee-tse2018c/</link>
+      <pubDate>Tue, 10 Jul 2018 11:24:46 +0200</pubDate>
+      
+      <guid>https://apanichella.github.io/publication/ieee-tse2018c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automated Test Case Generation as a Many-Objective Optimisation Problem with Dynamic Selection of the Targets</title>
+      <link>https://apanichella.github.io/publication/ieee-tse2018b/</link>
+      <pubDate>Tue, 10 Jul 2018 11:23:34 +0200</pubDate>
+      
+      <guid>https://apanichella.github.io/publication/ieee-tse2018b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic Generation of Tests to Exploit XML Injection Vulnerabilities in Web Applications</title>
+      <link>https://apanichella.github.io/publication/ieee-tse2018a/</link>
+      <pubDate>Tue, 10 Jul 2018 11:21:45 +0200</pubDate>
+      
+      <guid>https://apanichella.github.io/publication/ieee-tse2018a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Machine Learning- Driven Evolutionary Approach for Testing Web Application Firewalls</title>
+      <link>https://apanichella.github.io/publication/ieee-tr2018/</link>
+      <pubDate>Tue, 10 Jul 2018 11:11:22 +0200</pubDate>
+      
+      <guid>https://apanichella.github.io/publication/ieee-tr2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Systematic Literature Review of How Mutation Testing Supp orts Quality Assurance Pro cesses</title>
+      <link>https://apanichella.github.io/publication/stvr2018/</link>
+      <pubDate>Tue, 10 Jul 2018 11:11:22 +0200</pubDate>
+      
+      <guid>https://apanichella.github.io/publication/stvr2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

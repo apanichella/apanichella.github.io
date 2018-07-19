@@ -13,11 +13,74 @@
     
     
     <item>
-      <title>To Be Completed</title>
+      <title>To be updated</title>
       <link>https://apanichella.github.io/publication/tbd/</link>
-      <pubDate>Tue, 10 Jul 2018 11:40:18 +0200</pubDate>
+      <pubDate>Fri, 20 Jul 2018 00:16:07 +0200</pubDate>
       
       <guid>https://apanichella.github.io/publication/tbd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Incremental Control Dependency Frontier Exploration for Many-Criteria Test Case Generation</title>
+      <link>https://apanichella.github.io/publication/ssbse2018b/</link>
+      <pubDate>Fri, 20 Jul 2018 00:07:54 +0200</pubDate>
+      
+      <guid>https://apanichella.github.io/publication/ssbse2018b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Single-objective versus Multi-Objectivized Optimization for Evolutionary Crash Reproduction</title>
+      <link>https://apanichella.github.io/publication/ssbse2018a/</link>
+      <pubDate>Fri, 20 Jul 2018 00:06:34 +0200</pubDate>
+      
+      <guid>https://apanichella.github.io/publication/ssbse2018a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Search-based Approach for Accurate Identification of Log Message Formats</title>
+      <link>https://apanichella.github.io/publication/icpc2018/</link>
+      <pubDate>Fri, 20 Jul 2018 00:05:13 +0200</pubDate>
+      
+      <guid>https://apanichella.github.io/publication/icpc2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Search-Based Test Data Generation for SQL Queries</title>
+      <link>https://apanichella.github.io/publication/icse2018/</link>
+      <pubDate>Fri, 20 Jul 2018 00:04:04 +0200</pubDate>
+      
+      <guid>https://apanichella.github.io/publication/icse2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Investigation of Compression Techniques to Speed up Mutation Testing</title>
+      <link>https://apanichella.github.io/publication/icst2018/</link>
+      <pubDate>Fri, 20 Jul 2018 00:03:02 +0200</pubDate>
+      
+      <guid>https://apanichella.github.io/publication/icst2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Testing Autonomous Cars for Feature Interaction Failures using Many-Objective Search</title>
+      <link>https://apanichella.github.io/publication/ase2018/</link>
+      <pubDate>Fri, 20 Jul 2018 00:01:56 +0200</pubDate>
+      
+      <guid>https://apanichella.github.io/publication/ase2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Java Unit Testing Tool Competition - Sixth Round</title>
+      <link>https://apanichella.github.io/publication/sbst2018/</link>
+      <pubDate>Fri, 20 Jul 2018 00:01:14 +0200</pubDate>
+      
+      <guid>https://apanichella.github.io/publication/sbst2018/</guid>
       <description></description>
     </item>
     
@@ -67,11 +130,56 @@
     </item>
     
     <item>
-      <title>A Systematic Literature Review of How Mutation Testing Supp orts Quality Assurance Pro cesses</title>
+      <title>A Systematic Literature Review of How Mutation Testing Supports Quality Assurance Processes</title>
       <link>https://apanichella.github.io/publication/stvr2018/</link>
       <pubDate>Tue, 10 Jul 2018 11:11:22 +0200</pubDate>
       
       <guid>https://apanichella.github.io/publication/stvr2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Defect Prediction as a Multi-Objective Optimization Problem</title>
+      <link>https://apanichella.github.io/publication/stvr2015/</link>
+      <pubDate>Sun, 19 Jul 2015 23:50:41 +0200</pubDate>
+      
+      <guid>https://apanichella.github.io/publication/stvr2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving Multi-Objective Search Based Test Suite Optimization through Diversity Injection</title>
+      <link>https://apanichella.github.io/publication/tse2015/</link>
+      <pubDate>Sun, 19 Jul 2015 23:46:36 +0200</pubDate>
+      
+      <guid>https://apanichella.github.io/publication/tse2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Labeling Source Code with Information Retrieval Methods: An Empirical Study.</title>
+      <link>https://apanichella.github.io/publication/emse2014/</link>
+      <pubDate>Sat, 19 Jul 2014 23:52:54 +0200</pubDate>
+      
+      <guid>https://apanichella.github.io/publication/emse2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving IR-based traceability recovery via noun-based indexing of software artifacts</title>
+      <link>https://apanichella.github.io/publication/jse2012/</link>
+      <pubDate>Thu, 19 Jul 2012 23:55:49 +0200</pubDate>
+      
+      <guid>https://apanichella.github.io/publication/jse2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Applying a Smoothing Filter to Improve IR-based Traceability Recovery Processes: An Empirical Investigation.</title>
+      <link>https://apanichella.github.io/publication/infsoft/</link>
+      <pubDate>Thu, 19 Jul 2012 23:54:19 +0200</pubDate>
+      
+      <guid>https://apanichella.github.io/publication/infsoft/</guid>
       <description></description>
     </item>
     

@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Annibale Panichella on Annibale Panichella</title>
-    <link>https://apanichella.github.io/</link>
-    <description>Recent content in Annibale Panichella on Annibale Panichella</description>
+    <title>1 on Annibale Panichella</title>
+    <link>https://apanichella.github.io/publication_types/1/</link>
+    <description>Recent content in 1 on Annibale Panichella</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0200</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 Jul 2018 00:16:07 +0200</lastBuildDate>
+    
+	<atom:link href="https://apanichella.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>To be updated</title>
@@ -79,69 +81,6 @@
       <pubDate>Fri, 20 Jul 2018 00:01:14 +0200</pubDate>
       
       <guid>https://apanichella.github.io/publication/sbst2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Scent of a Smell: An Extensive Comparison between Textual and Structural Smells</title>
-      <link>https://apanichella.github.io/publication/ieee-tse2018d/</link>
-      <pubDate>Tue, 10 Jul 2018 11:25:49 +0200</pubDate>
-      
-      <guid>https://apanichella.github.io/publication/ieee-tse2018d/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Developer Testing in The IDE: Patterns, Beliefs, And Behavior</title>
-      <link>https://apanichella.github.io/publication/ieee-tse2018c/</link>
-      <pubDate>Tue, 10 Jul 2018 11:24:46 +0200</pubDate>
-      
-      <guid>https://apanichella.github.io/publication/ieee-tse2018c/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Automated Test Case Generation as a Many-Objective Optimisation Problem with Dynamic Selection of the Targets</title>
-      <link>https://apanichella.github.io/publication/ieee-tse2018b/</link>
-      <pubDate>Tue, 10 Jul 2018 11:23:34 +0200</pubDate>
-      
-      <guid>https://apanichella.github.io/publication/ieee-tse2018b/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Automatic Generation of Tests to Exploit XML Injection Vulnerabilities in Web Applications</title>
-      <link>https://apanichella.github.io/publication/ieee-tse2018a/</link>
-      <pubDate>Tue, 10 Jul 2018 11:21:45 +0200</pubDate>
-      
-      <guid>https://apanichella.github.io/publication/ieee-tse2018a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Machine Learning- Driven Evolutionary Approach for Testing Web Application Firewalls</title>
-      <link>https://apanichella.github.io/publication/ieee-tr2018/</link>
-      <pubDate>Tue, 10 Jul 2018 11:11:22 +0200</pubDate>
-      
-      <guid>https://apanichella.github.io/publication/ieee-tr2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Systematic Literature Review of How Mutation Testing Supports Quality Assurance Processes</title>
-      <link>https://apanichella.github.io/publication/stvr2018/</link>
-      <pubDate>Tue, 10 Jul 2018 11:11:22 +0200</pubDate>
-      
-      <guid>https://apanichella.github.io/publication/stvr2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Defect Prediction as a Multi-Objective Optimization Problem</title>
-      <link>https://apanichella.github.io/publication/stvr2015/</link>
-      <pubDate>Sun, 19 Jul 2015 23:50:41 +0200</pubDate>
-      
-      <guid>https://apanichella.github.io/publication/stvr2015/</guid>
       <description></description>
     </item>
     

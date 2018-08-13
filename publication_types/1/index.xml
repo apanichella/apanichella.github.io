@@ -7,17 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Fri, 20 Jul 2018 00:16:07 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 13 Aug 2018 20:05:07 +0200</lastBuildDate>
     
 	<atom:link href="https://apanichella.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>To be updated</title>
-      <link>https://apanichella.github.io/publication/tbd/</link>
-      <pubDate>Fri, 20 Jul 2018 00:16:07 +0200</pubDate>
+      <title>Java Unit Testing Tool Competition - Fifth Round</title>
+      <link>https://apanichella.github.io/publication/sbst2017/</link>
+      <pubDate>Mon, 13 Aug 2018 20:05:07 +0200</pubDate>
       
-      <guid>https://apanichella.github.io/publication/tbd/</guid>
+      <guid>https://apanichella.github.io/publication/sbst2017/</guid>
       <description></description>
     </item>
     
@@ -81,6 +81,69 @@
       <pubDate>Fri, 20 Jul 2018 00:01:14 +0200</pubDate>
       
       <guid>https://apanichella.github.io/publication/sbst2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lightweight Detection of Android-specific Code Smells: the aDoctor Project</title>
+      <link>https://apanichella.github.io/publication/saner2017b/</link>
+      <pubDate>Sun, 13 Aug 2017 20:10:28 +0200</pubDate>
+      
+      <guid>https://apanichella.github.io/publication/saner2017b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software-Based Energy Profiling of Android Apps: Simple, Efficient and Reliable</title>
+      <link>https://apanichella.github.io/publication/saner2017a/</link>
+      <pubDate>Sun, 13 Aug 2017 20:08:32 +0200</pubDate>
+      
+      <guid>https://apanichella.github.io/publication/saner2017a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Speeding-Up Mutation Testing via Data Compression and State Infection</title>
+      <link>https://apanichella.github.io/publication/icstw2017/</link>
+      <pubDate>Sun, 13 Aug 2017 20:06:48 +0200</pubDate>
+      
+      <guid>https://apanichella.github.io/publication/icstw2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PETrA: a Software-Based Tool for Estimating the Energy Profile of Android Applications</title>
+      <link>https://apanichella.github.io/publication/icse2017-tool/</link>
+      <pubDate>Sun, 13 Aug 2017 19:37:11 +0200</pubDate>
+      
+      <guid>https://apanichella.github.io/publication/icse2017-tool/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guided Genetic Algorithm for Automated Crash Reproduction</title>
+      <link>https://apanichella.github.io/publication/icse2017/</link>
+      <pubDate>Sun, 13 Aug 2017 19:34:17 +0200</pubDate>
+      
+      <guid>https://apanichella.github.io/publication/icse2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatically Repairing Web Application Firewalls Based on Successful SQL Injection Attacks</title>
+      <link>https://apanichella.github.io/publication/issre2018/</link>
+      <pubDate>Sun, 13 Aug 2017 19:28:13 +0200</pubDate>
+      
+      <guid>https://apanichella.github.io/publication/issre2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LIPS vs MOSA: a Replicated Empirical Study on Automated Test Case Generation</title>
+      <link>https://apanichella.github.io/publication/ssbse2017/</link>
+      <pubDate>Thu, 13 Jul 2017 20:03:02 +0200</pubDate>
+      
+      <guid>https://apanichella.github.io/publication/ssbse2017/</guid>
       <description></description>
     </item>
     

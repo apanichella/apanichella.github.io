@@ -11,6 +11,24 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>To be updated</title>
+      <link>https://apanichella.github.io/publication/tbd/</link>
+      <pubDate>Mon, 13 Aug 2018 20:14:56 +0200</pubDate>
+      
+      <guid>https://apanichella.github.io/publication/tbd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Java Unit Testing Tool Competition - Fifth Round</title>
+      <link>https://apanichella.github.io/publication/sbst2017/</link>
+      <pubDate>Mon, 13 Aug 2018 20:05:07 +0200</pubDate>
+      
+      <guid>https://apanichella.github.io/publication/sbst2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>On the Impact of Code Smells on the Energy Consumption of Mobile Applications</title>
       <link>https://apanichella.github.io/publication/infsoft2018a/</link>
       <pubDate>Mon, 13 Aug 2018 19:14:00 +0200</pubDate>
@@ -25,15 +43,6 @@
       <pubDate>Mon, 13 Aug 2018 18:55:36 +0200</pubDate>
       
       <guid>https://apanichella.github.io/publication/ieee-tse2018e/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>To be updated</title>
-      <link>https://apanichella.github.io/publication/tbd/</link>
-      <pubDate>Fri, 20 Jul 2018 00:16:07 +0200</pubDate>
-      
-      <guid>https://apanichella.github.io/publication/tbd/</guid>
       <description></description>
     </item>
     
@@ -133,15 +142,6 @@
       <pubDate>Tue, 10 Jul 2018 11:21:45 +0200</pubDate>
       
       <guid>https://apanichella.github.io/publication/ieee-tse2018a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Machine Learning- Driven Evolutionary Approach for Testing Web Application Firewalls</title>
-      <link>https://apanichella.github.io/publication/ieee-tr2018/</link>
-      <pubDate>Tue, 10 Jul 2018 11:11:22 +0200</pubDate>
-      
-      <guid>https://apanichella.github.io/publication/ieee-tr2018/</guid>
       <description></description>
     </item>
     

@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Mon, 13 Aug 2018 19:14:00 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 18 Aug 2018 07:39:53 +0200</lastBuildDate>
     
 	<atom:link href="https://apanichella.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Large Scale Empirical Comparison of State-of-the-art Search-based Test Case Generators</title>
+      <link>https://apanichella.github.io/publication/infsof2018b/</link>
+      <pubDate>Sat, 18 Aug 2018 07:39:53 +0200</pubDate>
+      
+      <guid>https://apanichella.github.io/publication/infsof2018b/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>On the Impact of Code Smells on the Energy Consumption of Mobile Applications</title>

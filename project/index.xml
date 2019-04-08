@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Annibale Panichella</title>
+    <link>https://apanichella.github.io/project/</link>
+    <description>Recent content in Projects on Annibale Panichella</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Mon, 08 Apr 2019 11:08:54 +0200</lastBuildDate>
+    
+	<atom:link href="https://apanichella.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Software Testing Amplification for the DevOps Team</title>
+      <link>https://apanichella.github.io/project/stamp/</link>
+      <pubDate>Mon, 08 Apr 2019 11:08:54 +0200</pubDate>
+      
+      <guid>https://apanichella.github.io/project/stamp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>University Blockchain Research Initiative </title>
+      <link>https://apanichella.github.io/project/ripple/</link>
+      <pubDate>Mon, 08 Apr 2019 11:08:49 +0200</pubDate>
+      
+      <guid>https://apanichella.github.io/project/ripple/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

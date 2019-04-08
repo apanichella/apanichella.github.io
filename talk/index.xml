@@ -12,5 +12,14 @@
 	<atom:link href="https://apanichella.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Speeding-up Software Testing using Computational intelligence</title>
+      <link>https://apanichella.github.io/talk/sen2019/</link>
+      <pubDate>Fri, 01 Feb 2019 11:17:15 +0200</pubDate>
+      
+      <guid>https://apanichella.github.io/talk/sen2019/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

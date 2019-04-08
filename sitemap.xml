@@ -5,6 +5,24 @@
     
     <url>
     
+      <loc>https://apanichella.github.io/project/stamp/</loc>
+      <lastmod>2019-04-08T11:08:54+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://apanichella.github.io/project/ripple/</loc>
+      <lastmod>2019-04-08T11:08:49+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://apanichella.github.io/publication/gecco2019/</loc>
       <lastmod>2019-04-08T10:45:30+02:00</lastmod>
     </url>
@@ -34,6 +52,15 @@
     
       <loc>https://apanichella.github.io/publication/emse2019/</loc>
       <lastmod>2019-04-08T10:11:19+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://apanichella.github.io/talk/sen2019/</loc>
+      <lastmod>2019-02-01T11:17:15+02:00</lastmod>
     </url>
     
   
@@ -461,6 +488,16 @@
     <url>
     
       <loc>https://apanichella.github.io/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://apanichella.github.io/project/</loc>
+      <lastmod>2019-04-08T11:08:54+02:00</lastmod>
       <priority>0</priority>
     </url>
     

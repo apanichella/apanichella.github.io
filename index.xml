@@ -11,6 +11,24 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Software Testing Amplification for the DevOps Team</title>
+      <link>https://apanichella.github.io/project/stamp/</link>
+      <pubDate>Mon, 08 Apr 2019 11:08:54 +0200</pubDate>
+      
+      <guid>https://apanichella.github.io/project/stamp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>University Blockchain Research Initiative </title>
+      <link>https://apanichella.github.io/project/ripple/</link>
+      <pubDate>Mon, 08 Apr 2019 11:08:49 +0200</pubDate>
+      
+      <guid>https://apanichella.github.io/project/ripple/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>An Adaptive Evolutionary Algorithm based on Non-Euclidean Geometry for Many-objective Optimization</title>
       <link>https://apanichella.github.io/publication/gecco2019/</link>
       <pubDate>Mon, 08 Apr 2019 10:45:30 +0200</pubDate>
@@ -43,6 +61,15 @@
       <pubDate>Mon, 08 Apr 2019 10:11:19 +0200</pubDate>
       
       <guid>https://apanichella.github.io/publication/emse2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Speeding-up Software Testing using Computational intelligence</title>
+      <link>https://apanichella.github.io/talk/sen2019/</link>
+      <pubDate>Fri, 01 Feb 2019 11:17:15 +0200</pubDate>
+      
+      <guid>https://apanichella.github.io/talk/sen2019/</guid>
       <description></description>
     </item>
     
@@ -115,33 +142,6 @@
       <pubDate>Fri, 20 Jul 2018 00:04:04 +0200</pubDate>
       
       <guid>https://apanichella.github.io/publication/icse2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>An Investigation of Compression Techniques to Speed up Mutation Testing</title>
-      <link>https://apanichella.github.io/publication/icst2018/</link>
-      <pubDate>Fri, 20 Jul 2018 00:03:02 +0200</pubDate>
-      
-      <guid>https://apanichella.github.io/publication/icst2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Testing Autonomous Cars for Feature Interaction Failures using Many-Objective Search</title>
-      <link>https://apanichella.github.io/publication/ase2018/</link>
-      <pubDate>Fri, 20 Jul 2018 00:01:56 +0200</pubDate>
-      
-      <guid>https://apanichella.github.io/publication/ase2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Java Unit Testing Tool Competition - Sixth Round</title>
-      <link>https://apanichella.github.io/publication/sbst2018/</link>
-      <pubDate>Fri, 20 Jul 2018 00:01:14 +0200</pubDate>
-      
-      <guid>https://apanichella.github.io/publication/sbst2018/</guid>
       <description></description>
     </item>
     

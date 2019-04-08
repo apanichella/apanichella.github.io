@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Fri, 20 Jul 2018 00:07:54 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 08 Apr 2019 10:41:50 +0200</lastBuildDate>
     
 	<atom:link href="https://apanichella.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>EvoSuite at the SBST 2019 Tool Competition</title>
+      <link>https://apanichella.github.io/publication/sbst2019b/</link>
+      <pubDate>Mon, 08 Apr 2019 10:41:50 +0200</pubDate>
+      
+      <guid>https://apanichella.github.io/publication/sbst2019b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beyond Unit-Testing in Search-based Test Case Generation: Challenges and Opportunities</title>
+      <link>https://apanichella.github.io/publication/sbst2019a/</link>
+      <pubDate>Mon, 08 Apr 2019 10:39:03 +0200</pubDate>
+      
+      <guid>https://apanichella.github.io/publication/sbst2019a/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Incremental Control Dependency Frontier Exploration for Many-Criteria Test Case Generation</title>

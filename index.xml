@@ -11,11 +11,38 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>To be updated</title>
-      <link>https://apanichella.github.io/publication/tbd/</link>
-      <pubDate>Sat, 08 Sep 2018 12:03:22 +0200</pubDate>
+      <title>An Adaptive Evolutionary Algorithm based on Non-Euclidean Geometry for Many-objective Optimization</title>
+      <link>https://apanichella.github.io/publication/gecco2019/</link>
+      <pubDate>Mon, 08 Apr 2019 10:45:30 +0200</pubDate>
       
-      <guid>https://apanichella.github.io/publication/tbd/</guid>
+      <guid>https://apanichella.github.io/publication/gecco2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EvoSuite at the SBST 2019 Tool Competition</title>
+      <link>https://apanichella.github.io/publication/sbst2019b/</link>
+      <pubDate>Mon, 08 Apr 2019 10:41:50 +0200</pubDate>
+      
+      <guid>https://apanichella.github.io/publication/sbst2019b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beyond Unit-Testing in Search-based Test Case Generation: Challenges and Opportunities</title>
+      <link>https://apanichella.github.io/publication/sbst2019a/</link>
+      <pubDate>Mon, 08 Apr 2019 10:39:03 +0200</pubDate>
+      
+      <guid>https://apanichella.github.io/publication/sbst2019a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Search-based Multi-Vulnerability Testing of XML Injections in Web Applications</title>
+      <link>https://apanichella.github.io/publication/emse2019/</link>
+      <pubDate>Mon, 08 Apr 2019 10:11:19 +0200</pubDate>
+      
+      <guid>https://apanichella.github.io/publication/emse2019/</guid>
       <description></description>
     </item>
     
@@ -115,33 +142,6 @@
       <pubDate>Fri, 20 Jul 2018 00:01:14 +0200</pubDate>
       
       <guid>https://apanichella.github.io/publication/sbst2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Scent of a Smell: An Extensive Comparison between Textual and Structural Smells</title>
-      <link>https://apanichella.github.io/publication/ieee-tse2018d/</link>
-      <pubDate>Tue, 10 Jul 2018 11:25:49 +0200</pubDate>
-      
-      <guid>https://apanichella.github.io/publication/ieee-tse2018d/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Developer Testing in The IDE: Patterns, Beliefs, And Behavior</title>
-      <link>https://apanichella.github.io/publication/ieee-tse2018c/</link>
-      <pubDate>Tue, 10 Jul 2018 11:24:46 +0200</pubDate>
-      
-      <guid>https://apanichella.github.io/publication/ieee-tse2018c/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Automated Test Case Generation as a Many-Objective Optimisation Problem with Dynamic Selection of the Targets</title>
-      <link>https://apanichella.github.io/publication/ieee-tse2018b/</link>
-      <pubDate>Tue, 10 Jul 2018 11:23:34 +0200</pubDate>
-      
-      <guid>https://apanichella.github.io/publication/ieee-tse2018b/</guid>
       <description></description>
     </item>
     

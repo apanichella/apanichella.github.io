@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>https://apanichella.github.io/tools/age-moea/</loc>
+      <lastmod>2019-04-08T11:08:54+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://apanichella.github.io/project/stamp/</loc>
       <lastmod>2019-04-08T11:08:54+02:00</lastmod>
     </url>
@@ -487,7 +496,47 @@
     
     <url>
     
+      <loc>https://apanichella.github.io/tags/benchmark/</loc>
+      <lastmod>2019-04-08T11:08:54+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://apanichella.github.io/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://apanichella.github.io/tags/evolutionary-computation/</loc>
+      <lastmod>2019-04-08T11:08:54+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://apanichella.github.io/tags/many-objective-optimization/</loc>
+      <lastmod>2019-04-08T11:08:54+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://apanichella.github.io/tags/matlab/</loc>
+      <lastmod>2019-04-08T11:08:54+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -518,6 +567,16 @@
     
       <loc>https://apanichella.github.io/tags/</loc>
       <lastmod>2018-07-10T11:11:22+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://apanichella.github.io/tools/</loc>
+      <lastmod>2019-04-08T11:08:54+02:00</lastmod>
       <priority>0</priority>
     </url>
     

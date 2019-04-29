@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>A Systematic Comparison of Search Algorithms for Topic Modelling --- A Study on Duplicate Bug Report Identification</title>
+      <link>https://apanichella.github.io/publication/ssbse2019/</link>
+      <pubDate>Mon, 29 Apr 2019 23:16:23 +0200</pubDate>
+      
+      <guid>https://apanichella.github.io/publication/ssbse2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>AGE-MOEA</title>
       <link>https://apanichella.github.io/tools/age-moea/</link>
       <pubDate>Mon, 08 Apr 2019 11:08:54 +0200</pubDate>
@@ -157,15 +166,6 @@ Download the zip file (see link above) and extract its content in the folder &lt
       <pubDate>Fri, 20 Jul 2018 00:06:34 +0200</pubDate>
       
       <guid>https://apanichella.github.io/publication/ssbse2018a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Search-based Approach for Accurate Identification of Log Message Formats</title>
-      <link>https://apanichella.github.io/publication/icpc2018/</link>
-      <pubDate>Fri, 20 Jul 2018 00:05:13 +0200</pubDate>
-      
-      <guid>https://apanichella.github.io/publication/icpc2018/</guid>
       <description></description>
     </item>
     

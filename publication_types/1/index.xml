@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Mon, 29 Apr 2019 23:16:23 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2019 20:22:51 +0200</lastBuildDate>
     
 	<atom:link href="https://apanichella.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Effective and Efficient API Misuse Detection via Exception Propagation and Search-based Testing</title>
+      <link>https://apanichella.github.io/publication/issta2019/</link>
+      <pubDate>Wed, 01 May 2019 20:22:51 +0200</pubDate>
+      
+      <guid>https://apanichella.github.io/publication/issta2019/</guid>
+      <description>Abstract : Application Programming Interfaces (APIs) typically come with (implicit) usage constraints. The violations of these constraints (API misuses) can lead to software crashes. Even though there are several tools that can detect API misuses, most of them suffer from a very high rate of false positives. We introduce Catcher, a novel API misuse detection approach that combines static exception propagation analysis with automatic search-based test case generation to effectively and efficiently pinpoint crash-prone API misuses in client applications.</description>
+    </item>
     
     <item>
       <title>A Systematic Comparison of Search Algorithms for Topic Modelling --- A Study on Duplicate Bug Report Identification</title>

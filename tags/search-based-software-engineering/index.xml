@@ -7,10 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 01 May 2019 20:22:51 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jun 2019 10:29:32 +0200</lastBuildDate>
     
 	<atom:link href="https://apanichella.github.io/tags/search-based-software-engineering/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Search-Based-LDA</title>
+      <link>https://apanichella.github.io/tools/ssbse-lda/</link>
+      <pubDate>Wed, 26 Jun 2019 10:29:32 +0200</pubDate>
+      
+      <guid>https://apanichella.github.io/tools/ssbse-lda/</guid>
+      <description>A Systematic Comparison of Search Algorithms for Topic Modelling - A Study on Duplicate Bug Report Identification
+Author Annibale Panichella
+Venue SSBSE 2019
+Abstract Latent Dirichlet Allocation (LDA) has been used to support many software engineering tasks. Previous studies showed that default settings lead to sub-optimal topic modeling with a dramatic impact on the performance of such approaches in terms of precision and recall. For this reason, researchers used search algorithms (e.</description>
+    </item>
     
     <item>
       <title>Effective and Efficient API Misuse Detection via Exception Propagation and Search-based Testing</title>
@@ -22,7 +34,7 @@
     </item>
     
     <item>
-      <title>A Systematic Comparison of Search Algorithms for Topic Modelling --- A Study on Duplicate Bug Report Identification</title>
+      <title>A Systematic Comparison of Search Algorithms for Topic Modelling - A Study on Duplicate Bug Report Identification</title>
       <link>https://apanichella.github.io/publication/ssbse2019/</link>
       <pubDate>Mon, 29 Apr 2019 23:16:23 +0200</pubDate>
       

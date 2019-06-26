@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>https://apanichella.github.io/tools/ssbse-lda/</loc>
+      <lastmod>2019-06-26T10:29:32+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://apanichella.github.io/publication/issta2019/</loc>
       <lastmod>2019-05-01T20:22:51+02:00</lastmod>
     </url>
@@ -553,6 +562,16 @@
     
     <url>
     
+      <loc>https://apanichella.github.io/tags/meta-heuristics/</loc>
+      <lastmod>2019-06-26T10:29:32+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://apanichella.github.io/project/</loc>
       <lastmod>2019-04-08T11:08:54+02:00</lastmod>
       <priority>0</priority>
@@ -574,7 +593,7 @@
     <url>
     
       <loc>https://apanichella.github.io/tags/search-based-software-engineering/</loc>
-      <lastmod>2019-05-01T20:22:51+02:00</lastmod>
+      <lastmod>2019-06-26T10:29:32+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -614,7 +633,7 @@
     <url>
     
       <loc>https://apanichella.github.io/tools/</loc>
-      <lastmod>2019-04-08T11:08:54+02:00</lastmod>
+      <lastmod>2019-06-26T10:29:32+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -624,7 +643,17 @@
     <url>
     
       <loc>https://apanichella.github.io/tags/topic-model/</loc>
-      <lastmod>2019-04-29T23:16:23+02:00</lastmod>
+      <lastmod>2019-06-26T10:29:32+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://apanichella.github.io/tags/unsupervised-learning/</loc>
+      <lastmod>2019-06-26T10:29:32+02:00</lastmod>
       <priority>0</priority>
     </url>
     

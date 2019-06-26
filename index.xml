@@ -11,6 +11,50 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Search-Based-LDA</title>
+      <link>https://apanichella.github.io/tools/ssbse-lda/</link>
+      <pubDate>Wed, 26 Jun 2019 10:29:32 +0200</pubDate>
+      
+      <guid>https://apanichella.github.io/tools/ssbse-lda/</guid>
+      <description>
+
+&lt;p&gt;A Systematic Comparison of Search Algorithms for Topic Modelling - A Study on Duplicate
+Bug Report Identification&lt;/p&gt;
+
+&lt;h3 id=&#34;author&#34;&gt;Author&lt;/h3&gt;
+
+&lt;p&gt;Annibale Panichella&lt;/p&gt;
+
+&lt;h3 id=&#34;venue&#34;&gt;Venue&lt;/h3&gt;
+
+&lt;p&gt;SSBSE 2019&lt;/p&gt;
+
+&lt;h4 id=&#34;abstract&#34;&gt;Abstract&lt;/h4&gt;
+
+&lt;p&gt;Latent Dirichlet Allocation (LDA) has been used to support
+many software engineering tasks. Previous studies showed that default
+settings lead to sub-optimal topic modeling with a dramatic impact
+on the performance of such approaches in terms of precision and
+recall. For this reason, researchers used search algorithms (e.g., genetic
+algorithms) to automatically configure topic models in an unsupervised
+fashion. While previous work showed the ability of individual search algorithms
+in finding near-optimal configurations, it is not clear to what
+extent the choice of the meta-heuristic matters for SE tasks. In this paper,
+we present a systematic comparison of five different meta-heuristics
+to configure LDA in the context of duplicate bug reports identification.
+The results show that (1) no master algorithm outperforms the others
+for all software projects, (2) random search and PSO are the least effective
+meta-heuristics. Finally, the running time strongly depends on the
+computational complexity of LDA while the internal complexity of the
+search algorithms plays a negligible role.&lt;/p&gt;
+
+&lt;h3 id=&#34;getting-started&#34;&gt;Getting started&lt;/h3&gt;
+
+&lt;p&gt;The source code is available in GitHub at the link: &lt;a href=&#34;https://github.com/apanichella/Search-Based-LDA&#34; target=&#34;_blank&#34;&gt;https://github.com/apanichella/Search-Based-LDA&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Effective and Efficient API Misuse Detection via Exception Propagation and Search-based Testing</title>
       <link>https://apanichella.github.io/publication/issta2019/</link>
       <pubDate>Wed, 01 May 2019 20:22:51 +0200</pubDate>
@@ -42,7 +86,7 @@ are unexpected to developers i.e., not only unhandled in the source code but als
     </item>
     
     <item>
-      <title>A Systematic Comparison of Search Algorithms for Topic Modelling --- A Study on Duplicate Bug Report Identification</title>
+      <title>A Systematic Comparison of Search Algorithms for Topic Modelling - A Study on Duplicate Bug Report Identification</title>
       <link>https://apanichella.github.io/publication/ssbse2019/</link>
       <pubDate>Mon, 29 Apr 2019 23:16:23 +0200</pubDate>
       
@@ -179,15 +223,6 @@ Download the zip file (see link above) and extract its content in the folder &lt
       <pubDate>Mon, 13 Aug 2018 18:55:36 +0200</pubDate>
       
       <guid>https://apanichella.github.io/publication/ieee-tse2018e/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Incremental Control Dependency Frontier Exploration for Many-Criteria Test Case Generation</title>
-      <link>https://apanichella.github.io/publication/ssbse2018b/</link>
-      <pubDate>Fri, 20 Jul 2018 00:07:54 +0200</pubDate>
-      
-      <guid>https://apanichella.github.io/publication/ssbse2018b/</guid>
       <description></description>
     </item>
     

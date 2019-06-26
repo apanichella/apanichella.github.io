@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Topic Model on Annibale Panichella</title>
-    <link>https://apanichella.github.io/tags/topic-model/</link>
-    <description>Recent content in Topic Model on Annibale Panichella</description>
+    <title>Meta-heuristics on Annibale Panichella</title>
+    <link>https://apanichella.github.io/tags/meta-heuristics/</link>
+    <description>Recent content in Meta-heuristics on Annibale Panichella</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Wed, 26 Jun 2019 10:29:32 +0200</lastBuildDate>
     
-	<atom:link href="https://apanichella.github.io/tags/topic-model/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://apanichella.github.io/tags/meta-heuristics/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -22,15 +22,6 @@
 Author Annibale Panichella
 Venue SSBSE 2019
 Abstract Latent Dirichlet Allocation (LDA) has been used to support many software engineering tasks. Previous studies showed that default settings lead to sub-optimal topic modeling with a dramatic impact on the performance of such approaches in terms of precision and recall. For this reason, researchers used search algorithms (e.</description>
-    </item>
-    
-    <item>
-      <title>A Systematic Comparison of Search Algorithms for Topic Modelling - A Study on Duplicate Bug Report Identification</title>
-      <link>https://apanichella.github.io/publication/ssbse2019/</link>
-      <pubDate>Mon, 29 Apr 2019 23:16:23 +0200</pubDate>
-      
-      <guid>https://apanichella.github.io/publication/ssbse2019/</guid>
-      <description></description>
     </item>
     
   </channel>

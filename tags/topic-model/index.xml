@@ -30,7 +30,7 @@ Abstract Latent Dirichlet Allocation (LDA) has been used to support many softwar
       <pubDate>Mon, 29 Apr 2019 23:16:23 +0200</pubDate>
       
       <guid>https://apanichella.github.io/publication/ssbse2019/</guid>
-      <description></description>
+      <description>Abstract Latent Dirichlet Allocation (LDA) has been used to support many software engineering tasks. Previous studies showed that default settings lead to sub-optimal topic modeling with a dramatic impact on the performance of such approaches in terms of precision and recall. For this reason, researchers used search algorithms (e.g., genetic algorithms) to automatically configure topic models in an unsupervised fashion. While previous work showed the ability of individual search algorithms in finding near-optimal configurations, it is not clear to what extent the choice of the meta-heuristic matters for SE tasks.</description>
     </item>
     
   </channel>

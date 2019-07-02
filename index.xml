@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>JCOMIX: A Search-Based Tool to Detect XML Injection Vulnerabilities in Web Applications</title>
+      <link>https://apanichella.github.io/publication/esec-fse2019/</link>
+      <pubDate>Wed, 26 Jun 2019 10:41:41 +0200</pubDate>
+      
+      <guid>https://apanichella.github.io/publication/esec-fse2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Search-Based-LDA</title>
       <link>https://apanichella.github.io/tools/ssbse-lda/</link>
       <pubDate>Wed, 26 Jun 2019 10:29:32 +0200</pubDate>
@@ -91,7 +100,12 @@ are unexpected to developers i.e., not only unhandled in the source code but als
       <pubDate>Mon, 29 Apr 2019 23:16:23 +0200</pubDate>
       
       <guid>https://apanichella.github.io/publication/ssbse2019/</guid>
-      <description></description>
+      <description>
+
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+
+&lt;p&gt;Latent Dirichlet Allocation (LDA) has been used to support many software engineering tasks. Previous studies showed that default settings lead to sub-optimal topic modeling with a dramatic impact on the performance of such approaches in terms of precision and recall. For this reason, researchers used search algorithms (e.g., genetic algorithms) to automatically configure topic models in an unsupervised fashion. While previous work showed the ability of individual search algorithms in finding near-optimal configurations, it is not clear to what extent the choice of the meta-heuristic matters for SE tasks. In this paper, we present a systematic comparison of five different meta-heuristics to configure LDA in the context of duplicate bug reports identification. The results show that (1) no master algorithm outperforms the others for all software projects, (2) random search and PSO are the least effective meta-heuristics. Finally, the running time strongly depends on the computational complexity of LDA while the internal complexity of the search algorithms plays a negligible role.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -120,7 +134,7 @@ are unexpected to developers i.e., not only unhandled in the source code but als
 
 &lt;h3 id=&#34;getting-started&#34;&gt;Getting started&lt;/h3&gt;
 
-&lt;p&gt;The source code of AGE-MOEA can be downloaded: &lt;a href=&#34;AGEMOEA.zip&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The source code of AGE-MOEA can be downloaded: &lt;a href=&#34;https://github.com/apanichella/PlatEMO&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;AGE-MOEA is implemented as a module (algorithm) to include in the platform &lt;a href=&#34;https://github.com/BIMK/PlatEMO&#34;&gt;PlatEMO&lt;/a&gt;.
 Download the zip file (see link above) and extract its content in the folder &lt;code&gt;Algorithms&lt;/code&gt; of &lt;code&gt;PlatEMO&lt;/code&gt;.&lt;/p&gt;
@@ -214,15 +228,6 @@ Download the zip file (see link above) and extract its content in the folder &lt
       <pubDate>Mon, 13 Aug 2018 19:14:00 +0200</pubDate>
       
       <guid>https://apanichella.github.io/publication/infsoft2018a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Search-Based Crash Reproduction and Its Impact on Debugging</title>
-      <link>https://apanichella.github.io/publication/ieee-tse2018e/</link>
-      <pubDate>Mon, 13 Aug 2018 18:55:36 +0200</pubDate>
-      
-      <guid>https://apanichella.github.io/publication/ieee-tse2018e/</guid>
       <description></description>
     </item>
     

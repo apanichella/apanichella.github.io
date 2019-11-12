@@ -21,5 +21,14 @@
       <description>Abstract: Automated test case generation is an effective technique to yield high-coverage test suites. While the majority of research effort has been devoted to satisfying coverage criteria, a recent trend emerged towards optimizing other non-coverage aspects. In this regard, runtime and memory usage are two essential dimensions: less expensive tests reduce the resource demands for the generation process and later regression testing phases. This study shows that performance-aware test case generation requires solving two main challenges: providing a good approximation of resource usage with minimal overhead and</description>
     </item>
     
+    <item>
+      <title>A Large Scale Empirical Comparison of State-of-the-art Search-based Test Case Generators</title>
+      <link>https://apanichella.github.io/publication/infsof2018b/</link>
+      <pubDate>Sat, 18 Aug 2018 07:39:53 +0200</pubDate>
+      
+      <guid>https://apanichella.github.io/publication/infsof2018b/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

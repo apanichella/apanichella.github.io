@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 26 Jun 2019 10:41:41 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2020 17:08:37 +0100</lastBuildDate>
     
 	<atom:link href="https://apanichella.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>LogChunks: A Data Set for Build Log Analysis</title>
+      <link>https://apanichella.github.io/publication/msrdata2019/</link>
+      <pubDate>Tue, 03 Mar 2020 17:08:37 +0100</pubDate>
+      
+      <guid>https://apanichella.github.io/publication/msrdata2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oracle Issues in Machine Learning and Where to Find Them</title>
+      <link>https://apanichella.github.io/publication/raise2020/</link>
+      <pubDate>Tue, 03 Mar 2020 16:20:15 +0100</pubDate>
+      
+      <guid>https://apanichella.github.io/publication/raise2020/</guid>
+      <description>Abstract: The rise in popularity of machine learning (ML), and deep learning in particular, has both led to optimism about achievements of artificial intelligence, as well as concerns about possible weaknesses and vulnerabilities of ML pipelines. Within the software engineering community, this has led to a considerable body of work on ML testing techniques, including white- and black-box testing for ML models. This means the oracle problem needs to be addressed; for supervised ML applications, oracle information is indeed available in the form of dataset &amp;ldquo;ground truth&amp;rdquo;, that encodes input data with corresponding desired output labels.</description>
+    </item>
     
     <item>
       <title>JCOMIX: A Search-Based Tool to Detect XML Injection Vulnerabilities in Web Applications</title>

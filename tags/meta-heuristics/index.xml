@@ -24,5 +24,14 @@ Venue SSBSE 2019
 Abstract Latent Dirichlet Allocation (LDA) has been used to support many software engineering tasks. Previous studies showed that default settings lead to sub-optimal topic modeling with a dramatic impact on the performance of such approaches in terms of precision and recall. For this reason, researchers used search algorithms (e.</description>
     </item>
     
+    <item>
+      <title>A Search-based Approach for Accurate Identification of Log Message Formats</title>
+      <link>https://apanichella.github.io/publication/icpc2018/</link>
+      <pubDate>Fri, 20 Jul 2018 00:05:13 +0200</pubDate>
+      
+      <guid>https://apanichella.github.io/publication/icpc2018/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

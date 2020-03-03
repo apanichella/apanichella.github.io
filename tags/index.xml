@@ -22,11 +22,38 @@
     </item>
     
     <item>
+      <title>AI</title>
+      <link>https://apanichella.github.io/tags/ai/</link>
+      <pubDate>Tue, 03 Mar 2020 16:20:15 +0100</pubDate>
+      
+      <guid>https://apanichella.github.io/tags/ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Benchmark</title>
       <link>https://apanichella.github.io/tags/benchmark/</link>
       <pubDate>Mon, 08 Apr 2019 11:08:54 +0200</pubDate>
       
       <guid>https://apanichella.github.io/tags/benchmark/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dataset</title>
+      <link>https://apanichella.github.io/tags/dataset/</link>
+      <pubDate>Tue, 03 Mar 2020 17:08:37 +0100</pubDate>
+      
+      <guid>https://apanichella.github.io/tags/dataset/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>https://apanichella.github.io/tags/deep-learning/</link>
+      <pubDate>Tue, 03 Mar 2020 16:20:15 +0100</pubDate>
+      
+      <guid>https://apanichella.github.io/tags/deep-learning/</guid>
       <description></description>
     </item>
     
@@ -54,6 +81,15 @@
       <pubDate>Wed, 09 Oct 2019 09:51:33 +0200</pubDate>
       
       <guid>https://apanichella.github.io/tags/evolutionary-testing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Log Analysis</title>
+      <link>https://apanichella.github.io/tags/log-analysis/</link>
+      <pubDate>Tue, 03 Mar 2020 17:08:37 +0100</pubDate>
+      
+      <guid>https://apanichella.github.io/tags/log-analysis/</guid>
       <description></description>
     </item>
     
@@ -135,6 +171,15 @@
       <pubDate>Wed, 09 Oct 2019 09:51:33 +0200</pubDate>
       
       <guid>https://apanichella.github.io/tags/test-case-generation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test Oracle</title>
+      <link>https://apanichella.github.io/tags/test-oracle/</link>
+      <pubDate>Tue, 03 Mar 2020 16:20:15 +0100</pubDate>
+      
+      <guid>https://apanichella.github.io/tags/test-oracle/</guid>
       <description></description>
     </item>
     

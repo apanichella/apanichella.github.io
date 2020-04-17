@@ -21,8 +21,13 @@
       <description></description>
     </item>
     
-  </channel>
-</rss>Abstract In the last decade, several evolutionary algorithms have been proposed in the literature for solving multi- and many-objective optimization problems. The performance of such algorithms depends on their capability to produce a well-diversified front (diversity) that is as closer to the Pareto optimal front as possible (proximity). Diversity and proximity strongly depend on the geometry of the Pareto front, i.</description>
+    <item>
+      <title>Incremental Control Dependency Frontier Exploration for Many-Criteria Test Case Generation</title>
+      <link>https://apanichella.github.io/publication/ssbse2018b/</link>
+      <pubDate>Fri, 20 Jul 2018 00:07:54 +0200</pubDate>
+      
+      <guid>https://apanichella.github.io/publication/ssbse2018b/</guid>
+      <description></description>
     </item>
     
   </channel>

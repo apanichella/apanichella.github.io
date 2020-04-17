@@ -21,5 +21,14 @@
       <description>Abstract: The rise in popularity of machine learning (ML), and deep learning in particular, has both led to optimism about achievements of artificial intelligence, as well as concerns about possible weaknesses and vulnerabilities of ML pipelines. Within the software engineering community, this has led to a considerable body of work on ML testing techniques, including white- and black-box testing for ML models. This means the oracle problem needs to be addressed; for supervised ML applications, oracle information is indeed available in the form of dataset “ground truth”, that encodes input data with corresponding desired output labels.</description>
     </item>
     
+    <item>
+      <title>Testing Autonomous Cars for Feature Interaction Failures using Many-Objective Search</title>
+      <link>https://apanichella.github.io/publication/ase2018/</link>
+      <pubDate>Fri, 20 Jul 2018 00:01:56 +0200</pubDate>
+      
+      <guid>https://apanichella.github.io/publication/ase2018/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>EvoSuite at the SBST 2020 Tool Competition</title>
+      <link>https://apanichella.github.io/publication/sbst2020/</link>
+      <pubDate>Fri, 17 Apr 2020 17:56:40 +0200</pubDate>
+      
+      <guid>https://apanichella.github.io/publication/sbst2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Automated Repair of Feature Interaction Failures in Automated Driving Systems</title>
       <link>https://apanichella.github.io/publication/issta2020/</link>
       <pubDate>Fri, 17 Apr 2020 17:32:54 +0200</pubDate>
@@ -235,15 +244,6 @@ Download the zip file (see link above) and extract its content in the folder &lt
       <pubDate>Mon, 08 Apr 2019 10:39:03 +0200</pubDate>
       
       <guid>https://apanichella.github.io/publication/sbst2019a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Search-based Multi-Vulnerability Testing of XML Injections in Web Applications</title>
-      <link>https://apanichella.github.io/publication/emse2019/</link>
-      <pubDate>Mon, 08 Apr 2019 10:11:19 +0200</pubDate>
-      
-      <guid>https://apanichella.github.io/publication/emse2019/</guid>
       <description></description>
     </item>
     

@@ -11,6 +11,17 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>ISSTA2020</title>
+      <link>https://apanichella.github.io/publication/issta2020/</link>
+      <pubDate>Fri, 17 Apr 2020 17:32:54 +0200</pubDate>
+      
+      <guid>https://apanichella.github.io/publication/issta2020/</guid>
+      <description>&lt;p&gt;Abstract:
+The rise in popularity of machine learning (ML), and deep learning in particular, has both led to optimism about achievements of artificial intelligence, as well as concerns about possible weaknesses and vulnerabilities of ML pipelines. Within the software engineering community, this has led to a considerable body of work on ML testing techniques, including white- and black-box testing for ML models. This means the oracle problem needs to be addressed; for supervised ML applications, oracle information is indeed available in the form of dataset “ground truth”, that encodes input data with corresponding desired output labels. However, while ground truth forms a gold standard, there still is no guarantee it is truly correct. Indeed, syntactic, semantic, and conceptual framing issues in the oracle may negatively affect the ML system integrity. While syntactic issues may be automatically verified and corrected, the higher-level issues traditionally need human judgment and manual analysis. In this paper, we employ two heuristics based on information entropy and semantic analysis on well-known computer vision models and benchmark data from ImageNet. The heuristics are used to semi-automatically uncover potential higher-level issues in (i) the label taxonomy used to define the ground truth oracle (labels), and (ii) data encoding and representation. In doing this, beyond existing ML testing efforts, we illustrate the need for SE strategies that especially target and assess the oracle.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>LogChunks: A Data Set for Build Log Analysis</title>
       <link>https://apanichella.github.io/publication/msrdata2019/</link>
       <pubDate>Tue, 03 Mar 2020 17:08:37 +0100</pubDate>
@@ -233,15 +244,6 @@ Download the zip file (see link above) and extract its content in the folder &lt
       <pubDate>Mon, 08 Apr 2019 10:11:19 +0200</pubDate>
       
       <guid>https://apanichella.github.io/publication/emse2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Speeding-up Software Testing using Computational intelligence</title>
-      <link>https://apanichella.github.io/talk/sen2019/</link>
-      <pubDate>Fri, 01 Feb 2019 11:17:15 +0200</pubDate>
-      
-      <guid>https://apanichella.github.io/talk/sen2019/</guid>
       <description></description>
     </item>
     

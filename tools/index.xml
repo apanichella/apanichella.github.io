@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tools on Annibale Panichella</title>
@@ -18,10 +18,7 @@
       <pubDate>Wed, 26 Jun 2019 10:29:32 +0200</pubDate>
       
       <guid>https://apanichella.github.io/tools/ssbse-lda/</guid>
-      <description>A Systematic Comparison of Search Algorithms for Topic Modelling - A Study on Duplicate Bug Report Identification
-Author Annibale Panichella
-Venue SSBSE 2019
-Abstract Latent Dirichlet Allocation (LDA) has been used to support many software engineering tasks. Previous studies showed that default settings lead to sub-optimal topic modeling with a dramatic impact on the performance of such approaches in terms of precision and recall. For this reason, researchers used search algorithms (e.</description>
+      <description>R Scripts to configure LDA using meta-heuristics</description>
     </item>
     
     <item>
@@ -30,10 +27,7 @@ Abstract Latent Dirichlet Allocation (LDA) has been used to support many softwar
       <pubDate>Mon, 08 Apr 2019 11:08:54 +0200</pubDate>
       
       <guid>https://apanichella.github.io/tools/age-moea/</guid>
-      <description>Title An Adaptive Evolutionary Algorithm based on Non-Euclidean Geometry for Many-objective Optimization
-Author Annibale Panichella
-Venue GECCO 2019
-Abstract In the last decade, several evolutionary algorithms have been proposed in the literature for solving multi- and many-objective optimization problems. The performance of such algorithms depends on their capability to produce a well-diversified front (diversity) that is as closer to the Pareto optimal front as possible (proximity). Diversity and proximity strongly depend on the geometry of the Pareto front, i.</description>
+      <description>Implementation of AGE-MOEA in Matlab</description>
     </item>
     
   </channel>

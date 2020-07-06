@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Annibale Panichella</title>
@@ -7,35 +7,71 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Tue, 10 Jul 2018 11:11:22 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2020 11:29:27 +0200</lastBuildDate>
     
 	<atom:link href="https://apanichella.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title></title>
-      <link>https://apanichella.github.io/tags/</link>
-      <pubDate>Tue, 10 Jul 2018 11:11:22 +0200</pubDate>
+      <title>EvoSuite</title>
+      <link>https://apanichella.github.io/tags/evosuite/</link>
+      <pubDate>Mon, 06 Jul 2020 11:29:27 +0200</pubDate>
       
-      <guid>https://apanichella.github.io/tags/</guid>
+      <guid>https://apanichella.github.io/tags/evosuite/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>AI</title>
-      <link>https://apanichella.github.io/tags/ai/</link>
-      <pubDate>Tue, 03 Mar 2020 16:20:15 +0100</pubDate>
+      <title>Fuzzing</title>
+      <link>https://apanichella.github.io/tags/fuzzing/</link>
+      <pubDate>Mon, 06 Jul 2020 11:29:27 +0200</pubDate>
       
-      <guid>https://apanichella.github.io/tags/ai/</guid>
+      <guid>https://apanichella.github.io/tags/fuzzing/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Benchmark</title>
-      <link>https://apanichella.github.io/tags/benchmark/</link>
-      <pubDate>Mon, 08 Apr 2019 11:08:54 +0200</pubDate>
+      <title>Many-objective Optimization</title>
+      <link>https://apanichella.github.io/tags/many-objective-optimization/</link>
+      <pubDate>Mon, 06 Jul 2020 11:29:27 +0200</pubDate>
       
-      <guid>https://apanichella.github.io/tags/benchmark/</guid>
+      <guid>https://apanichella.github.io/tags/many-objective-optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>search-based software engineering</title>
+      <link>https://apanichella.github.io/tags/search-based-software-engineering/</link>
+      <pubDate>Mon, 06 Jul 2020 11:29:27 +0200</pubDate>
+      
+      <guid>https://apanichella.github.io/tags/search-based-software-engineering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>test case generation</title>
+      <link>https://apanichella.github.io/tags/test-case-generation/</link>
+      <pubDate>Mon, 06 Jul 2020 11:29:27 +0200</pubDate>
+      
+      <guid>https://apanichella.github.io/tags/test-case-generation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>program repair</title>
+      <link>https://apanichella.github.io/tags/program-repair/</link>
+      <pubDate>Fri, 17 Apr 2020 17:32:54 +0200</pubDate>
+      
+      <guid>https://apanichella.github.io/tags/program-repair/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>self-driving cars</title>
+      <link>https://apanichella.github.io/tags/self-driving-cars/</link>
+      <pubDate>Fri, 17 Apr 2020 17:32:54 +0200</pubDate>
+      
+      <guid>https://apanichella.github.io/tags/self-driving-cars/</guid>
       <description></description>
     </item>
     
@@ -49,6 +85,24 @@
     </item>
     
     <item>
+      <title>Log Analysis</title>
+      <link>https://apanichella.github.io/tags/log-analysis/</link>
+      <pubDate>Tue, 03 Mar 2020 17:08:37 +0100</pubDate>
+      
+      <guid>https://apanichella.github.io/tags/log-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AI</title>
+      <link>https://apanichella.github.io/tags/ai/</link>
+      <pubDate>Tue, 03 Mar 2020 16:20:15 +0100</pubDate>
+      
+      <guid>https://apanichella.github.io/tags/ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Deep Learning</title>
       <link>https://apanichella.github.io/tags/deep-learning/</link>
       <pubDate>Tue, 03 Mar 2020 16:20:15 +0100</pubDate>
@@ -58,20 +112,11 @@
     </item>
     
     <item>
-      <title>EvoSuite</title>
-      <link>https://apanichella.github.io/tags/evosuite/</link>
-      <pubDate>Sat, 18 Aug 2018 07:39:53 +0200</pubDate>
+      <title>Test Oracle</title>
+      <link>https://apanichella.github.io/tags/test-oracle/</link>
+      <pubDate>Tue, 03 Mar 2020 16:20:15 +0100</pubDate>
       
-      <guid>https://apanichella.github.io/tags/evosuite/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Evolutionary Computation</title>
-      <link>https://apanichella.github.io/tags/evolutionary-computation/</link>
-      <pubDate>Mon, 08 Apr 2019 11:08:54 +0200</pubDate>
-      
-      <guid>https://apanichella.github.io/tags/evolutionary-computation/</guid>
+      <guid>https://apanichella.github.io/tags/test-oracle/</guid>
       <description></description>
     </item>
     
@@ -85,38 +130,11 @@
     </item>
     
     <item>
-      <title>Log Analysis</title>
-      <link>https://apanichella.github.io/tags/log-analysis/</link>
-      <pubDate>Tue, 03 Mar 2020 17:08:37 +0100</pubDate>
+      <title>Performance Testing</title>
+      <link>https://apanichella.github.io/tags/performance-testing/</link>
+      <pubDate>Wed, 09 Oct 2019 09:51:33 +0200</pubDate>
       
-      <guid>https://apanichella.github.io/tags/log-analysis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Many-objective Optimization</title>
-      <link>https://apanichella.github.io/tags/many-objective-optimization/</link>
-      <pubDate>Mon, 08 Apr 2019 11:08:54 +0200</pubDate>
-      
-      <guid>https://apanichella.github.io/tags/many-objective-optimization/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Many-objective optimization</title>
-      <link>https://apanichella.github.io/tags/many-objective-optimization/</link>
-      <pubDate>Sat, 18 Aug 2018 07:39:53 +0200</pubDate>
-      
-      <guid>https://apanichella.github.io/tags/many-objective-optimization/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Matlab</title>
-      <link>https://apanichella.github.io/tags/matlab/</link>
-      <pubDate>Mon, 08 Apr 2019 11:08:54 +0200</pubDate>
-      
-      <guid>https://apanichella.github.io/tags/matlab/</guid>
+      <guid>https://apanichella.github.io/tags/performance-testing/</guid>
       <description></description>
     </item>
     
@@ -130,56 +148,20 @@
     </item>
     
     <item>
-      <title>Performance Testing</title>
-      <link>https://apanichella.github.io/tags/performance-testing/</link>
-      <pubDate>Wed, 09 Oct 2019 09:51:33 +0200</pubDate>
-      
-      <guid>https://apanichella.github.io/tags/performance-testing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Program repair</title>
-      <link>https://apanichella.github.io/tags/program-repair/</link>
-      <pubDate>Fri, 17 Apr 2020 17:32:54 +0200</pubDate>
-      
-      <guid>https://apanichella.github.io/tags/program-repair/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Regression testing</title>
-      <link>https://apanichella.github.io/tags/regression-testing/</link>
-      <pubDate>Sun, 19 Jul 2015 23:46:36 +0200</pubDate>
-      
-      <guid>https://apanichella.github.io/tags/regression-testing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Search-based Software Engineering</title>
-      <link>https://apanichella.github.io/tags/search-based-software-engineering/</link>
+      <title>Topic Model</title>
+      <link>https://apanichella.github.io/tags/topic-model/</link>
       <pubDate>Wed, 26 Jun 2019 10:29:32 +0200</pubDate>
       
-      <guid>https://apanichella.github.io/tags/search-based-software-engineering/</guid>
+      <guid>https://apanichella.github.io/tags/topic-model/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Search-based software engineering</title>
-      <link>https://apanichella.github.io/tags/search-based-software-engineering/</link>
-      <pubDate>Fri, 17 Apr 2020 17:32:54 +0200</pubDate>
+      <title>Unsupervised Learning</title>
+      <link>https://apanichella.github.io/tags/unsupervised-learning/</link>
+      <pubDate>Wed, 26 Jun 2019 10:29:32 +0200</pubDate>
       
-      <guid>https://apanichella.github.io/tags/search-based-software-engineering/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Self-driving cars</title>
-      <link>https://apanichella.github.io/tags/self-driving-cars/</link>
-      <pubDate>Fri, 17 Apr 2020 17:32:54 +0200</pubDate>
-      
-      <guid>https://apanichella.github.io/tags/self-driving-cars/</guid>
+      <guid>https://apanichella.github.io/tags/unsupervised-learning/</guid>
       <description></description>
     </item>
     
@@ -202,47 +184,38 @@
     </item>
     
     <item>
-      <title>Test Case Generation</title>
-      <link>https://apanichella.github.io/tags/test-case-generation/</link>
-      <pubDate>Wed, 09 Oct 2019 09:51:33 +0200</pubDate>
+      <title>Benchmark</title>
+      <link>https://apanichella.github.io/tags/benchmark/</link>
+      <pubDate>Mon, 08 Apr 2019 11:08:54 +0200</pubDate>
       
-      <guid>https://apanichella.github.io/tags/test-case-generation/</guid>
+      <guid>https://apanichella.github.io/tags/benchmark/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Test Oracle</title>
-      <link>https://apanichella.github.io/tags/test-oracle/</link>
-      <pubDate>Tue, 03 Mar 2020 16:20:15 +0100</pubDate>
+      <title>Evolutionary Computation</title>
+      <link>https://apanichella.github.io/tags/evolutionary-computation/</link>
+      <pubDate>Mon, 08 Apr 2019 11:08:54 +0200</pubDate>
       
-      <guid>https://apanichella.github.io/tags/test-oracle/</guid>
+      <guid>https://apanichella.github.io/tags/evolutionary-computation/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Test case generation</title>
-      <link>https://apanichella.github.io/tags/test-case-generation/</link>
-      <pubDate>Fri, 17 Apr 2020 17:56:40 +0200</pubDate>
+      <title>Matlab</title>
+      <link>https://apanichella.github.io/tags/matlab/</link>
+      <pubDate>Mon, 08 Apr 2019 11:08:54 +0200</pubDate>
       
-      <guid>https://apanichella.github.io/tags/test-case-generation/</guid>
+      <guid>https://apanichella.github.io/tags/matlab/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Topic Model</title>
-      <link>https://apanichella.github.io/tags/topic-model/</link>
-      <pubDate>Wed, 26 Jun 2019 10:29:32 +0200</pubDate>
+      <title>regression testing</title>
+      <link>https://apanichella.github.io/tags/regression-testing/</link>
+      <pubDate>Sun, 19 Jul 2015 23:46:36 +0200</pubDate>
       
-      <guid>https://apanichella.github.io/tags/topic-model/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Unsupervised Learning</title>
-      <link>https://apanichella.github.io/tags/unsupervised-learning/</link>
-      <pubDate>Wed, 26 Jun 2019 10:29:32 +0200</pubDate>
-      
-      <guid>https://apanichella.github.io/tags/unsupervised-learning/</guid>
+      <guid>https://apanichella.github.io/tags/regression-testing/</guid>
       <description></description>
     </item>
     

@@ -1,875 +1,494 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-    
-    
-    <url>
-    
-      <loc>https://apanichella.github.io/publication/sbst2020/</loc>
-      <lastmod>2020-04-17T17:56:40+02:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://apanichella.github.io/publication/issta2020/</loc>
-      <lastmod>2020-04-17T17:32:54+02:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://apanichella.github.io/publication/msrdata2019/</loc>
-      <lastmod>2020-03-03T17:08:37+01:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://apanichella.github.io/publication/raise2020/</loc>
-      <lastmod>2020-03-03T16:20:15+01:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://apanichella.github.io/publication/ieee-tse2019/</loc>
-      <lastmod>2019-10-09T09:51:33+02:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://apanichella.github.io/publication/esec-fse2019/</loc>
-      <lastmod>2019-06-26T10:41:41+02:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://apanichella.github.io/tools/ssbse-lda/</loc>
-      <lastmod>2019-06-26T10:29:32+02:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://apanichella.github.io/publication/issta2019/</loc>
-      <lastmod>2019-05-01T20:22:51+02:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://apanichella.github.io/publication/ssbse2019/</loc>
-      <lastmod>2019-04-29T23:16:23+02:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://apanichella.github.io/tools/age-moea/</loc>
-      <lastmod>2019-04-08T11:08:54+02:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://apanichella.github.io/project/stamp/</loc>
-      <lastmod>2019-04-08T11:08:54+02:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://apanichella.github.io/project/ripple/</loc>
-      <lastmod>2019-04-08T11:08:49+02:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://apanichella.github.io/publication/gecco2019/</loc>
-      <lastmod>2019-04-08T10:45:30+02:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://apanichella.github.io/publication/sbst2019b/</loc>
-      <lastmod>2019-04-08T10:41:50+02:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://apanichella.github.io/publication/sbst2019a/</loc>
-      <lastmod>2019-04-08T10:39:03+02:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://apanichella.github.io/publication/emse2019/</loc>
-      <lastmod>2019-04-08T10:11:19+02:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://apanichella.github.io/talk/sen2019/</loc>
-      <lastmod>2019-02-01T11:17:15+02:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://apanichella.github.io/publication/ieee-tse2018f/</loc>
-      <lastmod>2018-09-08T11:51:02+02:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://apanichella.github.io/publication/infsof2018b/</loc>
-      <lastmod>2018-08-18T07:39:53+02:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://apanichella.github.io/publication/infsoft2018a/</loc>
-      <lastmod>2018-08-13T19:14:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://apanichella.github.io/publication/ieee-tse2018e/</loc>
-      <lastmod>2018-08-13T18:55:36+02:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://apanichella.github.io/publication/ssbse2018b/</loc>
-      <lastmod>2018-07-20T00:07:54+02:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://apanichella.github.io/publication/ssbse2018a/</loc>
-      <lastmod>2018-07-20T00:06:34+02:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://apanichella.github.io/publication/icpc2018/</loc>
-      <lastmod>2018-07-20T00:05:13+02:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://apanichella.github.io/publication/icse2018/</loc>
-      <lastmod>2018-07-20T00:04:04+02:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://apanichella.github.io/publication/icst2018/</loc>
-      <lastmod>2018-07-20T00:03:02+02:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://apanichella.github.io/publication/ase2018/</loc>
-      <lastmod>2018-07-20T00:01:56+02:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://apanichella.github.io/publication/sbst2018/</loc>
-      <lastmod>2018-07-20T00:01:14+02:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://apanichella.github.io/publication/ieee-tse2018d/</loc>
-      <lastmod>2018-07-10T11:25:49+02:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://apanichella.github.io/publication/ieee-tse2018c/</loc>
-      <lastmod>2018-07-10T11:24:46+02:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://apanichella.github.io/publication/ieee-tse2018b/</loc>
-      <lastmod>2018-07-10T11:23:34+02:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://apanichella.github.io/publication/ieee-tse2018a/</loc>
-      <lastmod>2018-07-10T11:21:45+02:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://apanichella.github.io/publication/ieee-tr2018/</loc>
-      <lastmod>2018-07-10T11:11:22+02:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://apanichella.github.io/publication/stvr2018/</loc>
-      <lastmod>2018-07-10T11:11:22+02:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://apanichella.github.io/publication/saner2017b/</loc>
-      <lastmod>2017-08-13T20:10:28+02:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://apanichella.github.io/publication/saner2017a/</loc>
-      <lastmod>2017-08-13T20:08:32+02:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://apanichella.github.io/publication/icstw2017/</loc>
-      <lastmod>2017-08-13T20:06:48+02:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://apanichella.github.io/publication/sbst2017/</loc>
-      <lastmod>2017-08-13T20:05:07+02:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://apanichella.github.io/publication/icse2017-tool/</loc>
-      <lastmod>2017-08-13T19:37:11+02:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://apanichella.github.io/publication/icse2017/</loc>
-      <lastmod>2017-08-13T19:34:17+02:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://apanichella.github.io/publication/issre2018/</loc>
-      <lastmod>2017-08-13T19:28:13+02:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://apanichella.github.io/publication/ssbse2017/</loc>
-      <lastmod>2017-07-13T20:03:02+02:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://apanichella.github.io/publication/</loc>
-      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://apanichella.github.io/talk/</loc>
-      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://apanichella.github.io/publication/saner2016/</loc>
-      <lastmod>2016-08-18T08:00:46+02:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://apanichella.github.io/publication/sbst2016b/</loc>
-      <lastmod>2016-08-18T07:59:02+02:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://apanichella.github.io/publication/sbst2016a/</loc>
-      <lastmod>2016-08-18T07:56:19+02:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://apanichella.github.io/publication/serip2016/</loc>
-      <lastmod>2016-08-18T07:54:15+02:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://apanichella.github.io/publication/icpc2016/</loc>
-      <lastmod>2016-08-18T07:52:50+02:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://apanichella.github.io/publication/icsme2016/</loc>
-      <lastmod>2016-08-18T07:51:10+02:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://apanichella.github.io/publication/gecco2016/</loc>
-      <lastmod>2016-08-18T07:47:34+02:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://apanichella.github.io/publication/issta2016/</loc>
-      <lastmod>2016-08-18T07:45:36+02:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://apanichella.github.io/publication/icse2016/</loc>
-      <lastmod>2016-08-18T07:43:26+02:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://apanichella.github.io/publication/stvr2015/</loc>
-      <lastmod>2015-07-19T23:50:41+02:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://apanichella.github.io/publication/tse2015/</loc>
-      <lastmod>2015-07-19T23:46:36+02:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://apanichella.github.io/publication/emse2014/</loc>
-      <lastmod>2014-07-19T23:52:54+02:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://apanichella.github.io/publication/jse2012/</loc>
-      <lastmod>2012-07-19T23:55:49+02:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://apanichella.github.io/publication/infsoft/</loc>
-      <lastmod>2012-07-19T23:54:19+02:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://apanichella.github.io/tags/</loc>
-      <lastmod>2018-07-10T11:11:22+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://apanichella.github.io/publication_types/0/</loc>
-      <lastmod>2020-04-17T17:56:40+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://apanichella.github.io/publication_types/1/</loc>
-      <lastmod>2020-04-17T17:32:54+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://apanichella.github.io/publication_types/2/</loc>
-      <lastmod>2019-10-09T09:51:33+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://apanichella.github.io/tags/ai/</loc>
-      <lastmod>2020-03-03T16:20:15+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://apanichella.github.io/</loc>
-      <lastmod>2016-04-20T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://apanichella.github.io/tags/benchmark/</loc>
-      <lastmod>2019-04-08T11:08:54+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://apanichella.github.io/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://apanichella.github.io/tags/dataset/</loc>
-      <lastmod>2020-03-03T17:08:37+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://apanichella.github.io/tags/deep-learning/</loc>
-      <lastmod>2020-03-03T16:20:15+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://apanichella.github.io/tags/evosuite/</loc>
-      <lastmod>2018-08-18T07:39:53+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://apanichella.github.io/tags/evolutionary-computation/</loc>
-      <lastmod>2019-04-08T11:08:54+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://apanichella.github.io/tags/evolutionary-testing/</loc>
-      <lastmod>2019-10-09T09:51:33+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://apanichella.github.io/tags/log-analysis/</loc>
-      <lastmod>2020-03-03T17:08:37+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://apanichella.github.io/tags/many-objective-optimization/</loc>
-      <lastmod>2019-04-08T11:08:54+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://apanichella.github.io/tags/many-objective-optimization/</loc>
-      <lastmod>2018-08-18T07:39:53+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://apanichella.github.io/tags/matlab/</loc>
-      <lastmod>2019-04-08T11:08:54+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://apanichella.github.io/tags/meta-heuristics/</loc>
-      <lastmod>2019-06-26T10:29:32+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://apanichella.github.io/tags/performance-testing/</loc>
-      <lastmod>2019-10-09T09:51:33+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://apanichella.github.io/tags/program-repair/</loc>
-      <lastmod>2020-04-17T17:32:54+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://apanichella.github.io/project/</loc>
-      <lastmod>2019-04-08T11:08:54+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://apanichella.github.io/publication_types/</loc>
-      <lastmod>2020-04-17T17:56:40+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://apanichella.github.io/tags/regression-testing/</loc>
-      <lastmod>2015-07-19T23:46:36+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://apanichella.github.io/tags/search-based-software-engineering/</loc>
-      <lastmod>2019-06-26T10:29:32+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://apanichella.github.io/tags/search-based-software-engineering/</loc>
-      <lastmod>2020-04-17T17:32:54+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://apanichella.github.io/tags/self-driving-cars/</loc>
-      <lastmod>2020-04-17T17:32:54+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://apanichella.github.io/tags/software-testing/</loc>
-      <lastmod>2019-05-01T20:22:51+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://apanichella.github.io/tags/static-analysis/</loc>
-      <lastmod>2019-05-01T20:22:51+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://apanichella.github.io/tags/</loc>
-      <lastmod>2018-07-10T11:11:22+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://apanichella.github.io/tags/test-case-generation/</loc>
-      <lastmod>2019-10-09T09:51:33+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://apanichella.github.io/tags/test-oracle/</loc>
-      <lastmod>2020-03-03T16:20:15+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://apanichella.github.io/tags/test-case-generation/</loc>
-      <lastmod>2020-04-17T17:56:40+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://apanichella.github.io/tools/</loc>
-      <lastmod>2019-06-26T10:29:32+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://apanichella.github.io/tags/topic-model/</loc>
-      <lastmod>2019-06-26T10:29:32+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://apanichella.github.io/tags/unsupervised-learning/</loc>
-      <lastmod>2019-06-26T10:29:32+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://apanichella.github.io/home/about/</loc>
+    <lastmod>2016-04-20T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apanichella.github.io/home/publications_selected/</loc>
+    <lastmod>2016-04-20T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apanichella.github.io/home/publications/</loc>
+    <lastmod>2016-04-20T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apanichella.github.io/home/talks/</loc>
+    <lastmod>2016-04-20T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apanichella.github.io/home/projects/</loc>
+    <lastmod>2016-04-20T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apanichella.github.io/home/tools/</loc>
+    <lastmod>2016-04-20T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apanichella.github.io/home/teaching/</loc>
+    <lastmod>2016-04-20T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apanichella.github.io/home/contact/</loc>
+    <lastmod>2016-04-20T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apanichella.github.io/publication_types/1/</loc>
+    <lastmod>2020-07-06T11:29:27+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apanichella.github.io/</loc>
+    <lastmod>2020-07-06T11:29:27+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apanichella.github.io/tags/evosuite/</loc>
+    <lastmod>2020-07-06T11:29:27+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apanichella.github.io/tags/fuzzing/</loc>
+    <lastmod>2020-07-06T11:29:27+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apanichella.github.io/publication/ase2020-nier/</loc>
+    <lastmod>2020-07-06T11:29:27+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apanichella.github.io/tags/many-objective-optimization/</loc>
+    <lastmod>2020-07-06T11:29:27+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apanichella.github.io/publication_types/</loc>
+    <lastmod>2020-07-06T11:29:27+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apanichella.github.io/tags/search-based-software-engineering/</loc>
+    <lastmod>2020-07-06T11:29:27+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apanichella.github.io/tags/</loc>
+    <lastmod>2020-07-06T11:29:27+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apanichella.github.io/tags/test-case-generation/</loc>
+    <lastmod>2020-07-06T11:29:27+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apanichella.github.io/publication/issta2020/</loc>
+    <lastmod>2020-04-17T17:32:54+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apanichella.github.io/tags/program-repair/</loc>
+    <lastmod>2020-04-17T17:32:54+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apanichella.github.io/tags/self-driving-cars/</loc>
+    <lastmod>2020-04-17T17:32:54+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apanichella.github.io/tags/dataset/</loc>
+    <lastmod>2020-03-03T17:08:37+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apanichella.github.io/tags/log-analysis/</loc>
+    <lastmod>2020-03-03T17:08:37+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apanichella.github.io/publication/msrdata2019/</loc>
+    <lastmod>2020-03-03T17:08:37+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apanichella.github.io/tags/ai/</loc>
+    <lastmod>2020-03-03T16:20:15+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apanichella.github.io/tags/deep-learning/</loc>
+    <lastmod>2020-03-03T16:20:15+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apanichella.github.io/publication/raise2020/</loc>
+    <lastmod>2020-03-03T16:20:15+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apanichella.github.io/tags/test-oracle/</loc>
+    <lastmod>2020-03-03T16:20:15+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apanichella.github.io/publication_types/2/</loc>
+    <lastmod>2019-10-09T09:51:33+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apanichella.github.io/tags/evolutionary-testing/</loc>
+    <lastmod>2019-10-09T09:51:33+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apanichella.github.io/tags/performance-testing/</loc>
+    <lastmod>2019-10-09T09:51:33+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apanichella.github.io/publication/ieee-tse2019/</loc>
+    <lastmod>2019-10-09T09:51:33+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apanichella.github.io/publication/esec-fse2019/</loc>
+    <lastmod>2019-06-26T10:41:41+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apanichella.github.io/tags/meta-heuristics/</loc>
+    <lastmod>2019-06-26T10:29:32+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apanichella.github.io/tools/ssbse-lda/</loc>
+    <lastmod>2019-06-26T10:29:32+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apanichella.github.io/tools/</loc>
+    <lastmod>2019-06-26T10:29:32+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apanichella.github.io/tags/topic-model/</loc>
+    <lastmod>2019-06-26T10:29:32+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apanichella.github.io/tags/unsupervised-learning/</loc>
+    <lastmod>2019-06-26T10:29:32+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apanichella.github.io/publication/issta2019/</loc>
+    <lastmod>2019-05-01T20:22:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apanichella.github.io/tags/software-testing/</loc>
+    <lastmod>2019-05-01T20:22:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apanichella.github.io/tags/static-analysis/</loc>
+    <lastmod>2019-05-01T20:22:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apanichella.github.io/publication/ssbse2019/</loc>
+    <lastmod>2019-04-29T23:16:23+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apanichella.github.io/tools/age-moea/</loc>
+    <lastmod>2019-04-08T11:08:54+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apanichella.github.io/tags/benchmark/</loc>
+    <lastmod>2019-04-08T11:08:54+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apanichella.github.io/tags/evolutionary-computation/</loc>
+    <lastmod>2019-04-08T11:08:54+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apanichella.github.io/tags/matlab/</loc>
+    <lastmod>2019-04-08T11:08:54+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apanichella.github.io/project/</loc>
+    <lastmod>2019-04-08T11:08:54+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apanichella.github.io/project/stamp/</loc>
+    <lastmod>2019-04-08T11:08:54+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apanichella.github.io/project/ripple/</loc>
+    <lastmod>2019-04-08T11:08:49+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apanichella.github.io/publication/gecco2019/</loc>
+    <lastmod>2019-04-08T10:45:30+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apanichella.github.io/publication/sbst2019b/</loc>
+    <lastmod>2019-04-08T10:41:50+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apanichella.github.io/publication/sbst2019a/</loc>
+    <lastmod>2019-04-08T10:39:03+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apanichella.github.io/publication/emse2019/</loc>
+    <lastmod>2019-04-08T10:11:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apanichella.github.io/talk/sen2019/</loc>
+    <lastmod>2019-02-01T11:17:15+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apanichella.github.io/publication/ieee-tse2018f/</loc>
+    <lastmod>2018-09-08T11:51:02+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apanichella.github.io/publication/infsof2018b/</loc>
+    <lastmod>2018-08-18T07:39:53+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apanichella.github.io/publication/infsoft2018a/</loc>
+    <lastmod>2018-08-13T19:14:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apanichella.github.io/publication/ieee-tse2018e/</loc>
+    <lastmod>2018-08-13T18:55:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apanichella.github.io/publication/ssbse2018b/</loc>
+    <lastmod>2018-07-20T00:07:54+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apanichella.github.io/publication/ssbse2018a/</loc>
+    <lastmod>2018-07-20T00:06:34+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apanichella.github.io/publication/icpc2018/</loc>
+    <lastmod>2018-07-20T00:05:13+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apanichella.github.io/publication/icse2018/</loc>
+    <lastmod>2018-07-20T00:04:04+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apanichella.github.io/publication/icst2018/</loc>
+    <lastmod>2018-07-20T00:03:02+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apanichella.github.io/publication/ase2018/</loc>
+    <lastmod>2018-07-20T00:01:56+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apanichella.github.io/publication/sbst2018/</loc>
+    <lastmod>2018-07-20T00:01:14+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apanichella.github.io/publication/ieee-tse2018d/</loc>
+    <lastmod>2018-07-10T11:25:49+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apanichella.github.io/publication/ieee-tse2018c/</loc>
+    <lastmod>2018-07-10T11:24:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apanichella.github.io/publication/ieee-tse2018b/</loc>
+    <lastmod>2018-07-10T11:23:34+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apanichella.github.io/publication/ieee-tse2018a/</loc>
+    <lastmod>2018-07-10T11:21:45+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apanichella.github.io/publication/ieee-tr2018/</loc>
+    <lastmod>2018-07-10T11:11:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apanichella.github.io/publication/stvr2018/</loc>
+    <lastmod>2018-07-10T11:11:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apanichella.github.io/publication/saner2017b/</loc>
+    <lastmod>2017-08-13T20:10:28+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apanichella.github.io/publication/saner2017a/</loc>
+    <lastmod>2017-08-13T20:08:32+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apanichella.github.io/publication/icstw2017/</loc>
+    <lastmod>2017-08-13T20:06:48+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apanichella.github.io/publication/sbst2017/</loc>
+    <lastmod>2017-08-13T20:05:07+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apanichella.github.io/publication/icse2017-tool/</loc>
+    <lastmod>2017-08-13T19:37:11+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apanichella.github.io/publication/icse2017/</loc>
+    <lastmod>2017-08-13T19:34:17+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apanichella.github.io/publication/issre2018/</loc>
+    <lastmod>2017-08-13T19:28:13+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apanichella.github.io/publication/ssbse2017/</loc>
+    <lastmod>2017-07-13T20:03:02+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apanichella.github.io/publication/</loc>
+    <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apanichella.github.io/talk/</loc>
+    <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apanichella.github.io/publication/saner2016/</loc>
+    <lastmod>2016-08-18T08:00:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apanichella.github.io/publication/sbst2016b/</loc>
+    <lastmod>2016-08-18T07:59:02+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apanichella.github.io/publication/sbst2016a/</loc>
+    <lastmod>2016-08-18T07:56:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apanichella.github.io/publication/serip2016/</loc>
+    <lastmod>2016-08-18T07:54:15+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apanichella.github.io/publication/icpc2016/</loc>
+    <lastmod>2016-08-18T07:52:50+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apanichella.github.io/publication/icsme2016/</loc>
+    <lastmod>2016-08-18T07:51:10+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apanichella.github.io/publication/gecco2016/</loc>
+    <lastmod>2016-08-18T07:47:34+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apanichella.github.io/publication/issta2016/</loc>
+    <lastmod>2016-08-18T07:45:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apanichella.github.io/publication/icse2016/</loc>
+    <lastmod>2016-08-18T07:43:26+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apanichella.github.io/home/</loc>
+    <lastmod>2016-04-20T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apanichella.github.io/publication/stvr2015/</loc>
+    <lastmod>2015-07-19T23:50:41+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apanichella.github.io/publication/tse2015/</loc>
+    <lastmod>2015-07-19T23:46:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apanichella.github.io/tags/regression-testing/</loc>
+    <lastmod>2015-07-19T23:46:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apanichella.github.io/publication/emse2014/</loc>
+    <lastmod>2014-07-19T23:52:54+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apanichella.github.io/publication/jse2012/</loc>
+    <lastmod>2012-07-19T23:55:49+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apanichella.github.io/publication/infsoft/</loc>
+    <lastmod>2012-07-19T23:54:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apanichella.github.io/categories/</loc>
+  </url>
   
 </urlset>

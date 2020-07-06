@@ -1,16 +1,34 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Many-objective optimization on Annibale Panichella</title>
+    <title>Many-objective Optimization on Annibale Panichella</title>
     <link>https://apanichella.github.io/tags/many-objective-optimization/</link>
-    <description>Recent content in Many-objective optimization on Annibale Panichella</description>
+    <description>Recent content in Many-objective Optimization on Annibale Panichella</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sat, 18 Aug 2018 07:39:53 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2020 11:29:27 +0200</lastBuildDate>
     
 	<atom:link href="https://apanichella.github.io/tags/many-objective-optimization/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Generating Highly-structured Input Data by Combining Search-based Testing and Grammar-based Fuzzing</title>
+      <link>https://apanichella.github.io/publication/ase2020-nier/</link>
+      <pubDate>Mon, 06 Jul 2020 11:29:27 +0200</pubDate>
+      
+      <guid>https://apanichella.github.io/publication/ase2020-nier/</guid>
+      <description>Abstract: Software testing is an important and time-consuming task that is often done manually. In the last decades, researchers have come up with techniques to generate input data (e.g., fuzzing) and automate the process of generating test cases (e.g., search-based testing). However, these techniques are known to have their own limitations: search-based testing does not generate highly-structured data; grammar-based fuzzing does not generate test case structures. To address these limitations, we combine these two techniques.</description>
+    </item>
+    
+    <item>
+      <title>AGE-MOEA</title>
+      <link>https://apanichella.github.io/tools/age-moea/</link>
+      <pubDate>Mon, 08 Apr 2019 11:08:54 +0200</pubDate>
+      
+      <guid>https://apanichella.github.io/tools/age-moea/</guid>
+      <description>Implementation of AGE-MOEA in Matlab</description>
+    </item>
     
     <item>
       <title>A Large Scale Empirical Comparison of State-of-the-art Search-based Test Case Generators</title>

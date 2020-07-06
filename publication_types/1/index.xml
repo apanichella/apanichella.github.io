@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 on Annibale Panichella</title>
@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Fri, 17 Apr 2020 17:32:54 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2020 11:29:27 +0200</lastBuildDate>
     
 	<atom:link href="https://apanichella.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Generating Highly-structured Input Data by Combining Search-based Testing and Grammar-based Fuzzing</title>
+      <link>https://apanichella.github.io/publication/ase2020-nier/</link>
+      <pubDate>Mon, 06 Jul 2020 11:29:27 +0200</pubDate>
+      
+      <guid>https://apanichella.github.io/publication/ase2020-nier/</guid>
+      <description>Abstract: Software testing is an important and time-consuming task that is often done manually. In the last decades, researchers have come up with techniques to generate input data (e.g., fuzzing) and automate the process of generating test cases (e.g., search-based testing). However, these techniques are known to have their own limitations: search-based testing does not generate highly-structured data; grammar-based fuzzing does not generate test case structures. To address these limitations, we combine these two techniques.</description>
+    </item>
     
     <item>
       <title>Automated Repair of Feature Interaction Failures in Automated Driving Systems</title>

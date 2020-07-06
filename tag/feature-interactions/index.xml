@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>feature interactions | Annibale Panichella</title>
+    <link>/tag/feature-interactions/</link>
+      <atom:link href="/tag/feature-interactions/index.xml" rel="self" type="application/rss+xml" />
+    <description>feature interactions</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2019 11:17:15 +0200</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>feature interactions</title>
+      <link>/tag/feature-interactions/</link>
+    </image>
+    
+    <item>
+      <title>Testing Autonomous Cars for Feature Interaction Failures using Evolutionary Intelligence</title>
+      <link>/talk/cow2019/</link>
+      <pubDate>Tue, 01 Oct 2019 11:17:15 +0200</pubDate>
+      <guid>/talk/cow2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

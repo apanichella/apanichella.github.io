@@ -64,6 +64,14 @@ In this paper, we employ two heuristics based on information entropy and semanti
     </item>
     
     <item>
+      <title>Automated Test Generation for Unit Testing Beyond</title>
+      <link>/talk/ipa2019/</link>
+      <pubDate>Mon, 28 Oct 2019 11:17:15 +0200</pubDate>
+      <guid>/talk/ipa2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Testing with Fewer Resources: An Adaptive Approach to Performance-Aware Test Case Generation</title>
       <link>/publication/ieee-tse2019/</link>
       <pubDate>Wed, 09 Oct 2019 09:51:33 +0200</pubDate>
@@ -80,6 +88,14 @@ Our empirical study -involving 110 non-trivial Java classes- reveals
 that our adaptive approach generates test suite with statistically significant improvements in runtime (-25%) and heap memory consumption (-15%) compared to DynaMOSA. Additionally, aDynaMOSA has comparable results to DynaMOSA over seven different coverage criteria and similar fault detection effectiveness.
 Our empirical investigation also highlights that the usage of performance proxies (i.e., without the adaptiveness) is not sufficient to generate more performant test cases without compromising the overall coverage.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Testing Autonomous Cars for Feature Interaction Failures using Evolutionary Intelligence</title>
+      <link>/talk/cow2019/</link>
+      <pubDate>Tue, 01 Oct 2019 11:17:15 +0200</pubDate>
+      <guid>/talk/cow2019/</guid>
+      <description></description>
     </item>
     
     <item>

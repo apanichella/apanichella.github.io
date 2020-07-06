@@ -5,12 +5,28 @@
     <link>/talk/</link>
       <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Feb 2019 11:17:15 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 28 Oct 2019 11:17:15 +0200</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>/talk/</link>
     </image>
+    
+    <item>
+      <title>Automated Test Generation for Unit Testing Beyond</title>
+      <link>/talk/ipa2019/</link>
+      <pubDate>Mon, 28 Oct 2019 11:17:15 +0200</pubDate>
+      <guid>/talk/ipa2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Testing Autonomous Cars for Feature Interaction Failures using Evolutionary Intelligence</title>
+      <link>/talk/cow2019/</link>
+      <pubDate>Tue, 01 Oct 2019 11:17:15 +0200</pubDate>
+      <guid>/talk/cow2019/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Speeding-up Software Testing using Computational intelligence</title>

@@ -213,6 +213,21 @@
   </url>
   
   <url>
+    <loc>/talk/ipa2019/</loc>
+    <lastmod>2019-10-28T11:17:15+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+    <lastmod>2019-10-28T11:17:15+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/software-testing/</loc>
+    <lastmod>2019-10-28T11:17:15+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication-type/2/</loc>
     <lastmod>2019-10-09T09:51:33+02:00</lastmod>
   </url>
@@ -245,6 +260,16 @@
   <url>
     <loc>/publication/ieee-tse2019/</loc>
     <lastmod>2019-10-09T09:51:33+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/feature-interactions/</loc>
+    <lastmod>2019-10-01T11:17:15+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/cow2019/</loc>
+    <lastmod>2019-10-01T11:17:15+02:00</lastmod>
   </url>
   
   <url>
@@ -294,11 +319,6 @@
   
   <url>
     <loc>/author/maria-kechagia/</loc>
-    <lastmod>2019-05-01T20:22:51+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/software-testing/</loc>
     <lastmod>2019-05-01T20:22:51+02:00</lastmod>
   </url>
   
@@ -390,11 +410,6 @@
   <url>
     <loc>/publication/emse2019/</loc>
     <lastmod>2019-04-08T10:11:19+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/</loc>
-    <lastmod>2019-02-01T11:17:15+02:00</lastmod>
   </url>
   
   <url>

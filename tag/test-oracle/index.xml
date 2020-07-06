@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Test Oracle | Annibale Panichella</title>
+    <link>/tag/test-oracle/</link>
+      <atom:link href="/tag/test-oracle/index.xml" rel="self" type="application/rss+xml" />
+    <description>Test Oracle</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 03 Mar 2020 16:20:15 +0100</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Test Oracle</title>
+      <link>/tag/test-oracle/</link>
+    </image>
+    
+    <item>
+      <title>Oracle Issues in Machine Learning and Where to Find Them</title>
+      <link>/publication/raise2020/</link>
+      <pubDate>Tue, 03 Mar 2020 16:20:15 +0100</pubDate>
+      <guid>/publication/raise2020/</guid>
+      <description>&lt;p&gt;Abstract:
+The rise in popularity of machine learning (ML), and deep learning in particular, has both led to optimism about achievements of artificial intelligence, as well as concerns about possible weaknesses and vulnerabilities of ML pipelines. Within the software engineering community, this has led to a considerable body of work on ML testing techniques, including white- and black-box testing for ML models. This means the oracle problem needs to be addressed; for supervised ML applications, oracle information is indeed available in the form of dataset &amp;ldquo;ground truth&amp;rdquo;, that encodes input data with corresponding desired output labels. However, while ground truth forms a gold standard, there still is no guarantee it is truly correct. Indeed, syntactic, semantic, and conceptual framing issues in the oracle may negatively affect the ML system integrity. While syntactic issues may be automatically verified and corrected, the higher-level issues traditionally need human judgment and manual analysis.
+In this paper, we employ two heuristics based on information entropy and semantic analysis on well-known computer vision models and benchmark data from ImageNet. The heuristics are used to semi-automatically uncover potential higher-level issues in (i) the label taxonomy used to define the ground truth oracle (labels), and (ii) data encoding and representation. In doing this, beyond existing ML testing efforts, we illustrate the need for SE strategies that especially target and assess the oracle.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A. Arcuri | Annibale Panichella</title>
+    <link>/author/a.-arcuri/</link>
+      <atom:link href="/author/a.-arcuri/index.xml" rel="self" type="application/rss+xml" />
+    <description>A. Arcuri</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 10 Jul 2018 11:21:45 +0200</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>A. Arcuri</title>
+      <link>/author/a.-arcuri/</link>
+    </image>
+    
+    <item>
+      <title>Automatic Generation of Tests to Exploit XML Injection Vulnerabilities in Web Applications</title>
+      <link>/publication/ieee-tse2018a/</link>
+      <pubDate>Tue, 10 Jul 2018 11:21:45 +0200</pubDate>
+      <guid>/publication/ieee-tse2018a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

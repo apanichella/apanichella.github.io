@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Meta-heuristics | Annibale Panichella</title>
+    <link>/tag/meta-heuristics/</link>
+      <atom:link href="/tag/meta-heuristics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Meta-heuristics</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 26 Jun 2019 10:29:32 +0200</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Meta-heuristics</title>
+      <link>/tag/meta-heuristics/</link>
+    </image>
+    
+    <item>
+      <title>Search-Based-LDA</title>
+      <link>/tools/ssbse-lda/</link>
+      <pubDate>Wed, 26 Jun 2019 10:29:32 +0200</pubDate>
+      <guid>/tools/ssbse-lda/</guid>
+      <description>&lt;p&gt;A Systematic Comparison of Search Algorithms for Topic Modelling - A Study on DuplicateBug Report Identification&lt;/p&gt;
+&lt;h3 id=&#34;author&#34;&gt;Author&lt;/h3&gt;
+&lt;p&gt;Annibale Panichella&lt;/p&gt;
+&lt;h3 id=&#34;venue&#34;&gt;Venue&lt;/h3&gt;
+&lt;p&gt;SSBSE 2019&lt;/p&gt;
+&lt;h4 id=&#34;abstract&#34;&gt;Abstract&lt;/h4&gt;
+&lt;p&gt;Latent Dirichlet Allocation (LDA) has been used to supportmany software engineering tasks. Previous studies showed that defaultsettings lead to sub-optimal topic modeling with a dramatic impacton the performance of such approaches in terms of precision andrecall. For this reason, researchers used search algorithms (e.g., geneticalgorithms) to automatically configure topic models in an unsupervisedfashion. While previous work showed the ability of individual search algorithmsin finding near-optimal configurations, it is not clear to whatextent the choice of the meta-heuristic matters for SE tasks. In this paper,we present a systematic comparison of five different meta-heuristicsto configure LDA in the context of duplicate bug reports identification.The results show that (1) no master algorithm outperforms the othersfor all software projects, (2) random search and PSO are the least effectivemeta-heuristics. Finally, the running time strongly depends on thecomputational complexity of LDA while the internal complexity of thesearch algorithms plays a negligible role.&lt;/p&gt;
+&lt;h3 id=&#34;getting-started&#34;&gt;Getting started&lt;/h3&gt;
+&lt;p&gt;The source code is available in GitHub at the link: &lt;a href=&#34;https://github.com/apanichella/Search-Based-LDA&#34;&gt;https://github.com/apanichella/Search-Based-LDA&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Search-based Approach for Accurate Identification of Log Message Formats</title>
+      <link>/publication/icpc2018/</link>
+      <pubDate>Fri, 20 Jul 2018 00:05:13 +0200</pubDate>
+      <guid>/publication/icpc2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

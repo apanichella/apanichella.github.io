@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Annibale Panichella</title>
+    <link>/publication-type/1/</link>
+      <atom:link href="/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 06 Jul 2020 14:29:50 +0200</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>1</title>
+      <link>/publication-type/1/</link>
+    </image>
+    
+    <item>
+      <title>Generating Highly-structured Input Data by Combining Search-based Testing and Grammar-based Fuzzing</title>
+      <link>/publication/ase2020-nier/</link>
+      <pubDate>Mon, 06 Jul 2020 14:29:50 +0200</pubDate>
+      <guid>/publication/ase2020-nier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Botsing, a Search-based Crash Reproduction Framework for Java</title>
+      <link>/publication/ase2020-tool/</link>
+      <pubDate>Sun, 05 Jul 2020 14:19:53 +0200</pubDate>
+      <guid>/publication/ase2020-tool/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EvoSuite at the SBST 2020 Tool Competition</title>
+      <link>/publication/sbst2020/</link>
+      <pubDate>Fri, 17 Apr 2020 17:56:40 +0200</pubDate>
+      <guid>/publication/sbst2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automated Repair of Feature Interaction Failures in Automated Driving Systems</title>
+      <link>/publication/issta2020/</link>
+      <pubDate>Fri, 17 Apr 2020 17:32:54 +0200</pubDate>
+      <guid>/publication/issta2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LogChunks: A Data Set for Build Log Analysis</title>
+      <link>/publication/msrdata2019/</link>
+      <pubDate>Tue, 03 Mar 2020 17:08:37 +0100</pubDate>
+      <guid>/publication/msrdata2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oracle Issues in Machine Learning and Where to Find Them</title>
+      <link>/publication/raise2020/</link>
+      <pubDate>Tue, 03 Mar 2020 16:20:15 +0100</pubDate>
+      <guid>/publication/raise2020/</guid>
+      <description>&lt;p&gt;Abstract:
+The rise in popularity of machine learning (ML), and deep learning in particular, has both led to optimism about achievements of artificial intelligence, as well as concerns about possible weaknesses and vulnerabilities of ML pipelines. Within the software engineering community, this has led to a considerable body of work on ML testing techniques, including white- and black-box testing for ML models. This means the oracle problem needs to be addressed; for supervised ML applications, oracle information is indeed available in the form of dataset &amp;ldquo;ground truth&amp;rdquo;, that encodes input data with corresponding desired output labels. However, while ground truth forms a gold standard, there still is no guarantee it is truly correct. Indeed, syntactic, semantic, and conceptual framing issues in the oracle may negatively affect the ML system integrity. While syntactic issues may be automatically verified and corrected, the higher-level issues traditionally need human judgment and manual analysis.
+In this paper, we employ two heuristics based on information entropy and semantic analysis on well-known computer vision models and benchmark data from ImageNet. The heuristics are used to semi-automatically uncover potential higher-level issues in (i) the label taxonomy used to define the ground truth oracle (labels), and (ii) data encoding and representation. In doing this, beyond existing ML testing efforts, we illustrate the need for SE strategies that especially target and assess the oracle.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>JCOMIX: A Search-Based Tool to Detect XML Injection Vulnerabilities in Web Applications</title>
+      <link>/publication/esec-fse2019/</link>
+      <pubDate>Wed, 26 Jun 2019 10:41:41 +0200</pubDate>
+      <guid>/publication/esec-fse2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effective and Efficient API Misuse Detection via Exception Propagation and Search-based Testing</title>
+      <link>/publication/issta2019/</link>
+      <pubDate>Wed, 01 May 2019 20:22:51 +0200</pubDate>
+      <guid>/publication/issta2019/</guid>
+      <description>&lt;p&gt;&lt;b&gt; Abstract &lt;/b&gt;: Application Programming Interfaces (APIs)
+typically come with (implicit) usage constraints.
+The violations of these constraints (API misuses)
+can lead to software crashes.
+Even though there are several tools that
+can detect API misuses,
+most of them suffer from a very high rate of false positives.
+We introduce Catcher, a novel API misuse detection approach
+that combines static exception propagation analysis with automatic search-based test case
+generation to effectively and efficiently pinpoint crash-prone API misuses
+in client applications.
+We validate Catcher against 21 Java applications,
+targeting misuses of the Java platform&amp;rsquo;s API.
+Our results indicate that Catcher is able to generate
+test cases that uncover 243 (unique) API misuses that result in
+crashes.
+Our empirical evaluation shows that Catcher can detect a large number of misuses (77 cases)
+that would remain undetected by the traditional coverage-based test case generator EvoSuite.
+Additionally, Catcher is on average eight times faster than EvoSuite
+in generating test cases for the identified misuses.
+Finally, we find that the majority of the exceptions triggered by Catcher
+are unexpected to developers i.e., not only unhandled in the source code but also not listed in the documentation of the client applications.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Systematic Comparison of Search Algorithms for Topic Modelling - A Study on Duplicate Bug Report Identification</title>
+      <link>/publication/ssbse2019/</link>
+      <pubDate>Mon, 29 Apr 2019 23:16:23 +0200</pubDate>
+      <guid>/publication/ssbse2019/</guid>
+      <description>&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+&lt;p&gt;Latent Dirichlet Allocation (LDA) has been used to support many software engineering tasks. Previous studies showed that default settings lead to sub-optimal topic modeling with a dramatic impact on the performance of such approaches in terms of precision and recall. For this reason, researchers used search algorithms (e.g., genetic algorithms) to automatically configure topic models in an unsupervised fashion. While previous work showed the ability of individual search algorithms in finding near-optimal configurations, it is not clear to what extent the choice of the meta-heuristic matters for SE tasks. In this paper, we present a systematic comparison of five different meta-heuristics to configure LDA in the context of duplicate bug reports identification. The results show that (1) no master algorithm outperforms the others for all software projects, (2) random search and PSO are the least effective meta-heuristics. Finally, the running time strongly depends on the computational complexity of LDA while the internal complexity of the search algorithms plays a negligible role.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An Adaptive Evolutionary Algorithm based on Non-Euclidean Geometry for Many-objective Optimization</title>
+      <link>/publication/gecco2019/</link>
+      <pubDate>Mon, 08 Apr 2019 10:45:30 +0200</pubDate>
+      <guid>/publication/gecco2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EvoSuite at the SBST 2019 Tool Competition</title>
+      <link>/publication/sbst2019b/</link>
+      <pubDate>Mon, 08 Apr 2019 10:41:50 +0200</pubDate>
+      <guid>/publication/sbst2019b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beyond Unit-Testing in Search-based Test Case Generation: Challenges and Opportunities</title>
+      <link>/publication/sbst2019a/</link>
+      <pubDate>Mon, 08 Apr 2019 10:39:03 +0200</pubDate>
+      <guid>/publication/sbst2019a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Incremental Control Dependency Frontier Exploration for Many-Criteria Test Case Generation</title>
+      <link>/publication/ssbse2018b/</link>
+      <pubDate>Fri, 20 Jul 2018 00:07:54 +0200</pubDate>
+      <guid>/publication/ssbse2018b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Single-objective versus Multi-Objectivized Optimization for Evolutionary Crash Reproduction</title>
+      <link>/publication/ssbse2018a/</link>
+      <pubDate>Fri, 20 Jul 2018 00:06:34 +0200</pubDate>
+      <guid>/publication/ssbse2018a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Search-based Approach for Accurate Identification of Log Message Formats</title>
+      <link>/publication/icpc2018/</link>
+      <pubDate>Fri, 20 Jul 2018 00:05:13 +0200</pubDate>
+      <guid>/publication/icpc2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Search-Based Test Data Generation for SQL Queries</title>
+      <link>/publication/icse2018/</link>
+      <pubDate>Fri, 20 Jul 2018 00:04:04 +0200</pubDate>
+      <guid>/publication/icse2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Investigation of Compression Techniques to Speed up Mutation Testing</title>
+      <link>/publication/icst2018/</link>
+      <pubDate>Fri, 20 Jul 2018 00:03:02 +0200</pubDate>
+      <guid>/publication/icst2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Testing Autonomous Cars for Feature Interaction Failures using Many-Objective Search</title>
+      <link>/publication/ase2018/</link>
+      <pubDate>Fri, 20 Jul 2018 00:01:56 +0200</pubDate>
+      <guid>/publication/ase2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Java Unit Testing Tool Competition - Sixth Round</title>
+      <link>/publication/sbst2018/</link>
+      <pubDate>Fri, 20 Jul 2018 00:01:14 +0200</pubDate>
+      <guid>/publication/sbst2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lightweight Detection of Android-specific Code Smells: the aDoctor Project</title>
+      <link>/publication/saner2017b/</link>
+      <pubDate>Sun, 13 Aug 2017 20:10:28 +0200</pubDate>
+      <guid>/publication/saner2017b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software-Based Energy Profiling of Android Apps: Simple, Efficient and Reliable</title>
+      <link>/publication/saner2017a/</link>
+      <pubDate>Sun, 13 Aug 2017 20:08:32 +0200</pubDate>
+      <guid>/publication/saner2017a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Speeding-Up Mutation Testing via Data Compression and State Infection</title>
+      <link>/publication/icstw2017/</link>
+      <pubDate>Sun, 13 Aug 2017 20:06:48 +0200</pubDate>
+      <guid>/publication/icstw2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Java Unit Testing Tool Competition - Fifth Round</title>
+      <link>/publication/sbst2017/</link>
+      <pubDate>Sun, 13 Aug 2017 20:05:07 +0200</pubDate>
+      <guid>/publication/sbst2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PETrA: a Software-Based Tool for Estimating the Energy Profile of Android Applications</title>
+      <link>/publication/icse2017-tool/</link>
+      <pubDate>Sun, 13 Aug 2017 19:37:11 +0200</pubDate>
+      <guid>/publication/icse2017-tool/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guided Genetic Algorithm for Automated Crash Reproduction</title>
+      <link>/publication/icse2017/</link>
+      <pubDate>Sun, 13 Aug 2017 19:34:17 +0200</pubDate>
+      <guid>/publication/icse2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatically Repairing Web Application Firewalls Based on Successful SQL Injection Attacks</title>
+      <link>/publication/issre2018/</link>
+      <pubDate>Sun, 13 Aug 2017 19:28:13 +0200</pubDate>
+      <guid>/publication/issre2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LIPS vs MOSA: a Replicated Empirical Study on Automated Test Case Generation</title>
+      <link>/publication/ssbse2017/</link>
+      <pubDate>Thu, 13 Jul 2017 20:03:02 +0200</pubDate>
+      <guid>/publication/ssbse2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parameterizing and Assembling IR-based Solutions for Software Engineering Tasks using Genetic Algorithms</title>
+      <link>/publication/saner2016/</link>
+      <pubDate>Thu, 18 Aug 2016 08:00:46 +0200</pubDate>
+      <guid>/publication/saner2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Diffusion of Test Smells in Automatically Generated Test Code: An Empirical Study</title>
+      <link>/publication/sbst2016b/</link>
+      <pubDate>Thu, 18 Aug 2016 07:59:02 +0200</pubDate>
+      <guid>/publication/sbst2016b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolutionary Testing for Crash Reproduction</title>
+      <link>/publication/sbst2016a/</link>
+      <pubDate>Thu, 18 Aug 2016 07:56:19 +0200</pubDate>
+      <guid>/publication/sbst2016a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to Catch &#39;Em All: WatchDog, a Family of IDE Plug-Ins to Assess Testing</title>
+      <link>/publication/serip2016/</link>
+      <pubDate>Thu, 18 Aug 2016 07:54:15 +0200</pubDate>
+      <guid>/publication/serip2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Textual-based Technique for Smell Detection</title>
+      <link>/publication/icpc2016/</link>
+      <pubDate>Thu, 18 Aug 2016 07:52:50 +0200</pubDate>
+      <guid>/publication/icpc2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Continuous Delivery Practices in a Large Financial Organization</title>
+      <link>/publication/icsme2016/</link>
+      <pubDate>Thu, 18 Aug 2016 07:51:10 +0200</pubDate>
+      <guid>/publication/icsme2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Search-based Training Algorithm for Cost-aware Prediction</title>
+      <link>/publication/gecco2016/</link>
+      <pubDate>Thu, 18 Aug 2016 07:47:34 +0200</pubDate>
+      <guid>/publication/gecco2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic Test Case Generation: What If Test Code Quality Matters?</title>
+      <link>/publication/issta2016/</link>
+      <pubDate>Thu, 18 Aug 2016 07:45:36 +0200</pubDate>
+      <guid>/publication/issta2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The impact of test case summaries on bug fixing performance: An empirical investigation</title>
+      <link>/publication/icse2016/</link>
+      <pubDate>Thu, 18 Aug 2016 07:43:26 +0200</pubDate>
+      <guid>/publication/icse2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

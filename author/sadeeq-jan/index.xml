@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sadeeq Jan | Annibale Panichella</title>
+    <link>/author/sadeeq-jan/</link>
+      <atom:link href="/author/sadeeq-jan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sadeeq Jan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 08 Apr 2019 10:11:19 +0200</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Sadeeq Jan</title>
+      <link>/author/sadeeq-jan/</link>
+    </image>
+    
+    <item>
+      <title>Search-based Multi-Vulnerability Testing of XML Injections in Web Applications</title>
+      <link>/publication/emse2019/</link>
+      <pubDate>Mon, 08 Apr 2019 10:11:19 +0200</pubDate>
+      <guid>/publication/emse2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

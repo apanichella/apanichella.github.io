@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>crash replication | Annibale Panichella</title>
+    <link>/tag/crash-replication/</link>
+      <atom:link href="/tag/crash-replication/index.xml" rel="self" type="application/rss+xml" />
+    <description>crash replication</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 05 Jul 2020 14:19:53 +0200</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>crash replication</title>
+      <link>/tag/crash-replication/</link>
+    </image>
+    
+    <item>
+      <title>Botsing, a Search-based Crash Reproduction Framework for Java</title>
+      <link>/publication/ase2020-tool/</link>
+      <pubDate>Sun, 05 Jul 2020 14:19:53 +0200</pubDate>
+      <guid>/publication/ase2020-tool/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

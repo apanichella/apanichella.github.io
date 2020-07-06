@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>D. Di Nucci | Annibale Panichella</title>
+    <link>/author/d.-di-nucci/</link>
+      <atom:link href="/author/d.-di-nucci/index.xml" rel="self" type="application/rss+xml" />
+    <description>D. Di Nucci</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 08 Sep 2018 11:51:02 +0200</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>D. Di Nucci</title>
+      <link>/author/d.-di-nucci/</link>
+    </image>
+    
+    <item>
+      <title>A Test Case Prioritization Genetic Algorithm guided by the Hypervolume Indicator</title>
+      <link>/publication/ieee-tse2018f/</link>
+      <pubDate>Sat, 08 Sep 2018 11:51:02 +0200</pubDate>
+      <guid>/publication/ieee-tse2018f/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Impact of Code Smells on the Energy Consumption of Mobile Applications</title>
+      <link>/publication/infsoft2018a/</link>
+      <pubDate>Mon, 13 Aug 2018 19:14:00 +0200</pubDate>
+      <guid>/publication/infsoft2018a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lightweight Detection of Android-specific Code Smells: the aDoctor Project</title>
+      <link>/publication/saner2017b/</link>
+      <pubDate>Sun, 13 Aug 2017 20:10:28 +0200</pubDate>
+      <guid>/publication/saner2017b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software-Based Energy Profiling of Android Apps: Simple, Efficient and Reliable</title>
+      <link>/publication/saner2017a/</link>
+      <pubDate>Sun, 13 Aug 2017 20:08:32 +0200</pubDate>
+      <guid>/publication/saner2017a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PETrA: a Software-Based Tool for Estimating the Energy Profile of Android Applications</title>
+      <link>/publication/icse2017-tool/</link>
+      <pubDate>Sun, 13 Aug 2017 19:37:11 +0200</pubDate>
+      <guid>/publication/icse2017-tool/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Diffusion of Test Smells in Automatically Generated Test Code: An Empirical Study</title>
+      <link>/publication/sbst2016b/</link>
+      <pubDate>Thu, 18 Aug 2016 07:59:02 +0200</pubDate>
+      <guid>/publication/sbst2016b/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

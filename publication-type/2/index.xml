@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Annibale Panichella</title>
+    <link>/publication-type/2/</link>
+      <atom:link href="/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 09 Oct 2019 09:51:33 +0200</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>2</title>
+      <link>/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Testing with Fewer Resources: An Adaptive Approach to Performance-Aware Test Case Generation</title>
+      <link>/publication/ieee-tse2019/</link>
+      <pubDate>Wed, 09 Oct 2019 09:51:33 +0200</pubDate>
+      <guid>/publication/ieee-tse2019/</guid>
+      <description>&lt;p&gt;Abstract: Automated test case generation is an effective technique to yield high-coverage test suites.
+While the majority of research effort has been devoted to satisfying coverage criteria, a recent trend emerged towards optimizing other non-coverage aspects.
+In this regard, runtime and memory usage are two essential dimensions: less expensive tests reduce the resource demands for the generation process and later regression testing phases.
+This study shows that performance-aware test case generation requires solving two main challenges:
+providing a good approximation of resource usage with minimal overhead and&lt;br&gt;
+avoiding detrimental effects on both final coverage and fault detection effectiveness.
+To tackle these challenges, we conceived a set of performance proxies -inspired by previous work on performance testing- that provide a reasonable estimation of the test execution costs (i.e., runtime and memory usage).
+Thus, we propose an adaptive strategy, called aDynaMOSA, which leverages these proxies by extending DynaMOSA, a state-of-the-art evolutionary algorithm in unit testing.
+Our empirical study -involving 110 non-trivial Java classes- reveals
+that our adaptive approach generates test suite with statistically significant improvements in runtime (-25%) and heap memory consumption (-15%) compared to DynaMOSA. Additionally, aDynaMOSA has comparable results to DynaMOSA over seven different coverage criteria and similar fault detection effectiveness.
+Our empirical investigation also highlights that the usage of performance proxies (i.e., without the adaptiveness) is not sufficient to generate more performant test cases without compromising the overall coverage.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Search-based Multi-Vulnerability Testing of XML Injections in Web Applications</title>
+      <link>/publication/emse2019/</link>
+      <pubDate>Mon, 08 Apr 2019 10:11:19 +0200</pubDate>
+      <guid>/publication/emse2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Test Case Prioritization Genetic Algorithm guided by the Hypervolume Indicator</title>
+      <link>/publication/ieee-tse2018f/</link>
+      <pubDate>Sat, 08 Sep 2018 11:51:02 +0200</pubDate>
+      <guid>/publication/ieee-tse2018f/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Large Scale Empirical Comparison of State-of-the-art Search-based Test Case Generators</title>
+      <link>/publication/infsof2018b/</link>
+      <pubDate>Sat, 18 Aug 2018 07:39:53 +0200</pubDate>
+      <guid>/publication/infsof2018b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Impact of Code Smells on the Energy Consumption of Mobile Applications</title>
+      <link>/publication/infsoft2018a/</link>
+      <pubDate>Mon, 13 Aug 2018 19:14:00 +0200</pubDate>
+      <guid>/publication/infsoft2018a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Search-Based Crash Reproduction and Its Impact on Debugging</title>
+      <link>/publication/ieee-tse2018e/</link>
+      <pubDate>Mon, 13 Aug 2018 18:55:36 +0200</pubDate>
+      <guid>/publication/ieee-tse2018e/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Scent of a Smell: An Extensive Comparison between Textual and Structural Smells</title>
+      <link>/publication/ieee-tse2018d/</link>
+      <pubDate>Tue, 10 Jul 2018 11:25:49 +0200</pubDate>
+      <guid>/publication/ieee-tse2018d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Developer Testing in The IDE: Patterns, Beliefs, And Behavior</title>
+      <link>/publication/ieee-tse2018c/</link>
+      <pubDate>Tue, 10 Jul 2018 11:24:46 +0200</pubDate>
+      <guid>/publication/ieee-tse2018c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automated Test Case Generation as a Many-Objective Optimisation Problem with Dynamic Selection of the Targets</title>
+      <link>/publication/ieee-tse2018b/</link>
+      <pubDate>Tue, 10 Jul 2018 11:23:34 +0200</pubDate>
+      <guid>/publication/ieee-tse2018b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic Generation of Tests to Exploit XML Injection Vulnerabilities in Web Applications</title>
+      <link>/publication/ieee-tse2018a/</link>
+      <pubDate>Tue, 10 Jul 2018 11:21:45 +0200</pubDate>
+      <guid>/publication/ieee-tse2018a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Machine Learning- Driven Evolutionary Approach for Testing Web Application Firewalls</title>
+      <link>/publication/ieee-tr2018/</link>
+      <pubDate>Tue, 10 Jul 2018 11:11:22 +0200</pubDate>
+      <guid>/publication/ieee-tr2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Systematic Literature Review of How Mutation Testing Supports Quality Assurance Processes</title>
+      <link>/publication/stvr2018/</link>
+      <pubDate>Tue, 10 Jul 2018 11:11:22 +0200</pubDate>
+      <guid>/publication/stvr2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Defect Prediction as a Multi-Objective Optimization Problem</title>
+      <link>/publication/stvr2015/</link>
+      <pubDate>Sun, 19 Jul 2015 23:50:41 +0200</pubDate>
+      <guid>/publication/stvr2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving Multi-Objective Search Based Test Suite Optimization through Diversity Injection</title>
+      <link>/publication/tse2015/</link>
+      <pubDate>Sun, 19 Jul 2015 23:46:36 +0200</pubDate>
+      <guid>/publication/tse2015/</guid>
+      <description>&lt;p&gt;Abstract:
+A way to reduce the cost of regression testing consists of selecting or prioritizing subsets of test cases from a test suite according to some criteria. Besides greedy algorithms, cost cognizant additional greedy algorithms, multi-objective optimization algorithms, and multi-objective genetic algorithms (MOGAs), have also been proposed to tackle this problem. However, previous studies have shown that there is no clear winner between greedy and MOGAs, and that their combination does not necessarily produce better results. In this paper we show that the optimality of MOGAs can be significantly improved by diversifying the solutions (sub-sets of the test suite) generated during the search process. Specifically, we introduce a new MOGA, coined as DIversity based Genetic Algorithm (DIV-GA), based on the mechanisms of orthogonal design and orthogonal evolution that increase diversity by injecting new orthogonal individuals during the search process. Results of an empirical study conducted on eleven programs show that DIV-GA outperforms both greedy algorithms and the traditional MOGAs from the optimality point of view. Moreover, the solutions (sub-sets of the test suite) provided by DIV-GA are able to detect more faults than the other algorithms, while keeping the same test execution cost.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Labeling Source Code with Information Retrieval Methods: An Empirical Study.</title>
+      <link>/publication/emse2014/</link>
+      <pubDate>Sat, 19 Jul 2014 23:52:54 +0200</pubDate>
+      <guid>/publication/emse2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving IR-based traceability recovery via noun-based indexing of software artifacts</title>
+      <link>/publication/jse2012/</link>
+      <pubDate>Thu, 19 Jul 2012 23:55:49 +0200</pubDate>
+      <guid>/publication/jse2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Applying a Smoothing Filter to Improve IR-based Traceability Recovery Processes: An Empirical Investigation.</title>
+      <link>/publication/infsoft/</link>
+      <pubDate>Thu, 19 Jul 2012 23:54:19 +0200</pubDate>
+      <guid>/publication/infsoft/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

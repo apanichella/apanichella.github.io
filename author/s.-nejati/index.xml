@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S. Nejati | Annibale Panichella</title>
+    <link>/author/s.-nejati/</link>
+      <atom:link href="/author/s.-nejati/index.xml" rel="self" type="application/rss+xml" />
+    <description>S. Nejati</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 17 Apr 2020 17:32:54 +0200</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>S. Nejati</title>
+      <link>/author/s.-nejati/</link>
+    </image>
+    
+    <item>
+      <title>Automated Repair of Feature Interaction Failures in Automated Driving Systems</title>
+      <link>/publication/issta2020/</link>
+      <pubDate>Fri, 17 Apr 2020 17:32:54 +0200</pubDate>
+      <guid>/publication/issta2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Testing Autonomous Cars for Feature Interaction Failures using Many-Objective Search</title>
+      <link>/publication/ase2018/</link>
+      <pubDate>Fri, 20 Jul 2018 00:01:56 +0200</pubDate>
+      <guid>/publication/ase2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

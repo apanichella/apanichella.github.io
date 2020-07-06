@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xavier Devroey | Annibale Panichella</title>
+    <link>/author/xavier-devroey/</link>
+      <atom:link href="/author/xavier-devroey/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xavier Devroey</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 05 Jul 2020 14:19:53 +0200</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Xavier Devroey</title>
+      <link>/author/xavier-devroey/</link>
+    </image>
+    
+    <item>
+      <title>Botsing, a Search-based Crash Reproduction Framework for Java</title>
+      <link>/publication/ase2020-tool/</link>
+      <pubDate>Sun, 05 Jul 2020 14:19:53 +0200</pubDate>
+      <guid>/publication/ase2020-tool/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effective and Efficient API Misuse Detection via Exception Propagation and Search-based Testing</title>
+      <link>/publication/issta2019/</link>
+      <pubDate>Wed, 01 May 2019 20:22:51 +0200</pubDate>
+      <guid>/publication/issta2019/</guid>
+      <description>&lt;p&gt;&lt;b&gt; Abstract &lt;/b&gt;: Application Programming Interfaces (APIs)
+typically come with (implicit) usage constraints.
+The violations of these constraints (API misuses)
+can lead to software crashes.
+Even though there are several tools that
+can detect API misuses,
+most of them suffer from a very high rate of false positives.
+We introduce Catcher, a novel API misuse detection approach
+that combines static exception propagation analysis with automatic search-based test case
+generation to effectively and efficiently pinpoint crash-prone API misuses
+in client applications.
+We validate Catcher against 21 Java applications,
+targeting misuses of the Java platform&amp;rsquo;s API.
+Our results indicate that Catcher is able to generate
+test cases that uncover 243 (unique) API misuses that result in
+crashes.
+Our empirical evaluation shows that Catcher can detect a large number of misuses (77 cases)
+that would remain undetected by the traditional coverage-based test case generator EvoSuite.
+Additionally, Catcher is on average eight times faster than EvoSuite
+in generating test cases for the identified misuses.
+Finally, we find that the majority of the exceptions triggered by Catcher
+are unexpected to developers i.e., not only unhandled in the source code but also not listed in the documentation of the client applications.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

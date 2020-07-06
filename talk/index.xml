@@ -1,23 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks on Annibale Panichella</title>
-    <link>https://apanichella.github.io/talk/</link>
-    <description>Recent content in Recent &amp; Upcoming Talks on Annibale Panichella</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
-    
-	<atom:link href="https://apanichella.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
-    
+    <title>Recent &amp; Upcoming Talks | Annibale Panichella</title>
+    <link>/talk/</link>
+      <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Feb 2019 11:17:15 +0200</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>/talk/</link>
+    </image>
     
     <item>
       <title>Speeding-up Software Testing using Computational intelligence</title>
-      <link>https://apanichella.github.io/talk/sen2019/</link>
+      <link>/talk/sen2019/</link>
       <pubDate>Fri, 01 Feb 2019 11:17:15 +0200</pubDate>
-      
-      <guid>https://apanichella.github.io/talk/sen2019/</guid>
+      <guid>/talk/sen2019/</guid>
       <description></description>
     </item>
     

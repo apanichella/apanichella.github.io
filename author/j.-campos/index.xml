@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J. Campos | Annibale Panichella</title>
+    <link>/author/j.-campos/</link>
+      <atom:link href="/author/j.-campos/index.xml" rel="self" type="application/rss+xml" />
+    <description>J. Campos</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 17 Apr 2020 17:56:40 +0200</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>J. Campos</title>
+      <link>/author/j.-campos/</link>
+    </image>
+    
+    <item>
+      <title>EvoSuite at the SBST 2020 Tool Competition</title>
+      <link>/publication/sbst2020/</link>
+      <pubDate>Fri, 17 Apr 2020 17:56:40 +0200</pubDate>
+      <guid>/publication/sbst2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

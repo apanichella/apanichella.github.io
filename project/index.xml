@@ -1,33 +1,31 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Annibale Panichella</title>
-    <link>https://apanichella.github.io/project/</link>
-    <description>Recent content in Projects on Annibale Panichella</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Mon, 08 Apr 2019 11:08:54 +0200</lastBuildDate>
-    
-	<atom:link href="https://apanichella.github.io/project/index.xml" rel="self" type="application/rss+xml" />
-    
+    <title>Projects | Annibale Panichella</title>
+    <link>/project/</link>
+      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 08 Apr 2019 11:08:54 +0200</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>/project/</link>
+    </image>
     
     <item>
       <title>Software Testing Amplification for the DevOps Team</title>
-      <link>https://apanichella.github.io/project/stamp/</link>
+      <link>/project/stamp/</link>
       <pubDate>Mon, 08 Apr 2019 11:08:54 +0200</pubDate>
-      
-      <guid>https://apanichella.github.io/project/stamp/</guid>
-      <description>STAMP stands for Software Testing AMPlification. Leveraging advanced research in automatic test generation, STAMP aims at pushing automation in DevOps one step further through innovative methods of test amplification. STAMP will reuse existing assets (test cases, API descriptions, dependency models), in order to generate more test cases and test configurations each time the application is updated.</description>
+      <guid>/project/stamp/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>University Blockchain Research Initiative </title>
-      <link>https://apanichella.github.io/project/ripple/</link>
+      <link>/project/ripple/</link>
       <pubDate>Mon, 08 Apr 2019 11:08:49 +0200</pubDate>
-      
-      <guid>https://apanichella.github.io/project/ripple/</guid>
-      <description>UBRI is a partnership between Ripple and top universities around the world to support academic research, technical development and innovation in blockchain, cryptocurrency and , digital payments. Ripple is providing both financial and technical resources to university partners and collaborates with faculty and students on research and technical projects.</description>
+      <guid>/project/ripple/</guid>
+      <description></description>
     </item>
     
   </channel>

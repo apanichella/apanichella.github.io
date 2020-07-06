@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Evolutionary Computation | Annibale Panichella</title>
+    <link>/tag/evolutionary-computation/</link>
+      <atom:link href="/tag/evolutionary-computation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Evolutionary Computation</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 08 Apr 2019 11:08:54 +0200</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Evolutionary Computation</title>
+      <link>/tag/evolutionary-computation/</link>
+    </image>
+    
+    <item>
+      <title>AGE-MOEA</title>
+      <link>/tools/age-moea/</link>
+      <pubDate>Mon, 08 Apr 2019 11:08:54 +0200</pubDate>
+      <guid>/tools/age-moea/</guid>
+      <description>&lt;h3 id=&#34;title&#34;&gt;Title&lt;/h3&gt;
+&lt;p&gt;An Adaptive Evolutionary Algorithm based on Non-Euclidean Geometry for Many-objective Optimization&lt;/p&gt;
+&lt;h3 id=&#34;author&#34;&gt;Author&lt;/h3&gt;
+&lt;p&gt;Annibale Panichella&lt;/p&gt;
+&lt;h3 id=&#34;venue&#34;&gt;Venue&lt;/h3&gt;
+&lt;p&gt;GECCO 2019&lt;/p&gt;
+&lt;h4 id=&#34;abstract&#34;&gt;Abstract&lt;/h4&gt;
+&lt;p&gt;In the last decade, several evolutionary algorithms have been proposed in the literature for solving multi- and many-objective optimization problems. The performance of such algorithms depends on their capability to produce a well-diversified front (diversity) that is as closer to the Pareto optimal front as possible (proximity). Diversity and proximity strongly depend on the geometry of the Pareto front, i.e., whether it forms a Euclidean, spherical or hyperbolic hypersurface.  However, existing multi- and many-objective evolutionary algorithms show poor versatility on different geometries. To address this issue, we propose a novel evolutionary algorithm that: (1) estimates the geometry of the generated front using a fast procedure with O(MxN) computational complexity (M is the number of objectives and N is the population size); (2) adapts the diversity and proximity metrics accordingly. Therefore, to form the population for the next generation, solutions are selected based on their contribution to the diversity and proximity of the non-dominated front with regards to the estimated geometry. Computational experiments show that the proposed algorithm outperforms state-of-the-art multi and many-objective evolutionary algorithms on benchmark test problems with different geometries and number of objectives (M=3,5, and 10).&lt;/p&gt;
+&lt;h3 id=&#34;getting-started&#34;&gt;Getting started&lt;/h3&gt;
+&lt;p&gt;The source code of AGE-MOEA can be downloaded: &lt;a href=&#34;https://github.com/apanichella/PlatEMO&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;AGE-MOEA is implemented as a module (algorithm) to include in the platform &lt;a href=&#34;https://github.com/BIMK/PlatEMO&#34;&gt;PlatEMO&lt;/a&gt;.
+Download the zip file (see link above) and extract its content in the folder &lt;code&gt;Algorithms&lt;/code&gt; of &lt;code&gt;PlatEMO&lt;/code&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

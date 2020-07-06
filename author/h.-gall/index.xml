@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>H. Gall | Annibale Panichella</title>
+    <link>/author/h.-gall/</link>
+      <atom:link href="/author/h.-gall/index.xml" rel="self" type="application/rss+xml" />
+    <description>H. Gall</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 18 Aug 2016 07:47:34 +0200</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>H. Gall</title>
+      <link>/author/h.-gall/</link>
+    </image>
+    
+    <item>
+      <title>A Search-based Training Algorithm for Cost-aware Prediction</title>
+      <link>/publication/gecco2016/</link>
+      <pubDate>Thu, 18 Aug 2016 07:47:34 +0200</pubDate>
+      <guid>/publication/gecco2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

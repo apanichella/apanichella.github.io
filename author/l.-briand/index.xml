@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>L. Briand | Annibale Panichella</title>
+    <link>/author/l.-briand/</link>
+      <atom:link href="/author/l.-briand/index.xml" rel="self" type="application/rss+xml" />
+    <description>L. Briand</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 17 Apr 2020 17:32:54 +0200</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>L. Briand</title>
+      <link>/author/l.-briand/</link>
+    </image>
+    
+    <item>
+      <title>Automated Repair of Feature Interaction Failures in Automated Driving Systems</title>
+      <link>/publication/issta2020/</link>
+      <pubDate>Fri, 17 Apr 2020 17:32:54 +0200</pubDate>
+      <guid>/publication/issta2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Search-based Approach for Accurate Identification of Log Message Formats</title>
+      <link>/publication/icpc2018/</link>
+      <pubDate>Fri, 20 Jul 2018 00:05:13 +0200</pubDate>
+      <guid>/publication/icpc2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Testing Autonomous Cars for Feature Interaction Failures using Many-Objective Search</title>
+      <link>/publication/ase2018/</link>
+      <pubDate>Fri, 20 Jul 2018 00:01:56 +0200</pubDate>
+      <guid>/publication/ase2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic Generation of Tests to Exploit XML Injection Vulnerabilities in Web Applications</title>
+      <link>/publication/ieee-tse2018a/</link>
+      <pubDate>Tue, 10 Jul 2018 11:21:45 +0200</pubDate>
+      <guid>/publication/ieee-tse2018a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Machine Learning- Driven Evolutionary Approach for Testing Web Application Firewalls</title>
+      <link>/publication/ieee-tr2018/</link>
+      <pubDate>Tue, 10 Jul 2018 11:11:22 +0200</pubDate>
+      <guid>/publication/ieee-tr2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatically Repairing Web Application Firewalls Based on Successful SQL Injection Attacks</title>
+      <link>/publication/issre2018/</link>
+      <pubDate>Sun, 13 Aug 2017 19:28:13 +0200</pubDate>
+      <guid>/publication/issre2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>U. Molina | Annibale Panichella</title>
+    <link>/author/u.-molina/</link>
+      <atom:link href="/author/u.-molina/index.xml" rel="self" type="application/rss+xml" />
+    <description>U. Molina</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 13 Aug 2017 20:05:07 +0200</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>U. Molina</title>
+      <link>/author/u.-molina/</link>
+    </image>
+    
+    <item>
+      <title>Java Unit Testing Tool Competition - Fifth Round</title>
+      <link>/publication/sbst2017/</link>
+      <pubDate>Sun, 13 Aug 2017 20:05:07 +0200</pubDate>
+      <guid>/publication/sbst2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M. Beller | Annibale Panichella</title>
+    <link>/author/m.-beller/</link>
+      <atom:link href="/author/m.-beller/index.xml" rel="self" type="application/rss+xml" />
+    <description>M. Beller</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 10 Jul 2018 11:24:46 +0200</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>M. Beller</title>
+      <link>/author/m.-beller/</link>
+    </image>
+    
+    <item>
+      <title>Developer Testing in The IDE: Patterns, Beliefs, And Behavior</title>
+      <link>/publication/ieee-tse2018c/</link>
+      <pubDate>Tue, 10 Jul 2018 11:24:46 +0200</pubDate>
+      <guid>/publication/ieee-tse2018c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to Catch &#39;Em All: WatchDog, a Family of IDE Plug-Ins to Assess Testing</title>
+      <link>/publication/serip2016/</link>
+      <pubDate>Thu, 18 Aug 2016 07:54:15 +0200</pubDate>
+      <guid>/publication/serip2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Continuous Delivery Practices in a Large Financial Organization</title>
+      <link>/publication/icsme2016/</link>
+      <pubDate>Thu, 18 Aug 2016 07:51:10 +0200</pubDate>
+      <guid>/publication/icsme2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The impact of test case summaries on bug fixing performance: An empirical investigation</title>
+      <link>/publication/icse2016/</link>
+      <pubDate>Thu, 18 Aug 2016 07:43:26 +0200</pubDate>
+      <guid>/publication/icse2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

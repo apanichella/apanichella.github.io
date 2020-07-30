@@ -5,12 +5,28 @@
     <link>/publication-type/1/</link>
       <atom:link href="/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 06 Jul 2020 14:29:50 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 30 Jul 2020 22:27:51 +0200</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>1</title>
       <link>/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>DeepTC-Enhancer: Improving the Readability of Automatically Generated Tests</title>
+      <link>/publication/ase2020b/</link>
+      <pubDate>Thu, 30 Jul 2020 22:27:51 +0200</pubDate>
+      <guid>/publication/ase2020b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Good Things Come In Threes: Improving Search-based Crash Reproduction With Helper Objectives</title>
+      <link>/publication/ase2020a/</link>
+      <pubDate>Thu, 30 Jul 2020 22:27:46 +0200</pubDate>
+      <guid>/publication/ase2020a/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Generating Highly-structured Input Data by Combining Search-based Testing and Grammar-based Fuzzing</title>

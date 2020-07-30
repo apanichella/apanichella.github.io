@@ -4,27 +4,157 @@
   
   <url>
     <loc>/publication-type/1/</loc>
-    <lastmod>2020-07-06T14:29:50+02:00</lastmod>
+    <lastmod>2020-07-30T22:27:51+02:00</lastmod>
   </url>
   
   <url>
     <loc>/author/annibale-panichella/</loc>
-    <lastmod>2020-07-06T14:29:50+02:00</lastmod>
+    <lastmod>2020-07-30T22:27:51+02:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2020-07-06T14:29:50+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/arie-van-deursen/</loc>
-    <lastmod>2020-07-06T14:29:50+02:00</lastmod>
+    <lastmod>2020-07-30T22:27:51+02:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2020-07-06T14:29:50+02:00</lastmod>
+    <lastmod>2020-07-30T22:27:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/automated-documentation/</loc>
+    <lastmod>2020-07-30T22:27:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/code-summarization/</loc>
+    <lastmod>2020-07-30T22:27:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/danielle-gonzalez/</loc>
+    <lastmod>2020-07-30T22:27:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/deep-learning/</loc>
+    <lastmod>2020-07-30T22:27:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/ase2020b/</loc>
+    <lastmod>2020-07-30T22:27:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/devjeet-roy/</loc>
+    <lastmod>2020-07-30T22:27:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/maggie-ma/</loc>
+    <lastmod>2020-07-30T22:27:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/mehdi-mirakhorli/</loc>
+    <lastmod>2020-07-30T22:27:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2020-07-30T22:27:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2020-07-30T22:27:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/sebastiano-panichella/</loc>
+    <lastmod>2020-07-30T22:27:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-07-30T22:27:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/test-readability/</loc>
+    <lastmod>2020-07-30T22:27:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/test-scenario/</loc>
+    <lastmod>2020-07-30T22:27:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/venera-arnaoudova/</loc>
+    <lastmod>2020-07-30T22:27:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/ziyi-zhang/</loc>
+    <lastmod>2020-07-30T22:27:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/a.-panichella/</loc>
+    <lastmod>2020-07-30T22:27:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/andy-zaidman/</loc>
+    <lastmod>2020-07-30T22:27:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/arie-van-deursen/</loc>
+    <lastmod>2020-07-30T22:27:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/botsing/</loc>
+    <lastmod>2020-07-30T22:27:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/crash-replication/</loc>
+    <lastmod>2020-07-30T22:27:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/ase2020a/</loc>
+    <lastmod>2020-07-30T22:27:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/multi-objective-optimization/</loc>
+    <lastmod>2020-07-30T22:27:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/pouria-derakhshanfar/</loc>
+    <lastmod>2020-07-30T22:27:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/search-based-software-engineering/</loc>
+    <lastmod>2020-07-30T22:27:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/test-case-generation/</loc>
+    <lastmod>2020-07-30T22:27:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/xavier-devroey/</loc>
+    <lastmod>2020-07-30T22:27:46+02:00</lastmod>
   </url>
   
   <url>
@@ -53,57 +183,12 @@
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2020-07-06T14:29:50+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2020-07-06T14:29:50+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/search-based-software-engineering/</loc>
-    <lastmod>2020-07-06T14:29:50+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-07-06T14:29:50+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/test-case-generation/</loc>
-    <lastmod>2020-07-06T14:29:50+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/andy-zaidman/</loc>
-    <lastmod>2020-07-06T14:19:53+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/ase2020-tool/</loc>
     <lastmod>2020-07-06T14:19:53+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/crash-replication/</loc>
-    <lastmod>2020-07-06T14:19:53+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tag/debugging/</loc>
-    <lastmod>2020-07-06T14:19:53+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/pouria-derakhshanfar/</loc>
-    <lastmod>2020-07-06T14:19:53+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/xavier-devroey/</loc>
     <lastmod>2020-07-06T14:19:53+02:00</lastmod>
   </url>
   
@@ -115,11 +200,6 @@
   <url>
     <loc>/tag/software-testing/</loc>
     <lastmod>2020-07-04T18:56:54+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/a.-panichella/</loc>
-    <lastmod>2020-04-17T17:56:40+02:00</lastmod>
   </url>
   
   <url>
@@ -204,11 +284,6 @@
   
   <url>
     <loc>/author/cynthia-c.-s.-liem/</loc>
-    <lastmod>2020-03-03T16:20:15+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/deep-learning/</loc>
     <lastmod>2020-03-03T16:20:15+01:00</lastmod>
   </url>
   

@@ -4,22 +4,82 @@
   
   <url>
     <loc>/publication-type/1/</loc>
-    <lastmod>2020-07-30T22:27:51+02:00</lastmod>
+    <lastmod>2020-08-04T16:05:57+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/anand-ashok-sawant/</loc>
+    <lastmod>2020-08-04T16:05:57+02:00</lastmod>
   </url>
   
   <url>
     <loc>/author/annibale-panichella/</loc>
-    <lastmod>2020-07-30T22:27:51+02:00</lastmod>
+    <lastmod>2020-08-04T16:05:57+02:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2020-07-30T22:27:51+02:00</lastmod>
+    <lastmod>2020-08-04T16:05:57+02:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2020-07-30T22:27:51+02:00</lastmod>
+    <lastmod>2020-08-04T16:05:57+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/gordon-fraser/</loc>
+    <lastmod>2020-08-04T16:05:57+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2020-08-04T16:05:57+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2020-08-04T16:05:57+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/replication-study/</loc>
+    <lastmod>2020-08-04T16:05:57+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/icsme2020/</loc>
+    <lastmod>2020-08-04T16:05:57+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/sebastiano-panichella/</loc>
+    <lastmod>2020-08-04T16:05:57+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-08-04T16:05:57+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/test-case-generation/</loc>
+    <lastmod>2020-08-04T16:05:57+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/test-smells/</loc>
+    <lastmod>2020-08-04T16:05:57+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/unit-testing/</loc>
+    <lastmod>2020-08-04T16:05:57+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/vincent-hellendoorn/</loc>
+    <lastmod>2020-08-04T16:05:57+02:00</lastmod>
   </url>
   
   <url>
@@ -59,26 +119,6 @@
   
   <url>
     <loc>/author/mehdi-mirakhorli/</loc>
-    <lastmod>2020-07-30T22:27:51+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2020-07-30T22:27:51+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2020-07-30T22:27:51+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/sebastiano-panichella/</loc>
-    <lastmod>2020-07-30T22:27:51+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2020-07-30T22:27:51+02:00</lastmod>
   </url>
   
@@ -144,11 +184,6 @@
   
   <url>
     <loc>/tag/search-based-software-engineering/</loc>
-    <lastmod>2020-07-30T22:27:46+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/test-case-generation/</loc>
     <lastmod>2020-07-30T22:27:46+02:00</lastmod>
   </url>
   
@@ -454,11 +489,6 @@
   
   <url>
     <loc>/publication/sbst2019b/</loc>
-    <lastmod>2019-04-08T10:41:50+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/gordon-fraser/</loc>
     <lastmod>2019-04-08T10:41:50+02:00</lastmod>
   </url>
   

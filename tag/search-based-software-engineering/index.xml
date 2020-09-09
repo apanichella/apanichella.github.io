@@ -5,12 +5,20 @@
     <link>/tag/search-based-software-engineering/</link>
       <atom:link href="/tag/search-based-software-engineering/index.xml" rel="self" type="application/rss+xml" />
     <description>search-based software engineering</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 30 Jul 2020 22:27:46 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 09 Sep 2020 21:50:29 +0200</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>search-based software engineering</title>
       <link>/tag/search-based-software-engineering/</link>
     </image>
+    
+    <item>
+      <title>A Systematic Comparison of Search-Based Approaches for LDA Hyperparameter Tuning</title>
+      <link>/publication/infsoft2020/</link>
+      <pubDate>Wed, 09 Sep 2020 21:50:29 +0200</pubDate>
+      <guid>/publication/infsoft2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Good Things Come In Threes: Improving Search-based Crash Reproduction With Helper Objectives</title>

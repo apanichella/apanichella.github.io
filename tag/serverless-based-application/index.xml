@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Serverless-based Application | Annibale Panichella</title>
+    <link>/tag/serverless-based-application/</link>
+      <atom:link href="/tag/serverless-based-application/index.xml" rel="self" type="application/rss+xml" />
+    <description>Serverless-based Application</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 07 Oct 2020 10:14:08 +0200</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Serverless-based Application</title>
+      <link>/tag/serverless-based-application/</link>
+    </image>
+    
+    <item>
+      <title>Serverless Testing: Tool Vendors&#39; and Experts&#39; Point of View</title>
+      <link>/publication/ieee-software2020/</link>
+      <pubDate>Wed, 07 Oct 2020 10:14:08 +0200</pubDate>
+      <guid>/publication/ieee-software2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

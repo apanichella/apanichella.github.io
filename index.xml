@@ -5,12 +5,20 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Annibale Panichella</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 09 Sep 2020 21:50:29 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 07 Oct 2020 10:14:08 +0200</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Annibale Panichella</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Serverless Testing: Tool Vendors&#39; and Experts&#39; Point of View</title>
+      <link>/publication/ieee-software2020/</link>
+      <pubDate>Wed, 07 Oct 2020 10:14:08 +0200</pubDate>
+      <guid>/publication/ieee-software2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Systematic Comparison of Search-Based Approaches for LDA Hyperparameter Tuning</title>
@@ -221,6 +229,14 @@ are unexpected to developers i.e., not only unhandled in the source code but als
 &lt;p&gt;AGE-MOEA is implemented as a module (algorithm) to include in the platform &lt;a href=&#34;https://github.com/BIMK/PlatEMO&#34;&gt;PlatEMO&lt;/a&gt;.
 Download the zip file (see link above) and extract its content in the folder &lt;code&gt;Algorithms&lt;/code&gt; of &lt;code&gt;PlatEMO&lt;/code&gt;.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>DevOps for Complex Cyber-physical Systems</title>
+      <link>/project/cosmos/</link>
+      <pubDate>Mon, 08 Apr 2019 11:08:54 +0200</pubDate>
+      <guid>/project/cosmos/</guid>
+      <description></description>
     </item>
     
     <item>

@@ -5,12 +5,28 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Annibale Panichella</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 07 Oct 2020 10:14:08 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 02 Dec 2020 17:32:54 +0200</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Annibale Panichella</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>ReproducedPaper.org: Openly teaching and structuring machine learning reproducibility</title>
+      <link>/publication/rrpr2021/</link>
+      <pubDate>Wed, 02 Dec 2020 17:32:54 +0200</pubDate>
+      <guid>/publication/rrpr2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to Kill Them All: An Exploratory Study on the Impact of Code Observability on Mutation Testing</title>
+      <link>/publication/jss2020/</link>
+      <pubDate>Tue, 01 Dec 2020 17:32:54 +0200</pubDate>
+      <guid>/publication/jss2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Serverless Testing: Tool Vendors&#39; and Experts&#39; Point of View</title>
@@ -152,6 +168,23 @@ Our empirical investigation also highlights that the usage of performance proxie
       <pubDate>Wed, 26 Jun 2019 10:41:41 +0200</pubDate>
       <guid>/publication/esec-fse2019/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Catcher</title>
+      <link>/tools/catcher/</link>
+      <pubDate>Wed, 26 Jun 2019 10:29:32 +0200</pubDate>
+      <guid>/tools/catcher/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cling</title>
+      <link>/tools/cling/</link>
+      <pubDate>Wed, 26 Jun 2019 10:29:32 +0200</pubDate>
+      <guid>/tools/cling/</guid>
+      <description>&lt;p&gt;Towards Integration-Level Test Case Generation Using Call Site Information&lt;/p&gt;
+</description>
     </item>
     
     <item>

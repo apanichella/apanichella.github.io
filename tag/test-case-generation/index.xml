@@ -80,6 +80,15 @@ Our empirical investigation also highlights that the usage of performance proxie
     </item>
     
     <item>
+      <title>Cling</title>
+      <link>/tools/cling/</link>
+      <pubDate>Wed, 26 Jun 2019 10:29:32 +0200</pubDate>
+      <guid>/tools/cling/</guid>
+      <description>&lt;p&gt;Towards Integration-Level Test Case Generation Using Call Site Information&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>A Large Scale Empirical Comparison of State-of-the-art Search-based Test Case Generators</title>
       <link>/publication/infsof2018b/</link>
       <pubDate>Sat, 18 Aug 2018 07:39:53 +0200</pubDate>

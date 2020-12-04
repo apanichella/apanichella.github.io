@@ -5,12 +5,20 @@
     <link>/publication-type/2/</link>
       <atom:link href="/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 07 Oct 2020 10:14:08 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Dec 2020 17:32:54 +0200</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>2</title>
       <link>/publication-type/2/</link>
     </image>
+    
+    <item>
+      <title>How to Kill Them All: An Exploratory Study on the Impact of Code Observability on Mutation Testing</title>
+      <link>/publication/jss2020/</link>
+      <pubDate>Tue, 01 Dec 2020 17:32:54 +0200</pubDate>
+      <guid>/publication/jss2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Serverless Testing: Tool Vendors&#39; and Experts&#39; Point of View</title>

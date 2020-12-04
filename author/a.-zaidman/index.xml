@@ -5,12 +5,20 @@
     <link>/author/a.-zaidman/</link>
       <atom:link href="/author/a.-zaidman/index.xml" rel="self" type="application/rss+xml" />
     <description>A. Zaidman</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 08 Sep 2018 11:51:02 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Dec 2020 17:32:54 +0200</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>A. Zaidman</title>
       <link>/author/a.-zaidman/</link>
     </image>
+    
+    <item>
+      <title>How to Kill Them All: An Exploratory Study on the Impact of Code Observability on Mutation Testing</title>
+      <link>/publication/jss2020/</link>
+      <pubDate>Tue, 01 Dec 2020 17:32:54 +0200</pubDate>
+      <guid>/publication/jss2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Test Case Prioritization Genetic Algorithm guided by the Hypervolume Indicator</title>

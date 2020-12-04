@@ -5,12 +5,28 @@
     <link>/author/a.-panichella/</link>
       <atom:link href="/author/a.-panichella/index.xml" rel="self" type="application/rss+xml" />
     <description>A. Panichella</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 30 Jul 2020 22:27:46 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 02 Dec 2020 17:32:54 +0200</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>A. Panichella</title>
       <link>/author/a.-panichella/</link>
     </image>
+    
+    <item>
+      <title>ReproducedPaper.org: Openly teaching and structuring machine learning reproducibility</title>
+      <link>/publication/rrpr2021/</link>
+      <pubDate>Wed, 02 Dec 2020 17:32:54 +0200</pubDate>
+      <guid>/publication/rrpr2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to Kill Them All: An Exploratory Study on the Impact of Code Observability on Mutation Testing</title>
+      <link>/publication/jss2020/</link>
+      <pubDate>Tue, 01 Dec 2020 17:32:54 +0200</pubDate>
+      <guid>/publication/jss2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Good Things Come In Threes: Improving Search-based Crash Reproduction With Helper Objectives</title>

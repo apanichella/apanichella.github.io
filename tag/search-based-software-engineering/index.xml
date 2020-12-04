@@ -88,6 +88,23 @@ Our empirical investigation also highlights that the usage of performance proxie
     </item>
     
     <item>
+      <title>Catcher</title>
+      <link>/tools/catcher/</link>
+      <pubDate>Wed, 26 Jun 2019 10:29:32 +0200</pubDate>
+      <guid>/tools/catcher/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cling</title>
+      <link>/tools/cling/</link>
+      <pubDate>Wed, 26 Jun 2019 10:29:32 +0200</pubDate>
+      <guid>/tools/cling/</guid>
+      <description>&lt;p&gt;Towards Integration-Level Test Case Generation Using Call Site Information&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Search-Based-LDA</title>
       <link>/tools/ssbse-lda/</link>
       <pubDate>Wed, 26 Jun 2019 10:29:32 +0200</pubDate>

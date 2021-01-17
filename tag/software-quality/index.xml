@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>M. Aniche | Annibale Panichella</title>
-    <link>/author/m.-aniche/</link>
-      <atom:link href="/author/m.-aniche/index.xml" rel="self" type="application/rss+xml" />
-    <description>M. Aniche</description>
+    <title>Software Quality | Annibale Panichella</title>
+    <link>/tag/software-quality/</link>
+      <atom:link href="/tag/software-quality/index.xml" rel="self" type="application/rss+xml" />
+    <description>Software Quality</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 22:27:51 +0200</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>M. Aniche</title>
-      <link>/author/m.-aniche/</link>
+      <title>Software Quality</title>
+      <link>/tag/software-quality/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>/publication/icse-seip2020/</link>
       <pubDate>Fri, 01 Jan 2021 22:27:51 +0200</pubDate>
       <guid>/publication/icse-seip2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Search-Based Test Data Generation for SQL Queries</title>
-      <link>/publication/icse2018/</link>
-      <pubDate>Fri, 20 Jul 2018 00:04:04 +0200</pubDate>
-      <guid>/publication/icse2018/</guid>
       <description></description>
     </item>
     

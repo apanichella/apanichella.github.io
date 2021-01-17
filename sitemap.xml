@@ -13,12 +13,62 @@
   </url>
   
   <url>
+    <loc>/author/a.-van-der-feltz/</loc>
+    <lastmod>2020-01-01T22:27:51+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/</loc>
     <lastmod>2020-12-02T17:32:54+02:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
+    <lastmod>2020-12-02T17:32:54+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/c.-schroder/</loc>
+    <lastmod>2020-01-01T22:27:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/m.-aniche/</loc>
+    <lastmod>2020-01-01T22:27:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2020-12-02T17:32:54+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2020-12-02T17:32:54+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/refactoring/</loc>
+    <lastmod>2020-01-01T22:27:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/search-based-software-engineering/</loc>
+    <lastmod>2020-09-09T21:50:29+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/icse-seip2020/</loc>
+    <lastmod>2020-01-01T22:27:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/software-quality/</loc>
+    <lastmod>2020-01-01T22:27:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
     <lastmod>2020-12-02T17:32:54+02:00</lastmod>
   </url>
   
@@ -78,16 +128,6 @@
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2020-12-02T17:32:54+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2020-12-02T17:32:54+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/rrpr2021/</loc>
     <lastmod>2020-12-02T17:32:54+02:00</lastmod>
   </url>
@@ -99,11 +139,6 @@
   
   <url>
     <loc>/author/s.-picek/</loc>
-    <lastmod>2020-12-02T17:32:54+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2020-12-02T17:32:54+02:00</lastmod>
   </url>
   
@@ -194,11 +229,6 @@
   
   <url>
     <loc>/tag/latent-dirichlet-allocation/</loc>
-    <lastmod>2020-09-09T21:50:29+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/search-based-software-engineering/</loc>
     <lastmod>2020-09-09T21:50:29+02:00</lastmod>
   </url>
   
@@ -794,11 +824,6 @@
   
   <url>
     <loc>/author/j.-castelein/</loc>
-    <lastmod>2018-07-20T00:04:04+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/m.-aniche/</loc>
     <lastmod>2018-07-20T00:04:04+02:00</lastmod>
   </url>
   

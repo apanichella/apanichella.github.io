@@ -8,13 +8,8 @@
   </url>
   
   <url>
-    <loc>/author/a.-panichella/</loc>
-    <lastmod>2020-12-02T17:32:54+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/a.-van-der-feltz/</loc>
-    <lastmod>2020-01-01T22:27:51+02:00</lastmod>
+    <loc>/author/annibale-panichella/</loc>
+    <lastmod>2020-10-07T10:14:08+02:00</lastmod>
   </url>
   
   <url>
@@ -23,18 +18,38 @@
   </url>
   
   <url>
+    <loc>/author/arie-van-deursen/</loc>
+    <lastmod>2020-07-30T22:27:46+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/</loc>
     <lastmod>2020-12-02T17:32:54+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/c.-schroder/</loc>
-    <lastmod>2020-01-01T22:27:51+02:00</lastmod>
+    <loc>/author/cynthia-c.-s.-liem/</loc>
+    <lastmod>2020-03-03T16:20:15+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/m.-aniche/</loc>
-    <lastmod>2020-01-01T22:27:51+02:00</lastmod>
+    <loc>/tag/deep-learning/</loc>
+    <lastmod>2020-07-30T22:27:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/fuzzing/</loc>
+    <lastmod>2020-07-06T14:29:50+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/machine-learning/</loc>
+    <lastmod>2020-12-02T17:32:54+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/mutation-testing/</loc>
+    <lastmod>2020-12-01T17:32:54+02:00</lastmod>
   </url>
   
   <url>
@@ -45,6 +60,41 @@
   <url>
     <loc>/publication/</loc>
     <lastmod>2020-12-02T17:32:54+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/software-testing/</loc>
+    <lastmod>2020-12-01T17:32:54+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-12-02T17:32:54+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/icse-nier2020/</loc>
+    <lastmod>2020-01-18T14:29:50+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/a.-panichella/</loc>
+    <lastmod>2020-12-02T17:32:54+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/a.-van-der-feltz/</loc>
+    <lastmod>2020-01-01T22:27:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/c.-schroder/</loc>
+    <lastmod>2020-01-01T22:27:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/m.-aniche/</loc>
+    <lastmod>2020-01-01T22:27:51+02:00</lastmod>
   </url>
   
   <url>
@@ -65,11 +115,6 @@
   <url>
     <loc>/tag/software-quality/</loc>
     <lastmod>2020-01-01T22:27:51+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-12-02T17:32:54+02:00</lastmod>
   </url>
   
   <url>
@@ -118,11 +163,6 @@
   </url>
   
   <url>
-    <loc>/tag/machine-learning/</loc>
-    <lastmod>2020-12-02T17:32:54+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/author/p.-paweczak/</loc>
     <lastmod>2020-12-02T17:32:54+02:00</lastmod>
   </url>
@@ -163,23 +203,8 @@
   </url>
   
   <url>
-    <loc>/tag/mutation-testing/</loc>
-    <lastmod>2020-12-01T17:32:54+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/author/q.-zhou/</loc>
     <lastmod>2020-12-01T17:32:54+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/software-testing/</loc>
-    <lastmod>2020-12-01T17:32:54+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/annibale-panichella/</loc>
-    <lastmod>2020-10-07T10:14:08+02:00</lastmod>
   </url>
   
   <url>
@@ -298,11 +323,6 @@
   </url>
   
   <url>
-    <loc>/tag/deep-learning/</loc>
-    <lastmod>2020-07-30T22:27:51+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/ase2020b/</loc>
     <lastmod>2020-07-30T22:27:51+02:00</lastmod>
   </url>
@@ -348,11 +368,6 @@
   </url>
   
   <url>
-    <loc>/author/arie-van-deursen/</loc>
-    <lastmod>2020-07-30T22:27:46+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tag/botsing/</loc>
     <lastmod>2020-07-30T22:27:46+02:00</lastmod>
   </url>
@@ -384,11 +399,6 @@
   
   <url>
     <loc>/tag/evosuite/</loc>
-    <lastmod>2020-07-06T14:29:50+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/fuzzing/</loc>
     <lastmod>2020-07-06T14:29:50+02:00</lastmod>
   </url>
   
@@ -494,11 +504,6 @@
   
   <url>
     <loc>/tag/ai/</loc>
-    <lastmod>2020-03-03T16:20:15+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/cynthia-c.-s.-liem/</loc>
     <lastmod>2020-03-03T16:20:15+01:00</lastmod>
   </url>
   

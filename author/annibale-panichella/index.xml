@@ -5,12 +5,175 @@
     <link>/author/annibale-panichella/</link>
       <atom:link href="/author/annibale-panichella/index.xml" rel="self" type="application/rss+xml" />
     <description>Annibale Panichella</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 18 Jan 2021 14:29:50 +0200</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Annibale Panichella</title>
       <link>/author/annibale-panichella/</link>
     </image>
+    
+    <item>
+      <title>What Are We Really Testing in Mutation Testing for Machine Learning? A Critical Reflection</title>
+      <link>/publication/icse-nier2020/</link>
+      <pubDate>Mon, 18 Jan 2021 14:29:50 +0200</pubDate>
+      <guid>/publication/icse-nier2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Serverless Testing: Tool Vendors&#39; and Experts&#39; Point of View</title>
+      <link>/publication/ieee-software2020/</link>
+      <pubDate>Wed, 07 Oct 2020 10:14:08 +0200</pubDate>
+      <guid>/publication/ieee-software2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Systematic Comparison of Search-Based Approaches for LDA Hyperparameter Tuning</title>
+      <link>/publication/infsoft2020/</link>
+      <pubDate>Wed, 09 Sep 2020 21:50:29 +0200</pubDate>
+      <guid>/publication/infsoft2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Revisiting Test Smells in Automatically Generated Tests: Limitations, Pitfalls, and Opportunities</title>
+      <link>/publication/icsme2020/</link>
+      <pubDate>Tue, 04 Aug 2020 16:05:57 +0200</pubDate>
+      <guid>/publication/icsme2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DeepTC-Enhancer: Improving the Readability of Automatically Generated Tests</title>
+      <link>/publication/ase2020b/</link>
+      <pubDate>Thu, 30 Jul 2020 22:27:51 +0200</pubDate>
+      <guid>/publication/ase2020b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generating Highly-structured Input Data by Combining Search-based Testing and Grammar-based Fuzzing</title>
+      <link>/publication/ase2020-nier/</link>
+      <pubDate>Mon, 06 Jul 2020 14:29:50 +0200</pubDate>
+      <guid>/publication/ase2020-nier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Botsing, a Search-based Crash Reproduction Framework for Java</title>
+      <link>/publication/ase2020-tool/</link>
+      <pubDate>Sun, 05 Jul 2020 14:19:53 +0200</pubDate>
+      <guid>/publication/ase2020-tool/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Crash Reproduction Using Helper Objectives</title>
+      <link>/publication/gecco2020/</link>
+      <pubDate>Sat, 04 Jul 2020 18:56:54 +0200</pubDate>
+      <guid>/publication/gecco2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LogChunks: A Data Set for Build Log Analysis</title>
+      <link>/publication/msrdata2019/</link>
+      <pubDate>Tue, 03 Mar 2020 17:08:37 +0100</pubDate>
+      <guid>/publication/msrdata2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oracle Issues in Machine Learning and Where to Find Them</title>
+      <link>/publication/raise2020/</link>
+      <pubDate>Tue, 03 Mar 2020 16:20:15 +0100</pubDate>
+      <guid>/publication/raise2020/</guid>
+      <description>&lt;p&gt;Abstract:
+The rise in popularity of machine learning (ML), and deep learning in particular, has both led to optimism about achievements of artificial intelligence, as well as concerns about possible weaknesses and vulnerabilities of ML pipelines. Within the software engineering community, this has led to a considerable body of work on ML testing techniques, including white- and black-box testing for ML models. This means the oracle problem needs to be addressed; for supervised ML applications, oracle information is indeed available in the form of dataset &amp;ldquo;ground truth&amp;rdquo;, that encodes input data with corresponding desired output labels. However, while ground truth forms a gold standard, there still is no guarantee it is truly correct. Indeed, syntactic, semantic, and conceptual framing issues in the oracle may negatively affect the ML system integrity. While syntactic issues may be automatically verified and corrected, the higher-level issues traditionally need human judgment and manual analysis.
+In this paper, we employ two heuristics based on information entropy and semantic analysis on well-known computer vision models and benchmark data from ImageNet. The heuristics are used to semi-automatically uncover potential higher-level issues in (i) the label taxonomy used to define the ground truth oracle (labels), and (ii) data encoding and representation. In doing this, beyond existing ML testing efforts, we illustrate the need for SE strategies that especially target and assess the oracle.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>JCOMIX: A Search-Based Tool to Detect XML Injection Vulnerabilities in Web Applications</title>
+      <link>/publication/esec-fse2019/</link>
+      <pubDate>Wed, 26 Jun 2019 10:41:41 +0200</pubDate>
+      <guid>/publication/esec-fse2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effective and Efficient API Misuse Detection via Exception Propagation and Search-based Testing</title>
+      <link>/publication/issta2019/</link>
+      <pubDate>Wed, 01 May 2019 20:22:51 +0200</pubDate>
+      <guid>/publication/issta2019/</guid>
+      <description>&lt;p&gt;&lt;b&gt; Abstract &lt;/b&gt;: Application Programming Interfaces (APIs)
+typically come with (implicit) usage constraints.
+The violations of these constraints (API misuses)
+can lead to software crashes.
+Even though there are several tools that
+can detect API misuses,
+most of them suffer from a very high rate of false positives.
+We introduce Catcher, a novel API misuse detection approach
+that combines static exception propagation analysis with automatic search-based test case
+generation to effectively and efficiently pinpoint crash-prone API misuses
+in client applications.
+We validate Catcher against 21 Java applications,
+targeting misuses of the Java platform&amp;rsquo;s API.
+Our results indicate that Catcher is able to generate
+test cases that uncover 243 (unique) API misuses that result in
+crashes.
+Our empirical evaluation shows that Catcher can detect a large number of misuses (77 cases)
+that would remain undetected by the traditional coverage-based test case generator EvoSuite.
+Additionally, Catcher is on average eight times faster than EvoSuite
+in generating test cases for the identified misuses.
+Finally, we find that the majority of the exceptions triggered by Catcher
+are unexpected to developers i.e., not only unhandled in the source code but also not listed in the documentation of the client applications.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Systematic Comparison of Search Algorithms for Topic Modelling - A Study on Duplicate Bug Report Identification</title>
+      <link>/publication/ssbse2019/</link>
+      <pubDate>Mon, 29 Apr 2019 23:16:23 +0200</pubDate>
+      <guid>/publication/ssbse2019/</guid>
+      <description>&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+&lt;p&gt;Latent Dirichlet Allocation (LDA) has been used to support many software engineering tasks. Previous studies showed that default settings lead to sub-optimal topic modeling with a dramatic impact on the performance of such approaches in terms of precision and recall. For this reason, researchers used search algorithms (e.g., genetic algorithms) to automatically configure topic models in an unsupervised fashion. While previous work showed the ability of individual search algorithms in finding near-optimal configurations, it is not clear to what extent the choice of the meta-heuristic matters for SE tasks. In this paper, we present a systematic comparison of five different meta-heuristics to configure LDA in the context of duplicate bug reports identification. The results show that (1) no master algorithm outperforms the others for all software projects, (2) random search and PSO are the least effective meta-heuristics. Finally, the running time strongly depends on the computational complexity of LDA while the internal complexity of the search algorithms plays a negligible role.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An Adaptive Evolutionary Algorithm based on Non-Euclidean Geometry for Many-objective Optimization</title>
+      <link>/publication/gecco2019/</link>
+      <pubDate>Mon, 08 Apr 2019 10:45:30 +0200</pubDate>
+      <guid>/publication/gecco2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EvoSuite at the SBST 2019 Tool Competition</title>
+      <link>/publication/sbst2019b/</link>
+      <pubDate>Mon, 08 Apr 2019 10:41:50 +0200</pubDate>
+      <guid>/publication/sbst2019b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beyond Unit-Testing in Search-based Test Case Generation: Challenges and Opportunities</title>
+      <link>/publication/sbst2019a/</link>
+      <pubDate>Mon, 08 Apr 2019 10:39:03 +0200</pubDate>
+      <guid>/publication/sbst2019a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Search-based Multi-Vulnerability Testing of XML Injections in Web Applications</title>
+      <link>/publication/emse2019/</link>
+      <pubDate>Mon, 08 Apr 2019 10:11:19 +0200</pubDate>
+      <guid>/publication/emse2019/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

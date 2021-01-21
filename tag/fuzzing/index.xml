@@ -5,12 +5,20 @@
     <link>/tag/fuzzing/</link>
       <atom:link href="/tag/fuzzing/index.xml" rel="self" type="application/rss+xml" />
     <description>Fuzzing</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 06 Jul 2020 14:29:50 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 18 Jan 2021 14:29:50 +0200</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Fuzzing</title>
       <link>/tag/fuzzing/</link>
     </image>
+    
+    <item>
+      <title>What Are We Really Testing in Mutation Testing for Machine Learning? A Critical Reflection</title>
+      <link>/publication/icse-nier2020/</link>
+      <pubDate>Mon, 18 Jan 2021 14:29:50 +0200</pubDate>
+      <guid>/publication/icse-nier2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Generating Highly-structured Input Data by Combining Search-based Testing and Grammar-based Fuzzing</title>

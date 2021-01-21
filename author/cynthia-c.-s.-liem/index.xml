@@ -5,12 +5,20 @@
     <link>/author/cynthia-c.-s.-liem/</link>
       <atom:link href="/author/cynthia-c.-s.-liem/index.xml" rel="self" type="application/rss+xml" />
     <description>Cynthia C. S. Liem</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 03 Mar 2020 16:20:15 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 18 Jan 2021 14:29:50 +0200</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Cynthia C. S. Liem</title>
       <link>/author/cynthia-c.-s.-liem/</link>
     </image>
+    
+    <item>
+      <title>What Are We Really Testing in Mutation Testing for Machine Learning? A Critical Reflection</title>
+      <link>/publication/icse-nier2020/</link>
+      <pubDate>Mon, 18 Jan 2021 14:29:50 +0200</pubDate>
+      <guid>/publication/icse-nier2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Oracle Issues in Machine Learning and Where to Find Them</title>

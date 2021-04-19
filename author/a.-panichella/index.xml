@@ -5,12 +5,28 @@
     <link>/author/a.-panichella/</link>
       <atom:link href="/author/a.-panichella/index.xml" rel="self" type="application/rss+xml" />
     <description>A. Panichella</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 22:27:51 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 19 Apr 2021 09:03:56 +0200</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>A. Panichella</title>
       <link>/author/a.-panichella/</link>
     </image>
+    
+    <item>
+      <title>Automated Repair of Feature Interaction Failures in Automated Driving Systems</title>
+      <link>/publication/issta2021/</link>
+      <pubDate>Mon, 19 Apr 2021 09:03:56 +0200</pubDate>
+      <guid>/publication/issta2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EvoSuite at the SBST 2021 Tool Competition</title>
+      <link>/publication/sbst2021/</link>
+      <pubDate>Thu, 01 Apr 2021 17:56:40 +0200</pubDate>
+      <guid>/publication/sbst2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Search-Based Software Re-Modularization: A Case Study at Adyen</title>

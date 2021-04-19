@@ -4,22 +4,122 @@
   
   <url>
     <loc>/publication-type/1/</loc>
-    <lastmod>2021-01-01T17:32:54+02:00</lastmod>
+    <lastmod>2021-04-19T09:03:56+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/a.-messaoudi/</loc>
+    <lastmod>2021-04-19T09:03:56+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/a.-panichella/</loc>
+    <lastmod>2021-04-19T09:03:56+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2021-04-19T09:03:56+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2021-04-19T09:03:56+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/issta2021/</loc>
+    <lastmod>2021-04-19T09:03:56+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/d.-bianculli/</loc>
+    <lastmod>2021-04-19T09:03:56+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/d.-shin/</loc>
+    <lastmod>2021-04-19T09:03:56+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/l.-briand/</loc>
+    <lastmod>2021-04-19T09:03:56+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/log-analysis/</loc>
+    <lastmod>2021-04-19T09:03:56+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2021-04-19T09:03:56+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2021-04-19T09:03:56+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/regression-testing/</loc>
+    <lastmod>2021-04-19T09:03:56+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/software-testing/</loc>
+    <lastmod>2021-04-19T09:03:56+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2021-04-19T09:03:56+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/test-case-slicing/</loc>
+    <lastmod>2021-04-19T09:03:56+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/a.-arcuri/</loc>
+    <lastmod>2021-04-01T17:56:40+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/sbst2021/</loc>
+    <lastmod>2021-04-01T17:56:40+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/g.-fraser/</loc>
+    <lastmod>2021-04-01T17:56:40+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/j.-campos/</loc>
+    <lastmod>2021-04-01T17:56:40+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/s.-schweikl/</loc>
+    <lastmod>2021-04-01T17:56:40+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/s.-vogl/</loc>
+    <lastmod>2021-04-01T17:56:40+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/test-case-generation/</loc>
+    <lastmod>2021-04-01T17:56:40+02:00</lastmod>
   </url>
   
   <url>
     <loc>/author/annibale-panichella/</loc>
     <lastmod>2020-10-07T10:14:08+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2021-01-01T17:32:54+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
-    <lastmod>2021-01-01T17:32:54+02:00</lastmod>
   </url>
   
   <url>
@@ -48,33 +148,8 @@
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2021-01-01T17:32:54+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2021-01-01T17:32:54+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/software-testing/</loc>
-    <lastmod>2020-12-01T17:32:54+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2021-01-01T17:32:54+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/icse-nier2020/</loc>
     <lastmod>2020-01-18T14:29:50+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/a.-panichella/</loc>
-    <lastmod>2021-01-01T17:32:54+02:00</lastmod>
   </url>
   
   <url>
@@ -283,11 +358,6 @@
   </url>
   
   <url>
-    <loc>/tag/test-case-generation/</loc>
-    <lastmod>2020-08-04T16:05:57+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tag/test-smells/</loc>
     <lastmod>2020-08-04T16:05:57+02:00</lastmod>
   </url>
@@ -433,22 +503,7 @@
   </url>
   
   <url>
-    <loc>/author/g.-fraser/</loc>
-    <lastmod>2020-04-17T17:56:40+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/j.-campos/</loc>
-    <lastmod>2020-04-17T17:56:40+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/issta2020/</loc>
-    <lastmod>2020-04-17T17:32:54+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/l.-briand/</loc>
     <lastmod>2020-04-17T17:32:54+02:00</lastmod>
   </url>
   
@@ -484,11 +539,6 @@
   
   <url>
     <loc>/tag/dataset/</loc>
-    <lastmod>2020-03-03T17:08:37+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/log-analysis/</loc>
     <lastmod>2020-03-03T17:08:37+01:00</lastmod>
   </url>
   
@@ -813,11 +863,6 @@
   </url>
   
   <url>
-    <loc>/author/d.-bianculli/</loc>
-    <lastmod>2018-07-20T00:05:13+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/author/r.-sasnauskas/</loc>
     <lastmod>2018-07-20T00:05:13+02:00</lastmod>
   </url>
@@ -905,11 +950,6 @@
   <url>
     <loc>/publication/ieee-tse2018b/</loc>
     <lastmod>2018-07-10T11:23:34+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/a.-arcuri/</loc>
-    <lastmod>2018-07-10T11:21:45+02:00</lastmod>
   </url>
   
   <url>
@@ -1109,11 +1149,6 @@
   
   <url>
     <loc>/publication/tse2015/</loc>
-    <lastmod>2015-07-19T23:46:36+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/regression-testing/</loc>
     <lastmod>2015-07-19T23:46:36+02:00</lastmod>
   </url>
   

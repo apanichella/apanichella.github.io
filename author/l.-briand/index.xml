@@ -5,12 +5,20 @@
     <link>/author/l.-briand/</link>
       <atom:link href="/author/l.-briand/index.xml" rel="self" type="application/rss+xml" />
     <description>L. Briand</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 17 Apr 2020 17:32:54 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 19 Apr 2021 09:03:56 +0200</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>L. Briand</title>
       <link>/author/l.-briand/</link>
     </image>
+    
+    <item>
+      <title>Automated Repair of Feature Interaction Failures in Automated Driving Systems</title>
+      <link>/publication/issta2021/</link>
+      <pubDate>Mon, 19 Apr 2021 09:03:56 +0200</pubDate>
+      <guid>/publication/issta2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Automated Repair of Feature Interaction Failures in Automated Driving Systems</title>

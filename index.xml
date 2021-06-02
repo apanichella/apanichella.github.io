@@ -5,12 +5,20 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Annibale Panichella</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 19 Apr 2021 09:03:56 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 27 May 2021 11:17:15 +0200</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Annibale Panichella</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>What Are We Really Testing in Mutation Testing for Machine Learning? A Critical Reflection</title>
+      <link>/talk/icse-nier2021/</link>
+      <pubDate>Thu, 27 May 2021 11:17:15 +0200</pubDate>
+      <guid>/talk/icse-nier2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Log-based Slicing for System-level Test Cases</title>
@@ -69,6 +77,14 @@
     </item>
     
     <item>
+      <title>Revisiting test smells in automatically generated tests: limitations, pitfalls, and opportunities</title>
+      <link>/talk/icsme2020/</link>
+      <pubDate>Sun, 27 Sep 2020 11:17:15 +0200</pubDate>
+      <guid>/talk/icsme2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A Systematic Comparison of Search-Based Approaches for LDA Hyperparameter Tuning</title>
       <link>/publication/infsoft2020/</link>
       <pubDate>Wed, 09 Sep 2020 21:50:29 +0200</pubDate>
@@ -97,6 +113,14 @@
       <link>/publication/ase2020a/</link>
       <pubDate>Thu, 30 Jul 2020 22:27:46 +0200</pubDate>
       <guid>/publication/ase2020a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automated Repair of Feature Interaction Failures in Automated Driving Systems</title>
+      <link>/talk/issta2020/</link>
+      <pubDate>Sat, 18 Jul 2020 11:17:15 +0200</pubDate>
+      <guid>/talk/issta2020/</guid>
       <description></description>
     </item>
     

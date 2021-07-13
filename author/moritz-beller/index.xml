@@ -20,5 +20,21 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Developer Testing in The IDE: Patterns, Beliefs, And Behavior</title>
+      <link>/publication/ieee-tse2018c/</link>
+      <pubDate>Tue, 10 Jul 2018 11:24:46 +0200</pubDate>
+      <guid>/publication/ieee-tse2018c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The impact of test case summaries on bug fixing performance: An empirical investigation</title>
+      <link>/publication/icse2016/</link>
+      <pubDate>Thu, 18 Aug 2016 07:43:26 +0200</pubDate>
+      <guid>/publication/icse2016/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

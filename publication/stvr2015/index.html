@@ -236,7 +236,7 @@
   }
 
   gtag('js', new Date());
-  gtag('config', 'UA-122468956-1', {});
+  gtag('config', 'UA-122468956-1', { 'anonymize_ip': true });
 
   
   document.addEventListener('click', onClickCallback, false);
@@ -334,6 +334,36 @@
 
 
   
+  
+  
+  
+  
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.1/cookieconsent.min.js" integrity="sha256-5VhCqFam2Cn+yjw61zbBNrbHVJ6SRydPeKopYlngbiQ=" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.1/cookieconsent.min.css" integrity="sha256-zQ0LblD/Af8vOppw18+2anxsuaz3pWYyVWi+bTvTH8Q=" crossorigin="anonymous">
+  
+  <script>
+  window.addEventListener("load", function(){
+    window.cookieconsent.initialise({
+      "palette": {
+        "popup": {
+          "background": "#3f51b5",
+          "text": "#fff"
+        },
+        "button": {
+          "background": "#fff",
+          "text": "#3f51b5"
+        }
+      },
+      "theme": "classic",
+      "content": {
+        "message": "This website uses cookies to ensure you get the best experience on our website.",
+        "dismiss": "Got it!",
+        "link": "Learn more",
+        "href": "https://www.cookiesandyou.com"
+      }
+    })});
+  </script>
+
 
 
   
@@ -512,16 +542,31 @@
         
         
         
-          
-          
-          
-            
-          
+
+        <li class="nav-item">
+          <a class="nav-link  active" href="/publication"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
           
         
 
+        
+        
+        
+        
+        
+        
+
         <li class="nav-item">
-          <a class="nav-link " href="/#featured"><span>Publications</span></a>
+          <a class="nav-link " href="/teaching"><span>Teaching</span></a>
         </li>
 
         
@@ -569,23 +614,6 @@
       </li>
       
 
-      
-      <li class="nav-item dropdown theme-dropdown">
-        <a href="#" class="nav-link js-theme-selector" data-toggle="dropdown" aria-haspopup="true">
-          <i class="fas fa-palette" aria-hidden="true"></i>
-        </a>
-        <div class="dropdown-menu">
-          <a href="#" class="dropdown-item js-set-theme-light">
-            <span>Light</span>
-          </a>
-          <a href="#" class="dropdown-item js-set-theme-dark">
-            <span>Dark</span>
-          </a>
-          <a href="#" class="dropdown-item js-set-theme-auto">
-            <span>Automatic</span>
-          </a>
-        </div>
-      </li>
       
 
       
@@ -732,6 +760,16 @@
 
 
 
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tag/defect-prediction/">Defect Prediction</a>
+  
+  <a class="badge badge-light" href="/tag/multi-objective-optimization/">Multi-objective Optimization</a>
+  
+  <a class="badge badge-light" href="/tag/machine-learning/">Machine Learning</a>
+  
+</div>
 
 
 
@@ -915,15 +953,15 @@
     <h3>Related</h3>
     <ul>
       
-      <li><a href="/publication/emse2014/">Labeling Source Code with Information Retrieval Methods: An Empirical Study.</a></li>
+      <li><a href="/publication/ssbse2021a/">Multi-objective Test Case Selection Through Linkage Learning-driven Crossover</a></li>
       
-      <li><a href="/publication/infsoft/">Applying a Smoothing Filter to Improve IR-based Traceability Recovery Processes: An Empirical Investigation.</a></li>
+      <li><a href="/publication/gecco2016/">A Search-based Training Algorithm for Cost-aware Prediction</a></li>
       
-      <li><a href="/publication/saner2016/">Parameterizing and Assembling IR-based Solutions for Software Engineering Tasks using Genetic Algorithms</a></li>
+      <li><a href="/publication/rrpr2021/">ReproducedPaper.org: Openly teaching and structuring machine learning reproducibility</a></li>
       
-      <li><a href="/publication/tse2015/">Improving Multi-Objective Search Based Test Suite Optimization through Diversity Injection</a></li>
+      <li><a href="/publication/ase2020a/">Good Things Come In Threes: Improving Search-based Crash Reproduction With Helper Objectives</a></li>
       
-      <li><a href="/publication/jse2012/">Improving IR-based traceability recovery via noun-based indexing of software artifacts</a></li>
+      <li><a href="/publication/ase2021/">Improving Test Case Generation for REST APIs Through Hierarchical Clustering</a></li>
       
     </ul>
   </div>

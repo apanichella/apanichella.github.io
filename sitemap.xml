@@ -4,21 +4,81 @@
   
   <url>
     <loc>/publication-type/1/</loc>
-    <lastmod>2021-06-29T09:16:23+02:00</lastmod>
+    <lastmod>2021-07-07T22:27:51+02:00</lastmod>
   </url>
   
   <url>
     <loc>/author/annibale-panichella/</loc>
-    <lastmod>2021-06-29T09:16:23+02:00</lastmod>
+    <lastmod>2021-07-07T22:27:51+02:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2021-06-29T09:16:23+02:00</lastmod>
+    <lastmod>2021-07-07T22:27:51+02:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
+    <lastmod>2021-07-07T22:27:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/clustering/</loc>
+    <lastmod>2021-07-07T22:27:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/dimitri-stallenberg/</loc>
+    <lastmod>2021-07-07T22:27:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/evomaster/</loc>
+    <lastmod>2021-07-07T22:27:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/ase2021/</loc>
+    <lastmod>2021-07-07T22:27:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/machine-learning/</loc>
+    <lastmod>2021-07-07T22:27:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/mitchell-olsthoorn/</loc>
+    <lastmod>2021-07-07T22:27:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2021-07-07T22:27:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2021-07-07T22:27:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/restful-api/</loc>
+    <lastmod>2021-07-07T22:27:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2021-07-07T22:27:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/test-case-generation/</loc>
+    <lastmod>2021-07-07T22:27:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/evosuite/</loc>
     <lastmod>2021-06-29T09:16:23+02:00</lastmod>
   </url>
   
@@ -28,17 +88,7 @@
   </url>
   
   <url>
-    <loc>/tag/machine-learning/</loc>
-    <lastmod>2021-06-29T09:16:23+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tag/many-objective-optimization/</loc>
-    <lastmod>2021-06-29T09:16:23+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/mitchell-olsthoorn/</loc>
     <lastmod>2021-06-29T09:16:23+02:00</lastmod>
   </url>
   
@@ -58,32 +108,12 @@
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2021-06-29T09:16:23+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2021-06-29T09:16:23+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tag/regression-testing/</loc>
     <lastmod>2021-06-29T09:16:23+02:00</lastmod>
   </url>
   
   <url>
     <loc>/tag/search-based-software-engineering/</loc>
-    <lastmod>2021-06-29T09:16:23+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2021-06-29T09:16:23+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/test-case-generation/</loc>
     <lastmod>2021-06-29T09:16:23+02:00</lastmod>
   </url>
   
@@ -113,27 +143,17 @@
   </url>
   
   <url>
-    <loc>/author/a.-messaoudi/</loc>
+    <loc>/author/domenico-bianculli/</loc>
     <lastmod>2021-04-19T09:03:56+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/a.-panichella/</loc>
+    <loc>/author/donghwan-shin/</loc>
     <lastmod>2021-04-19T09:03:56+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/d.-bianculli/</loc>
-    <lastmod>2021-04-19T09:03:56+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/d.-shin/</loc>
-    <lastmod>2021-04-19T09:03:56+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/l.-briand/</loc>
+    <loc>/author/lionel-briand/</loc>
     <lastmod>2021-04-19T09:03:56+02:00</lastmod>
   </url>
   
@@ -148,6 +168,11 @@
   </url>
   
   <url>
+    <loc>/author/salma-messaoudi/</loc>
+    <lastmod>2021-04-19T09:03:56+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tag/software-testing/</loc>
     <lastmod>2021-04-19T09:03:56+02:00</lastmod>
   </url>
@@ -158,7 +183,17 @@
   </url>
   
   <url>
+    <loc>/tag/test-smell/</loc>
+    <lastmod>2021-04-19T09:03:56+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/author/a.-arcuri/</loc>
+    <lastmod>2021-04-01T17:56:40+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/a.-panichella/</loc>
     <lastmod>2021-04-01T17:56:40+02:00</lastmod>
   </url>
   
@@ -208,12 +243,12 @@
   </url>
   
   <url>
-    <loc>/author/c.-schroder/</loc>
+    <loc>/author/casper-schroder/</loc>
     <lastmod>2020-01-01T22:27:51+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/m.-aniche/</loc>
+    <loc>/author/mauricio-aniche/</loc>
     <lastmod>2020-01-01T22:27:51+02:00</lastmod>
   </url>
   
@@ -303,7 +338,7 @@
   </url>
   
   <url>
-    <loc>/author/a.-zaidman/</loc>
+    <loc>/author/andy-zaidman/</loc>
     <lastmod>2020-12-01T17:32:54+02:00</lastmod>
   </url>
   
@@ -318,7 +353,7 @@
   </url>
   
   <url>
-    <loc>/author/q.-zhou/</loc>
+    <loc>/author/qianqian-zhou/</loc>
     <lastmod>2020-12-01T17:32:54+02:00</lastmod>
   </url>
   
@@ -353,11 +388,6 @@
   </url>
   
   <url>
-    <loc>/tag/metaheuristic-search/</loc>
-    <lastmod>2020-09-09T21:50:29+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/infsoft2020/</loc>
     <lastmod>2020-09-09T21:50:29+02:00</lastmod>
   </url>
@@ -374,6 +404,11 @@
   
   <url>
     <loc>/tag/latent-dirichlet-allocation/</loc>
+    <lastmod>2020-09-09T21:50:29+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/meta-heuristics/</loc>
     <lastmod>2020-09-09T21:50:29+02:00</lastmod>
   </url>
   
@@ -478,11 +513,6 @@
   </url>
   
   <url>
-    <loc>/author/andy-zaidman/</loc>
-    <lastmod>2020-07-30T22:27:46+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/author/arie-van-deursen/</loc>
     <lastmod>2020-07-30T22:27:46+02:00</lastmod>
   </url>
@@ -510,11 +540,6 @@
   <url>
     <loc>/talk/issta2020/</loc>
     <lastmod>2020-07-18T11:17:15+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/evosuite/</loc>
-    <lastmod>2020-07-06T14:29:50+02:00</lastmod>
   </url>
   
   <url>
@@ -548,12 +573,7 @@
   </url>
   
   <url>
-    <loc>/author/r.-ben-abdessalem/</loc>
-    <lastmod>2020-04-17T17:32:54+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/s.-nejati/</loc>
+    <loc>/author/raja-ben-abdessalem/</loc>
     <lastmod>2020-04-17T17:32:54+02:00</lastmod>
   </url>
   
@@ -563,7 +583,12 @@
   </url>
   
   <url>
-    <loc>/author/t.-stifter/</loc>
+    <loc>/author/shiva-nejati/</loc>
+    <lastmod>2020-04-17T17:32:54+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/thomas-stifter/</loc>
     <lastmod>2020-04-17T17:32:54+02:00</lastmod>
   </url>
   
@@ -588,7 +613,7 @@
   </url>
   
   <url>
-    <loc>/tag/ai/</loc>
+    <loc>/tag/artificial-intelligence/</loc>
     <lastmod>2020-03-03T16:20:15+01:00</lastmod>
   </url>
   
@@ -608,7 +633,7 @@
   </url>
   
   <url>
-    <loc>/author/c.-laaber/</loc>
+    <loc>/author/christoph-laaber/</loc>
     <lastmod>2019-10-09T09:51:33+02:00</lastmod>
   </url>
   
@@ -618,17 +643,12 @@
   </url>
   
   <url>
-    <loc>/author/g.-grano/</loc>
+    <loc>/author/giovanni-grano/</loc>
     <lastmod>2019-10-09T09:51:33+02:00</lastmod>
   </url>
   
   <url>
     <loc>/tag/performance-testing/</loc>
-    <lastmod>2019-10-09T09:51:33+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/s.-panichella/</loc>
     <lastmod>2019-10-09T09:51:33+02:00</lastmod>
   </url>
   
@@ -658,6 +678,16 @@
   </url>
   
   <url>
+    <loc>/tag/security-testing/</loc>
+    <lastmod>2019-06-26T10:41:41+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/xml-injection/</loc>
+    <lastmod>2019-06-26T10:41:41+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tag/api-misuse-detection/</loc>
     <lastmod>2019-06-26T10:29:32+02:00</lastmod>
   </url>
@@ -674,11 +704,6 @@
   
   <url>
     <loc>/tag/integration-testing/</loc>
-    <lastmod>2019-06-26T10:29:32+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/meta-heuristics/</loc>
     <lastmod>2019-06-26T10:29:32+02:00</lastmod>
   </url>
   
@@ -728,6 +753,11 @@
   </url>
   
   <url>
+    <loc>/tag/hyperparameter-tuning/</loc>
+    <lastmod>2019-04-29T23:16:23+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tools/age-moea/</loc>
     <lastmod>2019-04-08T11:08:54+02:00</lastmod>
   </url>
@@ -773,6 +803,11 @@
   </url>
   
   <url>
+    <loc>/tag/numerical-problems/</loc>
+    <lastmod>2019-04-08T10:45:30+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication/sbst2019b/</loc>
     <lastmod>2019-04-08T10:41:50+02:00</lastmod>
   </url>
@@ -789,11 +824,6 @@
   
   <url>
     <loc>/author/andrea-arcuri/</loc>
-    <lastmod>2019-04-08T10:11:19+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/lionel-briand/</loc>
     <lastmod>2019-04-08T10:11:19+02:00</lastmod>
   </url>
   
@@ -818,12 +848,22 @@
   </url>
   
   <url>
-    <loc>/author/a.-de-lucia/</loc>
+    <loc>/author/andrea-de-lucia/</loc>
     <lastmod>2018-09-08T11:51:02+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/d.-di-nucci/</loc>
+    <loc>/author/dario-di-nucci/</loc>
+    <lastmod>2018-09-08T11:51:02+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/hypervolume/</loc>
+    <lastmod>2018-09-08T11:51:02+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/test-case-prioritization/</loc>
     <lastmod>2018-09-08T11:51:02+02:00</lastmod>
   </url>
   
@@ -833,17 +873,37 @@
   </url>
   
   <url>
-    <loc>/author/f.-m.-kifetew/</loc>
+    <loc>/author/fitsum-m.-kifetew/</loc>
     <lastmod>2018-08-18T07:39:53+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/p.-tonella/</loc>
+    <loc>/author/paolo-tonella/</loc>
     <lastmod>2018-08-18T07:39:53+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/f.-palomba/</loc>
+    <loc>/author/anniable-panichella/</loc>
+    <lastmod>2018-08-13T19:14:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/code-smell/</loc>
+    <lastmod>2018-08-13T19:14:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/energy-consumption/</loc>
+    <lastmod>2018-08-13T19:14:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/fabio-palomba/</loc>
+    <lastmod>2018-08-13T19:14:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/mobile-app/</loc>
     <lastmod>2018-08-13T19:14:00+02:00</lastmod>
   </url>
   
@@ -853,12 +913,7 @@
   </url>
   
   <url>
-    <loc>/author/a.-van-deursen/</loc>
-    <lastmod>2018-08-13T18:55:36+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/m.-soltani/</loc>
+    <loc>/author/mozhan-soltani/</loc>
     <lastmod>2018-08-13T18:55:36+02:00</lastmod>
   </url>
   
@@ -873,17 +928,7 @@
   </url>
   
   <url>
-    <loc>/author/p.-derakhshanfar/</loc>
-    <lastmod>2018-07-20T00:06:34+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/ssbse2018a/</loc>
-    <lastmod>2018-07-20T00:06:34+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/x.-devroey/</loc>
     <lastmod>2018-07-20T00:06:34+02:00</lastmod>
   </url>
   
@@ -893,22 +938,22 @@
   </url>
   
   <url>
-    <loc>/author/r.-sasnauskas/</loc>
+    <loc>/author/raimondas-sasnauskas/</loc>
     <lastmod>2018-07-20T00:05:13+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/s.-messaoudi/</loc>
-    <lastmod>2018-07-20T00:05:13+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/j.-castelein/</loc>
+    <loc>/author/jeroen-castelein/</loc>
     <lastmod>2018-07-20T00:04:04+02:00</lastmod>
   </url>
   
   <url>
     <loc>/publication/icse2018/</loc>
+    <lastmod>2018-07-20T00:04:04+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/sql/</loc>
     <lastmod>2018-07-20T00:04:04+02:00</lastmod>
   </url>
   
@@ -923,12 +968,27 @@
   </url>
   
   <url>
-    <loc>/author/q.-zhu/</loc>
+    <loc>/author/qianqian-zhu/</loc>
     <lastmod>2018-07-20T00:03:02+02:00</lastmod>
   </url>
   
   <url>
+    <loc>/author/l.-briand/</loc>
+    <lastmod>2018-07-20T00:01:56+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/author/r.-abdessalem/</loc>
+    <lastmod>2018-07-20T00:01:56+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/s.-nejati/</loc>
+    <lastmod>2018-07-20T00:01:56+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/t.-stifter/</loc>
     <lastmod>2018-07-20T00:01:56+02:00</lastmod>
   </url>
   
@@ -938,17 +998,22 @@
   </url>
   
   <url>
+    <loc>/tag/competition/</loc>
+    <lastmod>2018-07-20T00:01:14+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication/sbst2018/</loc>
     <lastmod>2018-07-20T00:01:14+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/u.-r.-molina/</loc>
+    <loc>/author/urko-r.-molina/</loc>
     <lastmod>2018-07-20T00:01:14+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/r.-oliveto/</loc>
+    <loc>/author/rocco-oliveto/</loc>
     <lastmod>2018-07-10T11:25:49+02:00</lastmod>
   </url>
   
@@ -963,22 +1028,12 @@
   </url>
   
   <url>
-    <loc>/author/g.-gousios/</loc>
+    <loc>/author/sebastian-proksch/</loc>
     <lastmod>2018-07-10T11:24:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/m.-beller/</loc>
-    <lastmod>2018-07-10T11:24:46+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/s.-amann/</loc>
-    <lastmod>2018-07-10T11:24:46+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/s.-proksch/</loc>
+    <loc>/author/sven-amann/</loc>
     <lastmod>2018-07-10T11:24:46+02:00</lastmod>
   </url>
   
@@ -993,7 +1048,7 @@
   </url>
   
   <url>
-    <loc>/author/s.-jan/</loc>
+    <loc>/author/sadeeq.-jan/</loc>
     <lastmod>2018-07-10T11:21:45+02:00</lastmod>
   </url>
   
@@ -1008,12 +1063,22 @@
   </url>
   
   <url>
-    <loc>/author/c.-d.-nguyen/</loc>
+    <loc>/author/a.-zaidman/</loc>
     <lastmod>2018-07-10T11:11:22+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/d.-appelt/</loc>
+    <loc>/author/cu-d.-nguyen/</loc>
+    <lastmod>2018-07-10T11:11:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/dennis-appelt/</loc>
+    <lastmod>2018-07-10T11:11:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/q.-zhu/</loc>
     <lastmod>2018-07-10T11:11:22+02:00</lastmod>
   </url>
   
@@ -1023,7 +1088,12 @@
   </url>
   
   <url>
-    <loc>/author/a.-prota/</loc>
+    <loc>/author/andrea-prota/</loc>
+    <lastmod>2017-08-13T20:08:32+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/profiling/</loc>
     <lastmod>2017-08-13T20:08:32+02:00</lastmod>
   </url>
   
@@ -1043,8 +1113,13 @@
   </url>
   
   <url>
-    <loc>/author/u.-molina/</loc>
+    <loc>/author/urko-molina/</loc>
     <lastmod>2017-08-13T20:05:07+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/mobile-apps/</loc>
+    <lastmod>2017-08-13T19:37:11+02:00</lastmod>
   </url>
   
   <url>
@@ -1063,7 +1138,7 @@
   </url>
   
   <url>
-    <loc>/author/f.-kifetew/</loc>
+    <loc>/author/fitsum-kifetew/</loc>
     <lastmod>2017-07-13T20:03:02+02:00</lastmod>
   </url>
   
@@ -1073,22 +1148,27 @@
   </url>
   
   <url>
-    <loc>/author/b.-dit/</loc>
+    <loc>/author/bogdan-dit/</loc>
     <lastmod>2016-08-18T08:00:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/d.-poshyvanyk/</loc>
+    <loc>/author/denys-poshyvanyk/</loc>
     <lastmod>2016-08-18T08:00:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/m.-di-penta/</loc>
+    <loc>/author/massimiliano-di-penta/</loc>
     <lastmod>2016-08-18T08:00:46+02:00</lastmod>
   </url>
   
   <url>
     <loc>/publication/saner2016/</loc>
+    <lastmod>2016-08-18T08:00:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/traceability-recovery/</loc>
     <lastmod>2016-08-18T08:00:46+02:00</lastmod>
   </url>
   
@@ -1103,6 +1183,11 @@
   </url>
   
   <url>
+    <loc>/author/g.-gousios/</loc>
+    <lastmod>2016-08-18T07:54:15+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication/serip2016/</loc>
     <lastmod>2016-08-18T07:54:15+02:00</lastmod>
   </url>
@@ -1113,7 +1198,17 @@
   </url>
   
   <url>
+    <loc>/author/m.-beller/</loc>
+    <lastmod>2016-08-18T07:54:15+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication/icpc2016/</loc>
+    <lastmod>2016-08-18T07:52:50+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/information-retrieval/</loc>
     <lastmod>2016-08-18T07:52:50+02:00</lastmod>
   </url>
   
@@ -1138,22 +1233,32 @@
   </url>
   
   <url>
+    <loc>/author/m.-di-penta/</loc>
+    <lastmod>2016-08-18T07:51:10+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication/gecco2016/</loc>
     <lastmod>2016-08-18T07:47:34+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/a.-bacchelli/</loc>
+    <loc>/author/alberto-bacchelli/</loc>
     <lastmod>2016-08-18T07:47:34+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/c.-v.-alexandru/</loc>
+    <loc>/author/carol-v.-alexandru/</loc>
     <lastmod>2016-08-18T07:47:34+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/h.-gall/</loc>
+    <loc>/tag/defect-prediction/</loc>
+    <lastmod>2016-08-18T07:47:34+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/harald-gall/</loc>
     <lastmod>2016-08-18T07:47:34+02:00</lastmod>
   </url>
   
@@ -1173,12 +1278,27 @@
   </url>
   
   <url>
+    <loc>/author/a.-de-lucia/</loc>
+    <lastmod>2015-07-19T23:50:41+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication/stvr2015/</loc>
     <lastmod>2015-07-19T23:50:41+02:00</lastmod>
   </url>
   
   <url>
     <loc>/author/g.-canfora/</loc>
+    <lastmod>2015-07-19T23:50:41+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/r.-oliveto/</loc>
+    <lastmod>2015-07-19T23:50:41+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/s.-panichella/</loc>
     <lastmod>2015-07-19T23:50:41+02:00</lastmod>
   </url>
   
@@ -1193,7 +1313,7 @@
   </url>
   
   <url>
-    <loc>/author/g.-capobianco/</loc>
+    <loc>/author/giovanni-capobianco/</loc>
     <lastmod>2012-07-19T23:55:49+02:00</lastmod>
   </url>
   
@@ -1205,6 +1325,15 @@
   <url>
     <loc>/publication/infsoft/</loc>
     <lastmod>2012-07-19T23:54:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/smoothing-filter/</loc>
+    <lastmod>2012-07-19T23:54:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/teaching/</loc>
   </url>
   
   <url>

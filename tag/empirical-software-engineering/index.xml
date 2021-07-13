@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>empirical software engineering | Annibale Panichella</title>
+    <title>Empirical Software Engineering | Annibale Panichella</title>
     <link>/tag/empirical-software-engineering/</link>
       <atom:link href="/tag/empirical-software-engineering/index.xml" rel="self" type="application/rss+xml" />
-    <description>empirical software engineering</description>
+    <description>Empirical Software Engineering</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Dec 2020 17:32:54 +0200</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>empirical software engineering</title>
+      <title>Empirical Software Engineering</title>
       <link>/tag/empirical-software-engineering/</link>
     </image>
     
@@ -17,6 +17,46 @@
       <link>/publication/jss2020/</link>
       <pubDate>Tue, 01 Dec 2020 17:32:54 +0200</pubDate>
       <guid>/publication/jss2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Developer Testing in The IDE: Patterns, Beliefs, And Behavior</title>
+      <link>/publication/ieee-tse2018c/</link>
+      <pubDate>Tue, 10 Jul 2018 11:24:46 +0200</pubDate>
+      <guid>/publication/ieee-tse2018c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to Catch &#39;Em All: WatchDog, a Family of IDE Plug-Ins to Assess Testing</title>
+      <link>/publication/serip2016/</link>
+      <pubDate>Thu, 18 Aug 2016 07:54:15 +0200</pubDate>
+      <guid>/publication/serip2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Continuous Delivery Practices in a Large Financial Organization</title>
+      <link>/publication/icsme2016/</link>
+      <pubDate>Thu, 18 Aug 2016 07:51:10 +0200</pubDate>
+      <guid>/publication/icsme2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The impact of test case summaries on bug fixing performance: An empirical investigation</title>
+      <link>/publication/icse2016/</link>
+      <pubDate>Thu, 18 Aug 2016 07:43:26 +0200</pubDate>
+      <guid>/publication/icse2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Labeling Source Code with Information Retrieval Methods: An Empirical Study.</title>
+      <link>/publication/emse2014/</link>
+      <pubDate>Sat, 19 Jul 2014 23:52:54 +0200</pubDate>
+      <guid>/publication/emse2014/</guid>
       <description></description>
     </item>
     

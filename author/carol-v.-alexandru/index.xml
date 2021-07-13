@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Carol V. Alexandru | Annibale Panichella</title>
+    <link>/author/carol-v.-alexandru/</link>
+      <atom:link href="/author/carol-v.-alexandru/index.xml" rel="self" type="application/rss+xml" />
+    <description>Carol V. Alexandru</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 18 Aug 2016 07:47:34 +0200</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Carol V. Alexandru</title>
+      <link>/author/carol-v.-alexandru/</link>
+    </image>
+    
+    <item>
+      <title>A Search-based Training Algorithm for Cost-aware Prediction</title>
+      <link>/publication/gecco2016/</link>
+      <pubDate>Thu, 18 Aug 2016 07:47:34 +0200</pubDate>
+      <guid>/publication/gecco2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -236,7 +236,7 @@
   }
 
   gtag('js', new Date());
-  gtag('config', 'UA-122468956-1', {});
+  gtag('config', 'UA-122468956-1', { 'anonymize_ip': true });
 
   
   document.addEventListener('click', onClickCallback, false);
@@ -281,7 +281,7 @@
   <meta property="og:description" content="Assistant Professor"><meta property="og:image" content="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png">
   <meta property="twitter:image" content="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2020-07-30T22:27:46&#43;02:00">
+    <meta property="og:updated_time" content="2020-12-01T17:32:54&#43;02:00">
   
 
   
@@ -290,6 +290,36 @@
 
 
   
+  
+  
+  
+  
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.1/cookieconsent.min.js" integrity="sha256-5VhCqFam2Cn+yjw61zbBNrbHVJ6SRydPeKopYlngbiQ=" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.1/cookieconsent.min.css" integrity="sha256-zQ0LblD/Af8vOppw18+2anxsuaz3pWYyVWi+bTvTH8Q=" crossorigin="anonymous">
+  
+  <script>
+  window.addEventListener("load", function(){
+    window.cookieconsent.initialise({
+      "palette": {
+        "popup": {
+          "background": "#3f51b5",
+          "text": "#fff"
+        },
+        "button": {
+          "background": "#fff",
+          "text": "#3f51b5"
+        }
+      },
+      "theme": "classic",
+      "content": {
+        "message": "This website uses cookies to ensure you get the best experience on our website.",
+        "dismiss": "Got it!",
+        "link": "Learn more",
+        "href": "https://www.cookiesandyou.com"
+      }
+    })});
+  </script>
+
 
 
   
@@ -468,16 +498,31 @@
         
         
         
-          
-          
-          
-            
-          
+
+        <li class="nav-item">
+          <a class="nav-link " href="/publication"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
           
         
 
+        
+        
+        
+        
+        
+        
+
         <li class="nav-item">
-          <a class="nav-link " href="/#featured"><span>Publications</span></a>
+          <a class="nav-link " href="/teaching"><span>Teaching</span></a>
         </li>
 
         
@@ -526,23 +571,6 @@
       
 
       
-      <li class="nav-item dropdown theme-dropdown">
-        <a href="#" class="nav-link js-theme-selector" data-toggle="dropdown" aria-haspopup="true">
-          <i class="fas fa-palette" aria-hidden="true"></i>
-        </a>
-        <div class="dropdown-menu">
-          <a href="#" class="dropdown-item js-set-theme-light">
-            <span>Light</span>
-          </a>
-          <a href="#" class="dropdown-item js-set-theme-dark">
-            <span>Dark</span>
-          </a>
-          <a href="#" class="dropdown-item js-set-theme-auto">
-            <span>Automatic</span>
-          </a>
-        </div>
-      </li>
-      
 
       
 
@@ -574,6 +602,10 @@
       <ul>
         
         <li>
+          <a href="/publication/jss2020/">How to Kill Them All: An Exploratory Study on the Impact of Code Observability on Mutation Testing</a>
+        </li>
+        
+        <li>
           <a href="/publication/ase2020a/">Good Things Come In Threes: Improving Search-based Crash Reproduction With Helper Objectives</a>
         </li>
         
@@ -587,6 +619,58 @@
         
         <li>
           <a href="/publication/msrdata2019/">LogChunks: A Data Set for Build Log Analysis</a>
+        </li>
+        
+        <li>
+          <a href="/publication/ieee-tse2018f/">A Test Case Prioritization Genetic Algorithm guided by the Hypervolume Indicator</a>
+        </li>
+        
+        <li>
+          <a href="/publication/infsoft2018a/">On the Impact of Code Smells on the Energy Consumption of Mobile Applications</a>
+        </li>
+        
+        <li>
+          <a href="/publication/ssbse2018a/">Single-objective versus Multi-Objectivized Optimization for Evolutionary Crash Reproduction</a>
+        </li>
+        
+        <li>
+          <a href="/publication/icst2018/">An Investigation of Compression Techniques to Speed up Mutation Testing</a>
+        </li>
+        
+        <li>
+          <a href="/publication/ieee-tse2018d/">The Scent of a Smell: An Extensive Comparison between Textual and Structural Smells</a>
+        </li>
+        
+        <li>
+          <a href="/publication/ieee-tse2018c/">Developer Testing in The IDE: Patterns, Beliefs, And Behavior</a>
+        </li>
+        
+        <li>
+          <a href="/publication/saner2017b/">Lightweight Detection of Android-specific Code Smells: the aDoctor Project</a>
+        </li>
+        
+        <li>
+          <a href="/publication/saner2017a/">Software-Based Energy Profiling of Android Apps: Simple, Efficient and Reliable</a>
+        </li>
+        
+        <li>
+          <a href="/publication/icstw2017/">Speeding-Up Mutation Testing via Data Compression and State Infection</a>
+        </li>
+        
+        <li>
+          <a href="/publication/icse2017-tool/">PETrA: a Software-Based Tool for Estimating the Energy Profile of Android Applications</a>
+        </li>
+        
+        <li>
+          <a href="/publication/icpc2016/">A Textual-based Technique for Smell Detection</a>
+        </li>
+        
+        <li>
+          <a href="/publication/issta2016/">Automatic Test Case Generation: What If Test Code Quality Matters?</a>
+        </li>
+        
+        <li>
+          <a href="/publication/icse2016/">The impact of test case summaries on bug fixing performance: An empirical investigation</a>
         </li>
         
       </ul>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dennis Appelt | Annibale Panichella</title>
+    <link>/author/dennis-appelt/</link>
+      <atom:link href="/author/dennis-appelt/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dennis Appelt</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 10 Jul 2018 11:11:22 +0200</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Dennis Appelt</title>
+      <link>/author/dennis-appelt/</link>
+    </image>
+    
+    <item>
+      <title>A Machine Learning- Driven Evolutionary Approach for Testing Web Application Firewalls</title>
+      <link>/publication/ieee-tr2018/</link>
+      <pubDate>Tue, 10 Jul 2018 11:11:22 +0200</pubDate>
+      <guid>/publication/ieee-tr2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatically Repairing Web Application Firewalls Based on Successful SQL Injection Attacks</title>
+      <link>/publication/issre2018/</link>
+      <pubDate>Sun, 13 Aug 2017 19:28:13 +0200</pubDate>
+      <guid>/publication/issre2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

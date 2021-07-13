@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Raimondas Sasnauskas | Annibale Panichella</title>
+    <link>/author/raimondas-sasnauskas/</link>
+      <atom:link href="/author/raimondas-sasnauskas/index.xml" rel="self" type="application/rss+xml" />
+    <description>Raimondas Sasnauskas</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 20 Jul 2018 00:05:13 +0200</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Raimondas Sasnauskas</title>
+      <link>/author/raimondas-sasnauskas/</link>
+    </image>
+    
+    <item>
+      <title>A Search-based Approach for Accurate Identification of Log Message Formats</title>
+      <link>/publication/icpc2018/</link>
+      <pubDate>Fri, 20 Jul 2018 00:05:13 +0200</pubDate>
+      <guid>/publication/icpc2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

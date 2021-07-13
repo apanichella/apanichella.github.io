@@ -5,12 +5,20 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Annibale Panichella</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 29 Jun 2021 09:16:23 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 07 Jul 2021 22:27:51 +0200</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Annibale Panichella</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Improving Test Case Generation for REST APIs Through Hierarchical Clustering</title>
+      <link>/publication/ase2021/</link>
+      <pubDate>Wed, 07 Jul 2021 22:27:51 +0200</pubDate>
+      <guid>/publication/ase2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Hybrid Multi-level Crossover for Unit Test Case Generation</title>
@@ -715,6 +723,14 @@ A way to reduce the cost of regression testing consists of selecting or prioriti
       <link>/publication/infsoft/</link>
       <pubDate>Thu, 19 Jul 2012 23:54:19 +0200</pubDate>
       <guid>/publication/infsoft/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/teaching/</guid>
       <description></description>
     </item>
     

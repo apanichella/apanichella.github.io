@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Traceability Recovery | Annibale Panichella</title>
+    <link>/tag/traceability-recovery/</link>
+      <atom:link href="/tag/traceability-recovery/index.xml" rel="self" type="application/rss+xml" />
+    <description>Traceability Recovery</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 18 Aug 2016 08:00:46 +0200</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Traceability Recovery</title>
+      <link>/tag/traceability-recovery/</link>
+    </image>
+    
+    <item>
+      <title>Parameterizing and Assembling IR-based Solutions for Software Engineering Tasks using Genetic Algorithms</title>
+      <link>/publication/saner2016/</link>
+      <pubDate>Thu, 18 Aug 2016 08:00:46 +0200</pubDate>
+      <guid>/publication/saner2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving IR-based traceability recovery via noun-based indexing of software artifacts</title>
+      <link>/publication/jse2012/</link>
+      <pubDate>Thu, 19 Jul 2012 23:55:49 +0200</pubDate>
+      <guid>/publication/jse2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Applying a Smoothing Filter to Improve IR-based Traceability Recovery Processes: An Empirical Investigation.</title>
+      <link>/publication/infsoft/</link>
+      <pubDate>Thu, 19 Jul 2012 23:54:19 +0200</pubDate>
+      <guid>/publication/infsoft/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

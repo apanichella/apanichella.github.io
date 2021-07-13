@@ -5,20 +5,12 @@
     <link>/author/m.-di-penta/</link>
       <atom:link href="/author/m.-di-penta/index.xml" rel="self" type="application/rss+xml" />
     <description>M. Di Penta</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 18 Aug 2016 08:00:46 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 18 Aug 2016 07:51:10 +0200</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>M. Di Penta</title>
       <link>/author/m.-di-penta/</link>
     </image>
-    
-    <item>
-      <title>Parameterizing and Assembling IR-based Solutions for Software Engineering Tasks using Genetic Algorithms</title>
-      <link>/publication/saner2016/</link>
-      <pubDate>Thu, 18 Aug 2016 08:00:46 +0200</pubDate>
-      <guid>/publication/saner2016/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Continuous Delivery Practices in a Large Financial Organization</title>
@@ -33,32 +25,6 @@
       <link>/publication/stvr2015/</link>
       <pubDate>Sun, 19 Jul 2015 23:50:41 +0200</pubDate>
       <guid>/publication/stvr2015/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Improving Multi-Objective Search Based Test Suite Optimization through Diversity Injection</title>
-      <link>/publication/tse2015/</link>
-      <pubDate>Sun, 19 Jul 2015 23:46:36 +0200</pubDate>
-      <guid>/publication/tse2015/</guid>
-      <description>&lt;p&gt;Abstract:
-A way to reduce the cost of regression testing consists of selecting or prioritizing subsets of test cases from a test suite according to some criteria. Besides greedy algorithms, cost cognizant additional greedy algorithms, multi-objective optimization algorithms, and multi-objective genetic algorithms (MOGAs), have also been proposed to tackle this problem. However, previous studies have shown that there is no clear winner between greedy and MOGAs, and that their combination does not necessarily produce better results. In this paper we show that the optimality of MOGAs can be significantly improved by diversifying the solutions (sub-sets of the test suite) generated during the search process. Specifically, we introduce a new MOGA, coined as DIversity based Genetic Algorithm (DIV-GA), based on the mechanisms of orthogonal design and orthogonal evolution that increase diversity by injecting new orthogonal individuals during the search process. Results of an empirical study conducted on eleven programs show that DIV-GA outperforms both greedy algorithms and the traditional MOGAs from the optimality point of view. Moreover, the solutions (sub-sets of the test suite) provided by DIV-GA are able to detect more faults than the other algorithms, while keeping the same test execution cost.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Labeling Source Code with Information Retrieval Methods: An Empirical Study.</title>
-      <link>/publication/emse2014/</link>
-      <pubDate>Sat, 19 Jul 2014 23:52:54 +0200</pubDate>
-      <guid>/publication/emse2014/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Applying a Smoothing Filter to Improve IR-based Traceability Recovery Processes: An Empirical Investigation.</title>
-      <link>/publication/infsoft/</link>
-      <pubDate>Thu, 19 Jul 2012 23:54:19 +0200</pubDate>
-      <guid>/publication/infsoft/</guid>
       <description></description>
     </item>
     

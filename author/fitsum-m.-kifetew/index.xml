@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fitsum M. Kifetew | Annibale Panichella</title>
+    <link>/author/fitsum-m.-kifetew/</link>
+      <atom:link href="/author/fitsum-m.-kifetew/index.xml" rel="self" type="application/rss+xml" />
+    <description>Fitsum M. Kifetew</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 18 Aug 2018 07:39:53 +0200</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Fitsum M. Kifetew</title>
+      <link>/author/fitsum-m.-kifetew/</link>
+    </image>
+    
+    <item>
+      <title>A Large Scale Empirical Comparison of State-of-the-art Search-based Test Case Generators</title>
+      <link>/publication/infsof2018b/</link>
+      <pubDate>Sat, 18 Aug 2018 07:39:53 +0200</pubDate>
+      <guid>/publication/infsof2018b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Incremental Control Dependency Frontier Exploration for Many-Criteria Test Case Generation</title>
+      <link>/publication/ssbse2018b/</link>
+      <pubDate>Fri, 20 Jul 2018 00:07:54 +0200</pubDate>
+      <guid>/publication/ssbse2018b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Java Unit Testing Tool Competition - Sixth Round</title>
+      <link>/publication/sbst2018/</link>
+      <pubDate>Fri, 20 Jul 2018 00:01:14 +0200</pubDate>
+      <guid>/publication/sbst2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automated Test Case Generation as a Many-Objective Optimisation Problem with Dynamic Selection of the Targets</title>
+      <link>/publication/ieee-tse2018b/</link>
+      <pubDate>Tue, 10 Jul 2018 11:23:34 +0200</pubDate>
+      <guid>/publication/ieee-tse2018b/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

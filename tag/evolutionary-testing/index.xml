@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>evolutionary testing | Annibale Panichella</title>
+    <title>Evolutionary Testing | Annibale Panichella</title>
     <link>/tag/evolutionary-testing/</link>
       <atom:link href="/tag/evolutionary-testing/index.xml" rel="self" type="application/rss+xml" />
-    <description>evolutionary testing</description>
+    <description>Evolutionary Testing</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 09 Oct 2019 09:51:33 +0200</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>evolutionary testing</title>
+      <title>Evolutionary Testing</title>
       <link>/tag/evolutionary-testing/</link>
     </image>
     
@@ -36,6 +36,14 @@ Our empirical investigation also highlights that the usage of performance proxie
       <link>/publication/ieee-tse2018b/</link>
       <pubDate>Tue, 10 Jul 2018 11:23:34 +0200</pubDate>
       <guid>/publication/ieee-tse2018b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolutionary Testing for Crash Reproduction</title>
+      <link>/publication/sbst2016a/</link>
+      <pubDate>Thu, 18 Aug 2016 07:56:19 +0200</pubDate>
+      <guid>/publication/sbst2016a/</guid>
       <description></description>
     </item>
     

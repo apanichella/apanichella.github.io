@@ -5,12 +5,20 @@
     <link>/tag/deep-learning/</link>
       <atom:link href="/tag/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Deep Learning</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 27 May 2021 11:17:15 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 07 Aug 2021 22:27:51 +0200</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Deep Learning</title>
       <link>/tag/deep-learning/</link>
     </image>
+    
+    <item>
+      <title>	Assessing Robustness of ML-Based Program Analysis Tools using Metamorphic Program Transformations</title>
+      <link>/publication/ase2021-nier/</link>
+      <pubDate>Sat, 07 Aug 2021 22:27:51 +0200</pubDate>
+      <guid>/publication/ase2021-nier/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>What Are We Really Testing in Mutation Testing for Machine Learning? A Critical Reflection</title>

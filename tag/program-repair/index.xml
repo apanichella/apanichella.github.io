@@ -5,12 +5,20 @@
     <link>/tag/program-repair/</link>
       <atom:link href="/tag/program-repair/index.xml" rel="self" type="application/rss+xml" />
     <description>Program Repair</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 17 Apr 2020 17:32:54 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 20 Dec 2021 09:32:39 +0100</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Program Repair</title>
       <link>/tag/program-repair/</link>
     </image>
+    
+    <item>
+      <title>PropR: Property-Based Automatic Program Repair</title>
+      <link>/publication/icse2022/</link>
+      <pubDate>Mon, 20 Dec 2021 09:32:39 +0100</pubDate>
+      <guid>/publication/icse2022/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Automated Repair of Feature Interaction Failures in Automated Driving Systems</title>

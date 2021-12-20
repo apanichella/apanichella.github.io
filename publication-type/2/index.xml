@@ -5,12 +5,20 @@
     <link>/publication-type/2/</link>
       <atom:link href="/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Dec 2020 17:32:54 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 20 Dec 2021 09:57:31 +0100</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>2</title>
       <link>/publication-type/2/</link>
     </image>
+    
+    <item>
+      <title>Large scale inverse design of planar on-chip mode sorter</title>
+      <link>/publication/acsphotonics2022/</link>
+      <pubDate>Mon, 20 Dec 2021 09:57:31 +0100</pubDate>
+      <guid>/publication/acsphotonics2022/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>How to Kill Them All: An Exploratory Study on the Impact of Code Observability on Mutation Testing</title>

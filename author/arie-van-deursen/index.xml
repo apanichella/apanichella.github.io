@@ -5,12 +5,20 @@
     <link>/author/arie-van-deursen/</link>
       <atom:link href="/author/arie-van-deursen/index.xml" rel="self" type="application/rss+xml" />
     <description>Arie van Deursen</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 20 Dec 2021 09:32:39 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 18 Jan 2022 14:29:50 +0200</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Arie van Deursen</title>
       <link>/author/arie-van-deursen/</link>
     </image>
+    
+    <item>
+      <title>SynTest-Solidity: Automated Test Case Generation and Fuzzing for Smart Contracts</title>
+      <link>/publication/icse-demo2022/</link>
+      <pubDate>Tue, 18 Jan 2022 14:29:50 +0200</pubDate>
+      <guid>/publication/icse-demo2022/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>PropR: Property-Based Automatic Program Repair</title>

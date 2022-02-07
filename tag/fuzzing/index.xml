@@ -5,12 +5,20 @@
     <link>/tag/fuzzing/</link>
       <atom:link href="/tag/fuzzing/index.xml" rel="self" type="application/rss+xml" />
     <description>Fuzzing</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 18 Jan 2021 14:29:50 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 18 Jan 2022 14:29:50 +0200</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Fuzzing</title>
       <link>/tag/fuzzing/</link>
     </image>
+    
+    <item>
+      <title>SynTest-Solidity: Automated Test Case Generation and Fuzzing for Smart Contracts</title>
+      <link>/publication/icse-demo2022/</link>
+      <pubDate>Tue, 18 Jan 2022 14:29:50 +0200</pubDate>
+      <guid>/publication/icse-demo2022/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>What Are We Really Testing in Mutation Testing for Machine Learning? A Critical Reflection</title>

@@ -3,27 +3,87 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/publication-type/1/</loc>
+    <lastmod>2022-01-18T14:29:50+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/annibale-panichella/</loc>
+    <lastmod>2022-01-18T14:29:50+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2022-01-18T14:29:50+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/arie-van-deursen/</loc>
+    <lastmod>2022-01-18T14:29:50+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2022-01-18T14:29:50+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/dimitri-stallenberg/</loc>
+    <lastmod>2022-01-18T14:29:50+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/fuzzing/</loc>
+    <lastmod>2022-01-18T14:29:50+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/mitchell-olsthoorn/</loc>
+    <lastmod>2022-01-18T14:29:50+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2022-01-18T14:29:50+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2022-01-18T14:29:50+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/smart-contracts/</loc>
+    <lastmod>2022-01-18T14:29:50+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/icse-demo2022/</loc>
+    <lastmod>2022-01-18T14:29:50+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2022-01-18T14:29:50+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/test-case-generation/</loc>
+    <lastmod>2022-01-18T14:29:50+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/testing/</loc>
+    <lastmod>2022-01-18T14:29:50+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication-type/2/</loc>
     <lastmod>2021-12-20T09:57:31+01:00</lastmod>
   </url>
   
   <url>
     <loc>/author/ady-arie/</loc>
-    <lastmod>2021-12-20T09:57:31+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/annibale-panichella/</loc>
-    <lastmod>2021-12-20T09:57:31+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2021-12-20T09:57:31+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
     <lastmod>2021-12-20T09:57:31+01:00</lastmod>
   </url>
   
@@ -70,31 +130,6 @@
   <url>
     <loc>/tag/on-chip-sorting/</loc>
     <lastmod>2021-12-20T09:57:31+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2021-12-20T09:57:31+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2021-12-20T09:57:31+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2021-12-20T09:57:31+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication-type/1/</loc>
-    <lastmod>2021-12-20T09:32:39+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/arie-van-deursen/</loc>
-    <lastmod>2021-12-20T09:32:39+01:00</lastmod>
   </url>
   
   <url>
@@ -158,11 +193,6 @@
   </url>
   
   <url>
-    <loc>/author/dimitri-stallenberg/</loc>
-    <lastmod>2021-07-07T22:27:51+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tag/evomaster/</loc>
     <lastmod>2021-07-07T22:27:51+02:00</lastmod>
   </url>
@@ -173,17 +203,7 @@
   </url>
   
   <url>
-    <loc>/author/mitchell-olsthoorn/</loc>
-    <lastmod>2021-07-07T22:27:51+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tag/restful-api/</loc>
-    <lastmod>2021-07-07T22:27:51+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/test-case-generation/</loc>
     <lastmod>2021-07-07T22:27:51+02:00</lastmod>
   </url>
   
@@ -330,11 +350,6 @@
   <url>
     <loc>/author/cynthia-c.-s.-liem/</loc>
     <lastmod>2020-03-03T16:20:15+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/fuzzing/</loc>
-    <lastmod>2020-07-06T14:29:50+02:00</lastmod>
   </url>
   
   <url>

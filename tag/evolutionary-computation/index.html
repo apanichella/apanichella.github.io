@@ -281,7 +281,7 @@
   <meta property="og:description" content="Assistant Professor"><meta property="og:image" content="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png">
   <meta property="twitter:image" content="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2019-04-08T11:08:54&#43;02:00">
+    <meta property="og:updated_time" content="2022-03-27T10:56:44&#43;02:00">
   
 
   
@@ -619,10 +619,34 @@
     
     
     <div>
+      <h2><a href="/publication/gecco2022/" >An Improved Pareto Front Modeling Algorithm for Large-scale Many-Objective Optimization</a></h2>
+      <div class="article-style">
+        
+          A key idea in many-objective optimization is to approximate the optimal Pareto front using a set of representative non-dominated solutions. The produced solution set should be close to the optimal front (convergence) and well-diversified (diversity). Recent studies have shown that measuring both convergence and diversity depends on the shape (or curvature) of the Pareto front. In recent years, researchers have proposed evolutionary algorithms that model the shape of the non-dominated front to define environmental selection strategies that adapt to the underlying geometry. This paper proposes a novel method for non-dominated front modeling using the Newton-Raphson iterative method for roots finding. Second, we compute the distance (diversity) between each pair of non-dominated solutions using geodesics, which are generalizations of the distance on Riemann manifolds (curved topological spaces). Thereafter, we have introduced an evolutionary algorithm within the Adaptive Geometry Estimation based MOEA (AGE-MOEA) framework, which we called AGE-MOEA-II. Computational experiments with 17 problems from the WFG and SMOP benchmarks show that AGE-MOEA-II outperforms its predecessor AGE-MOEA as well as other state-of-the-art many-objective algorithms, i.e., NSGA-III, MOEA/D, VaEA, and LMEA.
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
       <h2><a href="/tools/age-moea/" >AGE-MOEA</a></h2>
       <div class="article-style">
         
           Implementation of AGE-MOEA in Matlab
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/publication/gecco2019/" >An Adaptive Evolutionary Algorithm based on Non-Euclidean Geometry for Many-objective Optimization</a></h2>
+      <div class="article-style">
+        
+          In the last decade, several evolutionary algorithms have been proposed in the literature for solving multi- and many-objective optimization problems. The performance of such algorithms depends on their capability to produce a well-diversified front (diversity) that is as closer to the Pareto optimal front as possible (proximity). Diversity and proximity strongly depend on the geometry of the Pareto front, i.e., whether it forms a Euclidean, spherical or hyperbolic hypersurface. However, existing multi- and many-objective evolutionary algorithms show poor versatility on different geometries. To address this issue, we propose a novel evolutionary algorithm that: (1) estimates the geometry of the generated front using a fast procedure with O(M × N) computational complexity (M is the number of objectives and N is the population size); (2) adapts the diversity and proximity metrics accordingly. Therefore, to form the population for the next generation, solutions are selected based on their contribution to the diversity and proximity of the non-dominated front with regards to the estimated geometry. Computational experiments show that the proposed algorithm outperforms state-of-the-art multi and many-objective evolutionary algorithms on benchmark test problems with different geometries and number of objectives (M=3,5, and 10).
         
       </div>
     </div>

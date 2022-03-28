@@ -5,12 +5,20 @@
     <link>/talk/</link>
       <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 27 May 2021 11:17:15 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 18 Mar 2022 11:17:15 +0200</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>/talk/</link>
     </image>
+    
+    <item>
+      <title>Automated Repair of Feature Interaction Failures in Automated Driving Systems</title>
+      <link>/talk/svt2022/</link>
+      <pubDate>Fri, 18 Mar 2022 11:17:15 +0200</pubDate>
+      <guid>/talk/svt2022/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>What Are We Really Testing in Mutation Testing for Machine Learning? A Critical Reflection</title>

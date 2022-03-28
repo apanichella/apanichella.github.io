@@ -58,6 +58,16 @@
   </url>
   
   <url>
+    <loc>/talk/svt2022/</loc>
+    <lastmod>2022-03-18T11:17:15+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+    <lastmod>2022-03-18T11:17:15+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/author/arie-van-deursen/</loc>
     <lastmod>2022-01-18T14:29:50+02:00</lastmod>
   </url>
@@ -269,11 +279,6 @@
   
   <url>
     <loc>/tag/mutation-testing/</loc>
-    <lastmod>2021-05-27T11:17:15+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/</loc>
     <lastmod>2021-05-27T11:17:15+02:00</lastmod>
   </url>
   

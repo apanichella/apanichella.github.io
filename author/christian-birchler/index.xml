@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Christian Birchler | Annibale Panichella</title>
+    <link>/author/christian-birchler/</link>
+      <atom:link href="/author/christian-birchler/index.xml" rel="self" type="application/rss+xml" />
+    <description>Christian Birchler</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 04 Apr 2022 11:21:45 +0200</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Christian Birchler</title>
+      <link>/author/christian-birchler/</link>
+    </image>
+    
+    <item>
+      <title>Single and Multi-objective Test Cases Prioritization for Self-driving Cars in Virtual Environments</title>
+      <link>/publication/acm-tosem2022/</link>
+      <pubDate>Mon, 04 Apr 2022 11:21:45 +0200</pubDate>
+      <guid>/publication/acm-tosem2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

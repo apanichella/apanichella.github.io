@@ -5,12 +5,20 @@
     <link>/author/sebastiano-panichella/</link>
       <atom:link href="/author/sebastiano-panichella/index.xml" rel="self" type="application/rss+xml" />
     <description>Sebastiano Panichella</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 04 Aug 2020 16:05:57 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 04 Apr 2022 11:21:45 +0200</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Sebastiano Panichella</title>
       <link>/author/sebastiano-panichella/</link>
     </image>
+    
+    <item>
+      <title>Single and Multi-objective Test Cases Prioritization for Self-driving Cars in Virtual Environments</title>
+      <link>/publication/acm-tosem2022/</link>
+      <pubDate>Mon, 04 Apr 2022 11:21:45 +0200</pubDate>
+      <guid>/publication/acm-tosem2022/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Revisiting Test Smells in Automatically Generated Tests: Limitations, Pitfalls, and Opportunities</title>

@@ -5,12 +5,20 @@
     <link>/author/pouria-derakhshanfar/</link>
       <atom:link href="/author/pouria-derakhshanfar/index.xml" rel="self" type="application/rss+xml" />
     <description>Pouria Derakhshanfar</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 29 Jun 2021 09:16:23 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 04 Apr 2022 11:21:45 +0200</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Pouria Derakhshanfar</title>
       <link>/author/pouria-derakhshanfar/</link>
     </image>
+    
+    <item>
+      <title>Single and Multi-objective Test Cases Prioritization for Self-driving Cars in Virtual Environments</title>
+      <link>/publication/acm-tosem2022/</link>
+      <pubDate>Mon, 04 Apr 2022 11:21:45 +0200</pubDate>
+      <guid>/publication/acm-tosem2022/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Hybrid Multi-level Crossover for Unit Test Case Generation</title>

@@ -5,17 +5,20 @@
     <link>/author/annibale-panichella/</link>
       <atom:link href="/author/annibale-panichella/index.xml" rel="self" type="application/rss+xml" />
     <description>Annibale Panichella</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 11 Jun 2022 18:43:48 +0200</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Annibale Panichella</title>
       <link>/author/annibale-panichella/</link>
     </image>
     
-  </channel>
-</rss>
-bale-panichella/</link>
-    </image>
+    <item>
+      <title>Guiding Automated Test Case Generation for Transaction-Reverting Statements in Smart Contracts</title>
+      <link>/publication/icsme2022/</link>
+      <pubDate>Sat, 11 Jun 2022 18:43:48 +0200</pubDate>
+      <guid>/publication/icsme2022/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Single and Multi-objective Test Cases Prioritization for Self-driving Cars in Virtual Environments</title>
@@ -44,7 +47,7 @@ bale-panichella/</link>
     <item>
       <title>Large scale inverse design of planar on-chip mode sorter</title>
       <link>/publication/acsphotonics2022/</link>
-      <pubDate>Mon, 20 Dec 2021 09:57:31 +0100</pubDate>
+      <pubDate>Sat, 01 Jan 2022 09:57:31 +0100</pubDate>
       <guid>/publication/acsphotonics2022/</guid>
       <description></description>
     </item>
@@ -52,7 +55,7 @@ bale-panichella/</link>
     <item>
       <title>PropR: Property-Based Automatic Program Repair</title>
       <link>/publication/icse2022/</link>
-      <pubDate>Mon, 20 Dec 2021 09:32:39 +0100</pubDate>
+      <pubDate>Sat, 01 Jan 2022 09:32:39 +0100</pubDate>
       <guid>/publication/icse2022/</guid>
       <description></description>
     </item>

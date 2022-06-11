@@ -27,10 +27,10 @@
   
     
   
-  <meta name="description" content="Assistant Professor">
+  <meta name="description" content="Transaction-reverting statements are key constructs within Solidity that are extensively used for authority and validity checks. Current state-of-the-art search-based testing and fuzzing approaches do not explicitly handle these statements and therefore can not effectively detect security vulnerabilities. In this paper, we argue that it is critical to directly handle and test these statements to assess that they correctly protect the contracts against invalid requests. To this aim, we propose a new approach that improves the search guidance for these transaction-reverting statements based on interprocedural control dependency analysis, in addition to the traditional coverage criteria. We assess the benefits of our approach by performing an empirical study on 100 smart contracts w.r.t. transaction-reverting statement coverage and vulnerability detection capability. Our results show that the proposed approach can improve the performance of DynaMOSA, the state-of-the-art algorithm for test case generation. On average, we improve transaction-reverting statement coverage by 14 % (up to 35 %), line coverage by 8 % (up to 32 %), and vulnerability-detection capability by 17 % (up to 50 %).">
 
   
-  <link rel="alternate" hreflang="en-us" href="/authors/">
+  <link rel="alternate" hreflang="en-us" href="/publication/icsme2022/">
 
   
 
@@ -250,14 +250,12 @@
   
 
   
-  <link rel="alternate" href="/authors/index.xml" type="application/rss+xml" title="Annibale Panichella">
-  
 
   <link rel="manifest" href="/index.webmanifest">
   <link rel="icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png">
 
-  <link rel="canonical" href="/authors/">
+  <link rel="canonical" href="/publication/icsme2022/">
 
   
   
@@ -276,17 +274,63 @@
   <meta property="twitter:creator" content="@AnniPanic">
   
   <meta property="og:site_name" content="Annibale Panichella">
-  <meta property="og:url" content="/authors/">
-  <meta property="og:title" content="Authors | Annibale Panichella">
-  <meta property="og:description" content="Assistant Professor"><meta property="og:image" content="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png">
+  <meta property="og:url" content="/publication/icsme2022/">
+  <meta property="og:title" content="Guiding Automated Test Case Generation for Transaction-Reverting Statements in Smart Contracts | Annibale Panichella">
+  <meta property="og:description" content="Transaction-reverting statements are key constructs within Solidity that are extensively used for authority and validity checks. Current state-of-the-art search-based testing and fuzzing approaches do not explicitly handle these statements and therefore can not effectively detect security vulnerabilities. In this paper, we argue that it is critical to directly handle and test these statements to assess that they correctly protect the contracts against invalid requests. To this aim, we propose a new approach that improves the search guidance for these transaction-reverting statements based on interprocedural control dependency analysis, in addition to the traditional coverage criteria. We assess the benefits of our approach by performing an empirical study on 100 smart contracts w.r.t. transaction-reverting statement coverage and vulnerability detection capability. Our results show that the proposed approach can improve the performance of DynaMOSA, the state-of-the-art algorithm for test case generation. On average, we improve transaction-reverting statement coverage by 14 % (up to 35 %), line coverage by 8 % (up to 32 %), and vulnerability-detection capability by 17 % (up to 50 %)."><meta property="og:image" content="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png">
   <meta property="twitter:image" content="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2022-06-11T18:43:48&#43;02:00">
+    
+      <meta property="article:published_time" content="2022-06-11T18:43:48&#43;02:00">
+    
+    <meta property="article:modified_time" content="2022-06-11T18:43:48&#43;02:00">
   
 
   
 
 
+    
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "/publication/icsme2022/"
+  },
+  "headline": "Guiding Automated Test Case Generation for Transaction-Reverting Statements in Smart Contracts",
+  
+  "datePublished": "2022-06-11T18:43:48+02:00",
+  "dateModified": "2022-06-11T18:43:48+02:00",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Mitchell Olsthoorn"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Annibale Panichella",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png"
+    }
+  },
+  "description": "Transaction-reverting statements are key constructs within Solidity that are extensively used for authority and validity checks. Current state-of-the-art search-based testing and fuzzing approaches do not explicitly handle these statements and therefore can not effectively detect security vulnerabilities. In this paper, we argue that it is critical to directly handle and test these statements to assess that they correctly protect the contracts against invalid requests. To this aim, we propose a new approach that improves the search guidance for these transaction-reverting statements based on interprocedural control dependency analysis, in addition to the traditional coverage criteria. We assess the benefits of our approach by performing an empirical study on 100 smart contracts w.r.t. transaction-reverting statement coverage and vulnerability detection capability. Our results show that the proposed approach can improve the performance of DynaMOSA, the state-of-the-art algorithm for test case generation. On average, we improve transaction-reverting statement coverage by 14 % (up to 35 %), line coverage by 8 % (up to 32 %), and vulnerability-detection capability by 17 % (up to 50 %)."
+}
+</script>
+
+  
+
+  
 
 
   
@@ -328,7 +372,7 @@
 
 
 
-  <title>Authors | Annibale Panichella</title>
+  <title>Guiding Automated Test Case Generation for Transaction-Reverting Statements in Smart Contracts | Annibale Panichella</title>
 
 </head>
 
@@ -500,7 +544,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/publication"><span>Publications</span></a>
+          <a class="nav-link  active" href="/publication"><span>Publications</span></a>
         </li>
 
         
@@ -580,89 +624,362 @@
 </nav>
 
 
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
+  <div class="pub">
 
   
 
+
+
+
+
+
+
+
+
+
+
+
+  
+
   
   
+  
+<div class="article-container pt-3">
+  <h1>Guiding Automated Test Case Generation for Transaction-Reverting Statements in Smart Contracts</h1>
+
+  
+
   
     
-  
-<div class="universal-wrapper pt-3">
-  <h1>Authors</h1>
+
+
+<div class="article-metadata">
 
   
+  
+  
+  
+  <div>
+    
+
+  
+  <span >Mitchell Olsthoorn</span>, <span >Arie van Deursen</span>, <span >Annibale Panichella</span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    June 2022
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+
+</div>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1" href="/project/ripple/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
 
   
 </div>
 
 
 
-<div class="universal-wrapper">
-  
+  <div class="article-container">
 
-  <ul>
     
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            
+            
+            <a href="/publication/#1">
+              Conference paper
+            </a>
+            
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9">The 38th IEEE International Conference on Software Maintenance and Evolution (ICSME 2022)</div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
+
+    
+
+
+
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tag/test-case-generation/">Test Case Generation</a>
+  
+  <a class="badge badge-light" href="/tag/fuzzing/">Fuzzing</a>
+  
+  <a class="badge badge-light" href="/tag/smart-contracts/">Smart Contracts</a>
+  
+  <a class="badge badge-light" href="/tag/search-based-software-engineering/">Search-based Software Engineering</a>
+  
+</div>
+
+
+
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
     
       
-      <li><a href="/author/dror-weisman/">Dror Weisman</a></li>
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=/publication/icsme2022/&amp;text=Guiding%20Automated%20Test%20Case%20Generation%20for%20Transaction-Reverting%20Statements%20in%20Smart%20Contracts" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
     
       
-      <li><a href="/author/giuseppe-di-domenico/">Giuseppe Di Domenico</a></li>
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=/publication/icsme2022/&amp;t=Guiding%20Automated%20Test%20Case%20Generation%20for%20Transaction-Reverting%20Statements%20in%20Smart%20Contracts" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
     
       
-      <li><a href="/author/david-sands/">David Sands</a></li>
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=Guiding%20Automated%20Test%20Case%20Generation%20for%20Transaction-Reverting%20Statements%20in%20Smart%20Contracts&amp;body=/publication/icsme2022/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
     
       
-      <li><a href="/author/leonhard-applis/">Leonhard Applis</a></li>
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=/publication/icsme2022/&amp;title=Guiding%20Automated%20Test%20Case%20Generation%20for%20Transaction-Reverting%20Statements%20in%20Smart%20Contracts" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
     
       
-      <li><a href="/author/matthias-pall-gissurarson/">Matthías Páll Gissurarson</a></li>
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="whatsapp://send?text=Guiding%20Automated%20Test%20Case%20Generation%20for%20Transaction-Reverting%20Statements%20in%20Smart%20Contracts%20/publication/icsme2022/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
     
       
-      <li><a href="/author/domenico-bianculli/">Domenico Bianculli</a></li>
-    
       
-      <li><a href="/author/donghwan-shin/">Donghwan Shin</a></li>
-    
       
-      <li><a href="/author/lionel-briand/">Lionel Briand</a></li>
-    
+        
       
-      <li><a href="/author/salma-messaoudi/">Salma Messaoudi</a></li>
-    
       
-      <li><a href="/author/a.-arcuri/">A. Arcuri</a></li>
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=/publication/icsme2022/&amp;title=Guiding%20Automated%20Test%20Case%20Generation%20for%20Transaction-Reverting%20Statements%20in%20Smart%20Contracts" target="_blank" rel="noopener" class="share-btn-weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
     
   </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
 
   
-<nav>
-  <ul class="pagination justify-content-center">
-    
-    <li class="page-item"><a class="page-link" href="/authors/">&laquo;</a></li>
     
     
-    <li class="page-item"><a class="page-link" href="/authors/page/3/">&raquo;</a></li>
-    
-  </ul>
-</nav>
 
 
+
+
+
+  
+
+
+  
+    
+    
+
+
+
+
+
+  
+
+
+  
+    
+    
+
+
+
+
+
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  <div class="article-widget content-widget-hr">
+    <h3>Related</h3>
+    <ul>
+      
+      <li><a href="/publication/ase2020-nier/">Generating Highly-structured Input Data by Combining Search-based Testing and Grammar-based Fuzzing</a></li>
+      
+      <li><a href="/publication/icse-demo2022/">SynTest-Solidity: Automated Test Case Generation and Fuzzing for Smart Contracts</a></li>
+      
+      <li><a href="/publication/gecco2020/">Crash Reproduction Using Helper Objectives</a></li>
+      
+      <li><a href="/publication/ase2020a/">Good Things Come In Threes: Improving Search-based Crash Reproduction With Helper Objectives</a></li>
+      
+      <li><a href="/publication/ieee-tse2019/">Testing with Fewer Resources: An Adaptive Approach to Performance-Aware Test Case Generation</a></li>
+      
+    </ul>
+  </div>
+  
+
+
+
+
+
+  </div>
 </div>
 
       

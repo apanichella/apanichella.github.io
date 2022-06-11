@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Smart Contracts | Annibale Panichella</title>
-    <link>/tag/smart-contracts/</link>
-      <atom:link href="/tag/smart-contracts/index.xml" rel="self" type="application/rss+xml" />
-    <description>Smart Contracts</description>
+    <title>Smart Contract | Annibale Panichella</title>
+    <link>/tag/smart-contract/</link>
+      <atom:link href="/tag/smart-contract/index.xml" rel="self" type="application/rss+xml" />
+    <description>Smart Contract</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 11 Jun 2022 18:43:48 +0200</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Smart Contracts</title>
-      <link>/tag/smart-contracts/</link>
+      <title>Smart Contract</title>
+      <link>/tag/smart-contract/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>/publication/icsme2022/</link>
       <pubDate>Sat, 11 Jun 2022 18:43:48 +0200</pubDate>
       <guid>/publication/icsme2022/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SynTest-Solidity: Automated Test Case Generation and Fuzzing for Smart Contracts</title>
-      <link>/publication/icse-demo2022/</link>
-      <pubDate>Tue, 18 Jan 2022 14:29:50 +0200</pubDate>
-      <guid>/publication/icse-demo2022/</guid>
       <description></description>
     </item>
     

@@ -5,12 +5,20 @@
     <link>/tag/replication-study/</link>
       <atom:link href="/tag/replication-study/index.xml" rel="self" type="application/rss+xml" />
     <description>Replication Study</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 04 Aug 2020 16:05:57 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 21 Jul 2022 11:34:14 +0200</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Replication Study</title>
       <link>/tag/replication-study/</link>
     </image>
+    
+    <item>
+      <title>Test Smells 20 Years Later: Detectability, Validity, and Reliability</title>
+      <link>/publication/emse2022/</link>
+      <pubDate>Thu, 21 Jul 2022 11:34:14 +0200</pubDate>
+      <guid>/publication/emse2022/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Revisiting Test Smells in Automatically Generated Tests: Limitations, Pitfalls, and Opportunities</title>

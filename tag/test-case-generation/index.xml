@@ -5,12 +5,22 @@
     <link>/tag/test-case-generation/</link>
       <atom:link href="/tag/test-case-generation/index.xml" rel="self" type="application/rss+xml" />
     <description>Test Case Generation</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 21 Jul 2022 11:34:14 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 18 Aug 2022 09:16:23 +0200</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Test Case Generation</title>
       <link>/tag/test-case-generation/</link>
     </image>
+    
+    <item>
+      <title>Guess What: Test Case Generation for Javascript with Unsupervised Probabilistic Type Inference</title>
+      <link>/publication/ssbse2022/</link>
+      <pubDate>Thu, 18 Aug 2022 09:16:23 +0200</pubDate>
+      <guid>/publication/ssbse2022/</guid>
+      <description>&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+&lt;p&gt;Search-based test case generation approaches make use of static type information to determine which data types should be used for the creation of new test cases. Dynamically typed languages like JavaScript, however, do not have this type information. In this paper, we propose an unsupervised probabilistic type inference approach to infer data types within the test case generation process. We evaluated the proposed approach on a benchmark of 98~units under test (i.e., exported classes and functions) compared to random type sampling w.r.t. branch coverage. Our results show that our type inference approach achieves a statistically significant increase in 56% of the test files with up to 71% of branch coverage compared to the baseline.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Test Smells 20 Years Later: Detectability, Validity, and Reliability</title>

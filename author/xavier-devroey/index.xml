@@ -5,12 +5,20 @@
     <link>/author/xavier-devroey/</link>
       <atom:link href="/author/xavier-devroey/index.xml" rel="self" type="application/rss+xml" />
     <description>Xavier Devroey</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 13 Sep 2022 09:29:14 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 12 Dec 2022 11:11:22 +0200</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Xavier Devroey</title>
       <link>/author/xavier-devroey/</link>
     </image>
+    
+    <item>
+      <title>JUGE: An Infrastructure for Benchmarking Java Unit Test Generators</title>
+      <link>/publication/stvr2022/</link>
+      <pubDate>Mon, 12 Dec 2022 11:11:22 +0200</pubDate>
+      <guid>/publication/stvr2022/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Generating Class-Level Integration Tests Using Call Site Information</title>

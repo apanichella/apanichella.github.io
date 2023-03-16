@@ -1,1551 +1,955 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
+    <loc>/author/burcu-kulahcioglu-ozkan/</loc>
+    <lastmod>2023-01-01T22:27:51+02:00</lastmod>
+  </url><url>
+    <loc>/publication-type/1/</loc>
+    <lastmod>2023-01-01T22:27:51+02:00</lastmod>
+  </url><url>
+    <loc>/author/annibale-panichella/</loc>
+    <lastmod>2023-01-01T22:27:51+02:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2023-01-01T22:27:51+02:00</lastmod>
+  </url><url>
+    <loc>/authors/</loc>
+    <lastmod>2023-01-01T22:27:51+02:00</lastmod>
+  </url><url>
+    <loc>/tag/blockchain/</loc>
+    <lastmod>2023-01-01T22:27:51+02:00</lastmod>
+  </url><url>
+    <loc>/tag/concurrency/</loc>
+    <lastmod>2023-01-01T22:27:51+02:00</lastmod>
+  </url><url>
+    <loc>/tag/distributed-systems/</loc>
+    <lastmod>2023-01-01T22:27:51+02:00</lastmod>
+  </url><url>
+    <loc>/publication/icse-seip2023/</loc>
+    <lastmod>2023-01-01T22:27:51+02:00</lastmod>
+  </url><url>
+    <loc>/tag/evolutionary-approaches/</loc>
+    <lastmod>2023-01-01T22:27:51+02:00</lastmod>
+  </url><url>
+    <loc>/author/m.c.-van-meerten/</loc>
+    <lastmod>2023-01-01T22:27:51+02:00</lastmod>
+  </url><url>
+    <loc>/publication_types/</loc>
+    <lastmod>2023-01-01T22:27:51+02:00</lastmod>
+  </url><url>
+    <loc>/publication/</loc>
+    <lastmod>2023-01-01T22:27:51+02:00</lastmod>
+  </url><url>
+    <loc>/tag/ripple/</loc>
+    <lastmod>2023-01-01T22:27:51+02:00</lastmod>
+  </url><url>
+    <loc>/tag/software-testing/</loc>
+    <lastmod>2023-01-01T22:27:51+02:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2023-01-01T22:27:51+02:00</lastmod>
+  </url><url>
     <loc>/publication-type/2/</loc>
     <lastmod>2022-12-12T11:11:22+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/alessio-gambi/</loc>
     <lastmod>2022-12-12T11:11:22+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/annibale-panichella/</loc>
-    <lastmod>2022-12-12T11:11:22+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2022-12-12T11:11:22+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
-    <lastmod>2022-12-12T11:11:22+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/fitsum-kifetew/</loc>
     <lastmod>2022-12-12T11:11:22+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/juan-pablo-galeotti/</loc>
     <lastmod>2022-12-12T11:11:22+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/stvr2022/</loc>
     <lastmod>2022-12-12T11:11:22+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/mutation-testing/</loc>
     <lastmod>2022-12-12T11:11:22+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2022-12-12T11:11:22+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2022-12-12T11:11:22+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/rene-just/</loc>
     <lastmod>2022-12-12T11:11:22+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/sebastiano-panichella/</loc>
     <lastmod>2022-12-12T11:11:22+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2022-12-12T11:11:22+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/xavier-devroey/</loc>
     <lastmod>2022-12-12T11:11:22+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/massimiliano-di-penta/</loc>
     <lastmod>2022-11-11T11:21:45+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/acm-tosem2022b/</loc>
     <lastmod>2022-11-11T11:21:45+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/damian-tamburri/</loc>
     <lastmod>2022-11-11T11:21:45+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/fiorella-zampetti/</loc>
     <lastmod>2022-11-11T11:21:45+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/gerardo-canfora/</loc>
     <lastmod>2022-11-11T11:21:45+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/multi-objective-optimization/</loc>
     <lastmod>2022-11-11T11:21:45+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/regression-testing/</loc>
     <lastmod>2022-11-11T11:21:45+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/search-based-software-engineering/</loc>
     <lastmod>2022-11-11T11:21:45+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/self-driving-cars/</loc>
     <lastmod>2022-11-11T11:21:45+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/andy-zaidman/</loc>
     <lastmod>2022-09-13T09:29:14+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/arie-van-deursen/</loc>
     <lastmod>2022-09-13T09:29:14+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/cling/</loc>
     <lastmod>2022-09-13T09:29:14+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/fuzzing/</loc>
     <lastmod>2022-09-13T09:29:14+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/ieee-tse2022/</loc>
     <lastmod>2022-09-13T09:29:14+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/many-objective-optimization/</loc>
     <lastmod>2022-09-13T09:29:14+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/pouria-derakhshanfar/</loc>
     <lastmod>2022-09-13T09:29:14+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/software-testing/</loc>
-    <lastmod>2022-09-13T09:29:14+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/test-case-generation/</loc>
     <lastmod>2022-09-13T09:29:14+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication-type/1/</loc>
-    <lastmod>2022-08-18T09:16:23+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/dimitri-stallenberg/</loc>
     <lastmod>2022-08-18T09:16:23+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/ssbse2022/</loc>
     <lastmod>2022-08-18T09:16:23+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/javascript/</loc>
     <lastmod>2022-08-18T09:16:23+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/mitchell-olsthoorn/</loc>
     <lastmod>2022-08-18T09:16:23+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/anand-ashok-sawant/</loc>
     <lastmod>2022-07-21T11:34:14+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/gordon-fraser/</loc>
     <lastmod>2022-07-21T11:34:14+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/replication-study/</loc>
     <lastmod>2022-07-21T11:34:14+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/test-smells/</loc>
     <lastmod>2022-07-21T11:34:14+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/emse2022/</loc>
     <lastmod>2022-07-21T11:34:14+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/unit-testing/</loc>
     <lastmod>2022-07-21T11:34:14+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/vincent-hellendoorn/</loc>
     <lastmod>2022-07-21T11:34:14+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/icsme2022/</loc>
     <lastmod>2022-06-11T18:43:48+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/smart-contracts/</loc>
     <lastmod>2022-06-11T18:43:48+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/christian-birchler/</loc>
     <lastmod>2022-04-04T11:21:45+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/sajad-khatiri/</loc>
     <lastmod>2022-04-04T11:21:45+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/acm-tosem2022/</loc>
     <lastmod>2022-04-04T11:21:45+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/gecco2022/</loc>
     <lastmod>2022-03-27T10:56:44+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/evolutionary-computation/</loc>
     <lastmod>2022-03-27T10:56:44+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/numerical-problems/</loc>
     <lastmod>2022-03-27T10:56:44+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/talk/svt2022/</loc>
     <lastmod>2022-03-18T11:17:15+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/talk/</loc>
     <lastmod>2022-03-18T11:17:15+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/icse-demo2022/</loc>
     <lastmod>2022-01-18T14:29:50+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/testing/</loc>
     <lastmod>2022-01-18T14:29:50+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/ady-arie/</loc>
     <lastmod>2021-12-20T09:57:31+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/clustering/</loc>
     <lastmod>2021-12-20T09:57:31+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/dolev-roitman/</loc>
     <lastmod>2021-12-20T09:57:31+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/dror-weisman/</loc>
     <lastmod>2021-12-20T09:57:31+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/evolutionary-algorithms/</loc>
     <lastmod>2021-12-20T09:57:31+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/giuseppe-di-domenico/</loc>
     <lastmod>2021-12-20T09:57:31+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/hermite-gaussian-beams/</loc>
     <lastmod>2021-12-20T09:57:31+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/acsphotonics2022/</loc>
     <lastmod>2021-12-20T09:57:31+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/machine-learning/</loc>
     <lastmod>2021-12-20T09:57:31+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/on-chip-sorting/</loc>
     <lastmod>2021-12-20T09:57:31+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/david-sands/</loc>
     <lastmod>2021-12-20T09:32:39+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/genetic-programming/</loc>
     <lastmod>2021-12-20T09:32:39+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/haskell/</loc>
     <lastmod>2021-12-20T09:32:39+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/leonhard-applis/</loc>
     <lastmod>2021-12-20T09:32:39+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/matthias-pall-gissurarson/</loc>
     <lastmod>2021-12-20T09:32:39+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/program-repair/</loc>
     <lastmod>2021-12-20T09:32:39+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/property/</loc>
     <lastmod>2021-12-20T09:32:39+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/icse2022/</loc>
     <lastmod>2021-12-20T09:32:39+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/ase2021-nier/</loc>
     <lastmod>2021-08-07T22:27:51+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/ai-for-se/</loc>
     <lastmod>2021-08-07T22:27:51+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/deep-learning/</loc>
     <lastmod>2021-08-07T22:27:51+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/metamorphic-testing/</loc>
     <lastmod>2021-08-07T22:27:51+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/evomaster/</loc>
     <lastmod>2021-07-07T22:27:51+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/ase2021/</loc>
     <lastmod>2021-07-07T22:27:51+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/restful-api/</loc>
     <lastmod>2021-07-07T22:27:51+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/evosuite/</loc>
     <lastmod>2021-06-29T09:16:23+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/ssbse2021b/</loc>
     <lastmod>2021-06-29T09:16:23+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/ssbse2021a/</loc>
     <lastmod>2021-06-29T09:16:23+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/test-case-selection/</loc>
     <lastmod>2021-06-29T09:16:23+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/talk/icse-nier2021/</loc>
     <lastmod>2021-05-27T11:17:15+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/domenico-bianculli/</loc>
     <lastmod>2021-04-19T09:03:56+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/donghwan-shin/</loc>
     <lastmod>2021-04-19T09:03:56+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/lionel-briand/</loc>
     <lastmod>2021-04-19T09:03:56+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/log-analysis/</loc>
     <lastmod>2021-04-19T09:03:56+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/issta2021/</loc>
     <lastmod>2021-04-19T09:03:56+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/salma-messaoudi/</loc>
     <lastmod>2021-04-19T09:03:56+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/test-case-slicing/</loc>
     <lastmod>2021-04-19T09:03:56+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/test-smell/</loc>
     <lastmod>2021-04-19T09:03:56+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/a.-arcuri/</loc>
     <lastmod>2021-04-01T17:56:40+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/a.-panichella/</loc>
     <lastmod>2021-04-01T17:56:40+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/sbst2021/</loc>
     <lastmod>2021-04-01T17:56:40+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/g.-fraser/</loc>
     <lastmod>2021-04-01T17:56:40+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/j.-campos/</loc>
     <lastmod>2021-04-01T17:56:40+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/s.-schweikl/</loc>
     <lastmod>2021-04-01T17:56:40+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/s.-vogl/</loc>
     <lastmod>2021-04-01T17:56:40+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/cynthia-c.-s.-liem/</loc>
     <lastmod>2020-03-03T16:20:15+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/icse-nier2020/</loc>
     <lastmod>2020-01-18T14:29:50+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/a.-van-der-feltz/</loc>
     <lastmod>2020-01-01T22:27:51+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/casper-schroder/</loc>
     <lastmod>2020-01-01T22:27:51+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/mauricio-aniche/</loc>
     <lastmod>2020-01-01T22:27:51+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/refactoring/</loc>
     <lastmod>2020-01-01T22:27:51+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/icse-seip2020/</loc>
     <lastmod>2020-01-01T22:27:51+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/software-quality/</loc>
     <lastmod>2020-01-01T22:27:51+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/b.-yildiz/</loc>
     <lastmod>2021-01-01T17:32:54+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/c.-c.-s.-liem/</loc>
     <lastmod>2021-01-01T17:32:54+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/f.-oliehoek/</loc>
     <lastmod>2021-01-01T17:32:54+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/g.-migut/</loc>
     <lastmod>2021-01-01T17:32:54+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/h.-hung/</loc>
     <lastmod>2021-01-01T17:32:54+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/j.-h.-krijthe/</loc>
     <lastmod>2021-01-01T17:32:54+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/j.-van-gemert/</loc>
     <lastmod>2021-01-01T17:32:54+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/m.-de-weerdt/</loc>
     <lastmod>2021-01-01T17:32:54+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/m.-loog/</loc>
     <lastmod>2021-01-01T17:32:54+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/p.-paweczak/</loc>
     <lastmod>2021-01-01T17:32:54+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/rrpr2021/</loc>
     <lastmod>2021-01-01T17:32:54+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/reproducibility/</loc>
     <lastmod>2021-01-01T17:32:54+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/s.-picek/</loc>
     <lastmod>2021-01-01T17:32:54+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/empirical-software-engineering/</loc>
     <lastmod>2020-12-01T17:32:54+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/jss2020/</loc>
     <lastmod>2020-12-01T17:32:54+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/qianqian-zhou/</loc>
     <lastmod>2020-12-01T17:32:54+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/debugging/</loc>
     <lastmod>2020-10-07T10:14:08+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/microservices/</loc>
     <lastmod>2020-10-07T10:14:08+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/ieee-software2020/</loc>
     <lastmod>2020-10-07T10:14:08+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/serverless-based-application/</loc>
     <lastmod>2020-10-07T10:14:08+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/valentina-lenarduzzi/</loc>
     <lastmod>2020-10-07T10:14:08+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/talk/icsme2020/</loc>
     <lastmod>2020-09-27T11:17:15+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/infsoft2020/</loc>
     <lastmod>2020-09-09T21:50:29+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/bug-reports/</loc>
     <lastmod>2020-09-09T21:50:29+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/hyperparameter-optimization/</loc>
     <lastmod>2020-09-09T21:50:29+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/latent-dirichlet-allocation/</loc>
     <lastmod>2020-09-09T21:50:29+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/meta-heuristics/</loc>
     <lastmod>2020-09-09T21:50:29+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/topic-modeling/</loc>
     <lastmod>2020-09-09T21:50:29+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/icsme2020/</loc>
     <lastmod>2020-08-04T16:05:57+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/automated-documentation/</loc>
     <lastmod>2020-07-30T22:27:51+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/code-summarization/</loc>
     <lastmod>2020-07-30T22:27:51+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/danielle-gonzalez/</loc>
     <lastmod>2020-07-30T22:27:51+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/ase2020b/</loc>
     <lastmod>2020-07-30T22:27:51+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/devjeet-roy/</loc>
     <lastmod>2020-07-30T22:27:51+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/maggie-ma/</loc>
     <lastmod>2020-07-30T22:27:51+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/mehdi-mirakhorli/</loc>
     <lastmod>2020-07-30T22:27:51+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/test-readability/</loc>
     <lastmod>2020-07-30T22:27:51+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/test-scenario/</loc>
     <lastmod>2020-07-30T22:27:51+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/venera-arnaoudova/</loc>
     <lastmod>2020-07-30T22:27:51+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/ziyi-zhang/</loc>
     <lastmod>2020-07-30T22:27:51+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/botsing/</loc>
     <lastmod>2020-07-30T22:27:46+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/crash-replication/</loc>
     <lastmod>2020-07-30T22:27:46+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/ase2020a/</loc>
     <lastmod>2020-07-30T22:27:46+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/talk/issta2020/</loc>
     <lastmod>2020-07-18T11:17:15+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/ase2020-nier/</loc>
     <lastmod>2020-07-06T14:29:50+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/ase2020-tool/</loc>
     <lastmod>2020-07-06T14:19:53+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/gecco2020/</loc>
     <lastmod>2020-07-04T18:56:54+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/sbst2020/</loc>
     <lastmod>2020-04-17T17:56:40+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/issta2020/</loc>
     <lastmod>2020-04-17T17:32:54+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/raja-ben-abdessalem/</loc>
     <lastmod>2020-04-17T17:32:54+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/shiva-nejati/</loc>
     <lastmod>2020-04-17T17:32:54+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/thomas-stifter/</loc>
     <lastmod>2020-04-17T17:32:54+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/carolin-e.-brandt/</loc>
     <lastmod>2020-03-03T17:08:37+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/dataset/</loc>
     <lastmod>2020-03-03T17:08:37+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/msrdata2019/</loc>
     <lastmod>2020-03-03T17:08:37+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/moritz-beller/</loc>
     <lastmod>2020-03-03T17:08:37+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/artificial-intelligence/</loc>
     <lastmod>2020-03-03T16:20:15+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/raise2020/</loc>
     <lastmod>2020-03-03T16:20:15+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/test-oracle/</loc>
     <lastmod>2020-03-03T16:20:15+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/talk/ipa2019/</loc>
     <lastmod>2019-10-28T11:17:15+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/christoph-laaber/</loc>
     <lastmod>2019-10-09T09:51:33+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/evolutionary-testing/</loc>
     <lastmod>2019-10-09T09:51:33+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/giovanni-grano/</loc>
     <lastmod>2019-10-09T09:51:33+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/performance-testing/</loc>
     <lastmod>2019-10-09T09:51:33+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/ieee-tse2019/</loc>
     <lastmod>2019-10-09T09:51:33+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/feature-interactions/</loc>
     <lastmod>2019-10-01T11:17:15+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/talk/cow2019/</loc>
     <lastmod>2019-10-01T11:17:15+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/dimitri-michel-stallenberg/</loc>
     <lastmod>2019-06-26T10:41:41+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/esec-fse2019/</loc>
     <lastmod>2019-06-26T10:41:41+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/security-testing/</loc>
     <lastmod>2019-06-26T10:41:41+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/xml-injection/</loc>
     <lastmod>2019-06-26T10:41:41+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/api-misuse-detection/</loc>
     <lastmod>2019-06-26T10:29:32+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tools/catcher/</loc>
     <lastmod>2019-06-26T10:29:32+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tools/cling/</loc>
     <lastmod>2019-06-26T10:29:32+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/integration-testing/</loc>
     <lastmod>2019-06-26T10:29:32+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tools/ssbse-lda/</loc>
     <lastmod>2019-06-26T10:29:32+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/static-analysis/</loc>
     <lastmod>2019-06-26T10:29:32+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tools/</loc>
     <lastmod>2019-06-26T10:29:32+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/topic-model/</loc>
     <lastmod>2019-06-26T10:29:32+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/unsupervised-learning/</loc>
     <lastmod>2019-06-26T10:29:32+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/issta2019/</loc>
     <lastmod>2019-05-01T20:22:51+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/georgios-gousios/</loc>
     <lastmod>2019-05-01T20:22:51+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/maria-kechagia/</loc>
     <lastmod>2019-05-01T20:22:51+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/ssbse2019/</loc>
     <lastmod>2019-04-29T23:16:23+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/hyperparameter-tuning/</loc>
     <lastmod>2019-04-29T23:16:23+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tools/age-moea/</loc>
     <lastmod>2019-04-08T11:08:54+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/benchmark/</loc>
     <lastmod>2019-04-08T11:08:54+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/project/cosmos/</loc>
     <lastmod>2019-04-08T11:08:54+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/matlab/</loc>
     <lastmod>2019-04-08T11:08:54+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/project/</loc>
     <lastmod>2019-04-08T11:08:54+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/project/stamp/</loc>
     <lastmod>2019-04-08T11:08:54+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/project/ripple/</loc>
     <lastmod>2019-04-08T11:08:49+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/gecco2019/</loc>
     <lastmod>2019-04-08T10:45:30+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/sbst2019b/</loc>
     <lastmod>2019-04-08T10:41:50+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/jose-campos/</loc>
     <lastmod>2019-04-08T10:41:50+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/sbst2019a/</loc>
     <lastmod>2019-04-08T10:39:03+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/andrea-arcuri/</loc>
     <lastmod>2019-04-08T10:11:19+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/sadeeq-jan/</loc>
     <lastmod>2019-04-08T10:11:19+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/emse2019/</loc>
     <lastmod>2019-04-08T10:11:19+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/talk/sen2019/</loc>
     <lastmod>2019-02-01T11:17:15+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/ieee-tse2018f/</loc>
     <lastmod>2018-09-08T11:51:02+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/andrea-de-lucia/</loc>
     <lastmod>2018-09-08T11:51:02+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/dario-di-nucci/</loc>
     <lastmod>2018-09-08T11:51:02+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/hypervolume/</loc>
     <lastmod>2018-09-08T11:51:02+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/test-case-prioritization/</loc>
     <lastmod>2018-09-08T11:51:02+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/infsof2018b/</loc>
     <lastmod>2018-08-18T07:39:53+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/fitsum-m.-kifetew/</loc>
     <lastmod>2018-08-18T07:39:53+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/paolo-tonella/</loc>
     <lastmod>2018-08-18T07:39:53+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/anniable-panichella/</loc>
     <lastmod>2018-08-13T19:14:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/code-smell/</loc>
     <lastmod>2018-08-13T19:14:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/energy-consumption/</loc>
     <lastmod>2018-08-13T19:14:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/fabio-palomba/</loc>
     <lastmod>2018-08-13T19:14:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/mobile-app/</loc>
     <lastmod>2018-08-13T19:14:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/infsoft2018a/</loc>
     <lastmod>2018-08-13T19:14:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/mozhan-soltani/</loc>
     <lastmod>2018-08-13T18:55:36+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/ieee-tse2018e/</loc>
     <lastmod>2018-08-13T18:55:36+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/ssbse2018b/</loc>
     <lastmod>2018-07-20T00:07:54+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/ssbse2018a/</loc>
     <lastmod>2018-07-20T00:06:34+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/icpc2018/</loc>
     <lastmod>2018-07-20T00:05:13+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/raimondas-sasnauskas/</loc>
     <lastmod>2018-07-20T00:05:13+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/jeroen-castelein/</loc>
     <lastmod>2018-07-20T00:04:04+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/icse2018/</loc>
     <lastmod>2018-07-20T00:04:04+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/sql/</loc>
     <lastmod>2018-07-20T00:04:04+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/icst2018/</loc>
     <lastmod>2018-07-20T00:03:02+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/concept-analysis/</loc>
     <lastmod>2018-07-20T00:03:02+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/qianqian-zhu/</loc>
     <lastmod>2018-07-20T00:03:02+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/l.-briand/</loc>
     <lastmod>2018-07-20T00:01:56+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/r.-abdessalem/</loc>
     <lastmod>2018-07-20T00:01:56+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/s.-nejati/</loc>
     <lastmod>2018-07-20T00:01:56+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/t.-stifter/</loc>
     <lastmod>2018-07-20T00:01:56+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/ase2018/</loc>
     <lastmod>2018-07-20T00:01:56+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/competition/</loc>
     <lastmod>2018-07-20T00:01:14+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/sbst2018/</loc>
     <lastmod>2018-07-20T00:01:14+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/urko-r.-molina/</loc>
     <lastmod>2018-07-20T00:01:14+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/rocco-oliveto/</loc>
     <lastmod>2018-07-10T11:25:49+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/ieee-tse2018d/</loc>
     <lastmod>2018-07-10T11:25:49+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/ieee-tse2018c/</loc>
     <lastmod>2018-07-10T11:24:46+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/sebastian-proksch/</loc>
     <lastmod>2018-07-10T11:24:46+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/sven-amann/</loc>
     <lastmod>2018-07-10T11:24:46+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/ieee-tse2018b/</loc>
     <lastmod>2018-07-10T11:23:34+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/ieee-tse2018a/</loc>
     <lastmod>2018-07-10T11:21:45+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/sadeeq.-jan/</loc>
     <lastmod>2018-07-10T11:21:45+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/ieee-tr2018/</loc>
     <lastmod>2018-07-10T11:11:22+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/stvr2018/</loc>
     <lastmod>2018-07-10T11:11:22+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/a.-zaidman/</loc>
     <lastmod>2018-07-10T11:11:22+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/cu-d.-nguyen/</loc>
     <lastmod>2018-07-10T11:11:22+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/dennis-appelt/</loc>
     <lastmod>2018-07-10T11:11:22+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/q.-zhu/</loc>
     <lastmod>2018-07-10T11:11:22+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/saner2017b/</loc>
     <lastmod>2017-08-13T20:10:28+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/andrea-prota/</loc>
     <lastmod>2017-08-13T20:08:32+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/profiling/</loc>
     <lastmod>2017-08-13T20:08:32+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/saner2017a/</loc>
     <lastmod>2017-08-13T20:08:32+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/icstw2017/</loc>
     <lastmod>2017-08-13T20:06:48+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/sbst2017/</loc>
     <lastmod>2017-08-13T20:05:07+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/urko-molina/</loc>
     <lastmod>2017-08-13T20:05:07+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/mobile-apps/</loc>
     <lastmod>2017-08-13T19:37:11+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/icse2017-tool/</loc>
     <lastmod>2017-08-13T19:37:11+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/icse2017/</loc>
     <lastmod>2017-08-13T19:34:17+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/issre2018/</loc>
     <lastmod>2017-08-13T19:28:13+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/ssbse2017/</loc>
     <lastmod>2017-07-13T20:03:02+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/bogdan-dit/</loc>
     <lastmod>2016-08-18T08:00:46+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/denys-poshyvanyk/</loc>
     <lastmod>2016-08-18T08:00:46+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/saner2016/</loc>
     <lastmod>2016-08-18T08:00:46+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/traceability-recovery/</loc>
     <lastmod>2016-08-18T08:00:46+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/sbst2016b/</loc>
     <lastmod>2016-08-18T07:59:02+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/sbst2016a/</loc>
     <lastmod>2016-08-18T07:56:19+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/g.-gousios/</loc>
     <lastmod>2016-08-18T07:54:15+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/serip2016/</loc>
     <lastmod>2016-08-18T07:54:15+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/i.-levaja/</loc>
     <lastmod>2016-08-18T07:54:15+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/m.-beller/</loc>
     <lastmod>2016-08-18T07:54:15+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/icpc2016/</loc>
     <lastmod>2016-08-18T07:52:50+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/information-retrieval/</loc>
     <lastmod>2016-08-18T07:52:50+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/c.-vassallo/</loc>
     <lastmod>2016-08-18T07:51:10+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/icsme2016/</loc>
     <lastmod>2016-08-18T07:51:10+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/d.-romano/</loc>
     <lastmod>2016-08-18T07:51:10+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/f.-zampetti/</loc>
     <lastmod>2016-08-18T07:51:10+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/m.-di-penta/</loc>
     <lastmod>2016-08-18T07:51:10+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/gecco2016/</loc>
     <lastmod>2016-08-18T07:47:34+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/alberto-bacchelli/</loc>
     <lastmod>2016-08-18T07:47:34+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/carol-v.-alexandru/</loc>
     <lastmod>2016-08-18T07:47:34+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/defect-prediction/</loc>
     <lastmod>2016-08-18T07:47:34+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/harald-gall/</loc>
     <lastmod>2016-08-18T07:47:34+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/issta2016/</loc>
     <lastmod>2016-08-18T07:45:36+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/harald-c.-gall/</loc>
     <lastmod>2016-08-18T07:43:26+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/icse2016/</loc>
     <lastmod>2016-08-18T07:43:26+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/a.-de-lucia/</loc>
     <lastmod>2015-07-19T23:50:41+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/stvr2015/</loc>
     <lastmod>2015-07-19T23:50:41+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/g.-canfora/</loc>
     <lastmod>2015-07-19T23:50:41+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/r.-oliveto/</loc>
     <lastmod>2015-07-19T23:50:41+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/s.-panichella/</loc>
     <lastmod>2015-07-19T23:50:41+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/tse2015/</loc>
     <lastmod>2015-07-19T23:46:36+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/emse2014/</loc>
     <lastmod>2014-07-19T23:52:54+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/giovanni-capobianco/</loc>
     <lastmod>2012-07-19T23:55:49+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/jse2012/</loc>
     <lastmod>2012-07-19T23:55:49+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/infsoft/</loc>
     <lastmod>2012-07-19T23:54:19+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/smoothing-filter/</loc>
     <lastmod>2012-07-19T23:54:19+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/teaching/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/annibale-panichella/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/</loc>
   </url>
-  
 </urlset>

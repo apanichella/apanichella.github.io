@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ripple | Annibale Panichella</title>
+    <link>/tag/ripple/</link>
+      <atom:link href="/tag/ripple/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ripple</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 22:27:51 +0200</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Ripple</title>
+      <link>/tag/ripple/</link>
+    </image>
+    
+    <item>
+      <title>Evolutionary Approach for Concurrency Testing of Ripple Blockchain Consensus Algorithm</title>
+      <link>/publication/icse-seip2023/</link>
+      <pubDate>Sun, 01 Jan 2023 22:27:51 +0200</pubDate>
+      <guid>/publication/icse-seip2023/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

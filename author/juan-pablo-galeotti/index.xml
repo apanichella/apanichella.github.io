@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Juan Pablo Galeotti | Annibale Panichella</title>
+    <link>/author/juan-pablo-galeotti/</link>
+      <atom:link href="/author/juan-pablo-galeotti/index.xml" rel="self" type="application/rss+xml" />
+    <description>Juan Pablo Galeotti</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 12 Dec 2022 11:11:22 +0200</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Juan Pablo Galeotti</title>
+      <link>/author/juan-pablo-galeotti/</link>
+    </image>
+    
+    <item>
+      <title>JUGE: An Infrastructure for Benchmarking Java Unit Test Generators</title>
+      <link>/publication/stvr2022/</link>
+      <pubDate>Mon, 12 Dec 2022 11:11:22 +0200</pubDate>
+      <guid>/publication/stvr2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

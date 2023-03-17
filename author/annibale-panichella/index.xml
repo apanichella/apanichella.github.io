@@ -5,16 +5,11 @@
     <link>/author/annibale-panichella/</link>
       <atom:link href="/author/annibale-panichella/index.xml" rel="self" type="application/rss+xml" />
     <description>Annibale Panichella</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 22:27:51 +0200</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Annibale Panichella</title>
       <link>/author/annibale-panichella/</link>
-    </image>
-    
-  </channel>
-</rss>
-bale-panichella/</link>
     </image>
     
     <item>
@@ -22,6 +17,14 @@ bale-panichella/</link>
       <link>/publication/icse-seip2023/</link>
       <pubDate>Sun, 01 Jan 2023 22:27:51 +0200</pubDate>
       <guid>/publication/icse-seip2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Strengths of Pure Evolutionary Algorithms in Generating Adversarial Examples</title>
+      <link>/publication/sbft2023-pixelmoo/</link>
+      <pubDate>Sun, 01 Jan 2023 17:56:40 +0200</pubDate>
+      <guid>/publication/sbft2023-pixelmoo/</guid>
       <description></description>
     </item>
     

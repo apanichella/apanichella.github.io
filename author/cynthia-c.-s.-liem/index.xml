@@ -5,12 +5,20 @@
     <link>/author/cynthia-c.-s.-liem/</link>
       <atom:link href="/author/cynthia-c.-s.-liem/index.xml" rel="self" type="application/rss+xml" />
     <description>Cynthia C. S. Liem</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 18 Jan 2021 14:29:50 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 17:56:40 +0200</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Cynthia C. S. Liem</title>
       <link>/author/cynthia-c.-s.-liem/</link>
     </image>
+    
+    <item>
+      <title>On the Strengths of Pure Evolutionary Algorithms in Generating Adversarial Examples</title>
+      <link>/publication/sbft2023-pixelmoo/</link>
+      <pubDate>Sun, 01 Jan 2023 17:56:40 +0200</pubDate>
+      <guid>/publication/sbft2023-pixelmoo/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>What Are We Really Testing in Mutation Testing for Machine Learning? A Critical Reflection</title>

@@ -21,6 +21,22 @@
     </item>
     
     <item>
+      <title>HasBugs - Handpicked Haskell Bugs</title>
+      <link>/publication/msrdata2023/</link>
+      <pubDate>Sun, 01 Jan 2023 17:08:37 +0100</pubDate>
+      <guid>/publication/msrdata2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grammar-Based Evolutionary Fuzzing for JSON-RPC APIs</title>
+      <link>/publication/sbft2023-rpc/</link>
+      <pubDate>Sun, 01 Jan 2023 17:56:40 +0200</pubDate>
+      <guid>/publication/sbft2023-rpc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>On the Strengths of Pure Evolutionary Algorithms in Generating Adversarial Examples</title>
       <link>/publication/sbft2023-pixelmoo/</link>
       <pubDate>Sun, 01 Jan 2023 17:56:40 +0200</pubDate>

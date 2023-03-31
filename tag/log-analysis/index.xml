@@ -5,12 +5,20 @@
     <link>/tag/log-analysis/</link>
       <atom:link href="/tag/log-analysis/index.xml" rel="self" type="application/rss+xml" />
     <description>Log Analysis</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 19 Apr 2021 09:03:56 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 17:08:37 +0100</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Log Analysis</title>
       <link>/tag/log-analysis/</link>
     </image>
+    
+    <item>
+      <title>HasBugs - Handpicked Haskell Bugs</title>
+      <link>/publication/msrdata2023/</link>
+      <pubDate>Sun, 01 Jan 2023 17:08:37 +0100</pubDate>
+      <guid>/publication/msrdata2023/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Log-based Slicing for System-level Test Cases</title>

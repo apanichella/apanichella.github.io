@@ -2,19 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/author/burcu-kulahcioglu-ozkan/</loc>
-    <lastmod>2023-01-01T22:27:51+02:00</lastmod>
-  </url><url>
     <loc>/publication-type/1/</loc>
-    <lastmod>2023-01-01T22:27:51+02:00</lastmod>
+    <lastmod>2023-04-25T10:56:44+02:00</lastmod>
+  </url><url>
+    <loc>/publication/gecco2023a/</loc>
+    <lastmod>2023-04-25T10:56:44+02:00</lastmod>
   </url><url>
     <loc>/author/annibale-panichella/</loc>
-    <lastmod>2023-01-01T22:27:51+02:00</lastmod>
+    <lastmod>2023-04-25T10:56:44+02:00</lastmod>
   </url><url>
     <loc>/</loc>
-    <lastmod>2023-01-01T22:27:51+02:00</lastmod>
+    <lastmod>2023-04-25T10:56:44+02:00</lastmod>
   </url><url>
     <loc>/authors/</loc>
+    <lastmod>2023-04-25T10:56:44+02:00</lastmod>
+  </url><url>
+    <loc>/tag/evolutionary-computation/</loc>
+    <lastmod>2023-04-25T10:56:44+02:00</lastmod>
+  </url><url>
+    <loc>/author/giuseppe-di-domenico/</loc>
+    <lastmod>2023-04-25T10:56:44+02:00</lastmod>
+  </url><url>
+    <loc>/tag/hierarchical-clustering/</loc>
+    <lastmod>2023-04-25T10:56:44+02:00</lastmod>
+  </url><url>
+    <loc>/tag/integrated-photonics/</loc>
+    <lastmod>2023-04-25T10:56:44+02:00</lastmod>
+  </url><url>
+    <loc>/tag/mode-sorter/</loc>
+    <lastmod>2023-04-25T10:56:44+02:00</lastmod>
+  </url><url>
+    <loc>/tag/multi-objective-optimization/</loc>
+    <lastmod>2023-04-25T10:56:44+02:00</lastmod>
+  </url><url>
+    <loc>/publication_types/</loc>
+    <lastmod>2023-04-25T10:56:44+02:00</lastmod>
+  </url><url>
+    <loc>/publication/</loc>
+    <lastmod>2023-04-25T10:56:44+02:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2023-04-25T10:56:44+02:00</lastmod>
+  </url><url>
+    <loc>/author/burcu-kulahcioglu-ozkan/</loc>
     <lastmod>2023-01-01T22:27:51+02:00</lastmod>
   </url><url>
     <loc>/tag/blockchain/</loc>
@@ -35,19 +65,10 @@
     <loc>/author/m.c.-van-meerten/</loc>
     <lastmod>2023-01-01T22:27:51+02:00</lastmod>
   </url><url>
-    <loc>/publication_types/</loc>
-    <lastmod>2023-01-01T22:27:51+02:00</lastmod>
-  </url><url>
-    <loc>/publication/</loc>
-    <lastmod>2023-01-01T22:27:51+02:00</lastmod>
-  </url><url>
     <loc>/tag/ripple/</loc>
     <lastmod>2023-01-01T22:27:51+02:00</lastmod>
   </url><url>
     <loc>/tag/software-testing/</loc>
-    <lastmod>2023-01-01T22:27:51+02:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
     <lastmod>2023-01-01T22:27:51+02:00</lastmod>
   </url><url>
     <loc>/tag/dataset/</loc>
@@ -120,9 +141,6 @@
     <lastmod>2022-11-11T11:21:45+02:00</lastmod>
   </url><url>
     <loc>/author/gerardo-canfora/</loc>
-    <lastmod>2022-11-11T11:21:45+02:00</lastmod>
-  </url><url>
-    <loc>/tag/multi-objective-optimization/</loc>
     <lastmod>2022-11-11T11:21:45+02:00</lastmod>
   </url><url>
     <loc>/tag/regression-testing/</loc>
@@ -206,9 +224,6 @@
     <loc>/publication/gecco2022/</loc>
     <lastmod>2022-03-27T10:56:44+02:00</lastmod>
   </url><url>
-    <loc>/tag/evolutionary-computation/</loc>
-    <lastmod>2022-03-27T10:56:44+02:00</lastmod>
-  </url><url>
     <loc>/tag/numerical-problems/</loc>
     <lastmod>2022-03-27T10:56:44+02:00</lastmod>
   </url><url>
@@ -237,9 +252,6 @@
     <lastmod>2021-12-20T09:57:31+01:00</lastmod>
   </url><url>
     <loc>/tag/evolutionary-algorithms/</loc>
-    <lastmod>2021-12-20T09:57:31+01:00</lastmod>
-  </url><url>
-    <loc>/author/giuseppe-di-domenico/</loc>
     <lastmod>2021-12-20T09:57:31+01:00</lastmod>
   </url><url>
     <loc>/tag/hermite-gaussian-beams/</loc>

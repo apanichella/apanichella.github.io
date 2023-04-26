@@ -5,12 +5,20 @@
     <link>/author/giuseppe-di-domenico/</link>
       <atom:link href="/author/giuseppe-di-domenico/index.xml" rel="self" type="application/rss+xml" />
     <description>Giuseppe Di Domenico</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 09:57:31 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 25 Apr 2023 10:56:44 +0200</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Giuseppe Di Domenico</title>
       <link>/author/giuseppe-di-domenico/</link>
     </image>
+    
+    <item>
+      <title>A Fast Multi-objective Evolutionary Approach for Designing Large-Scale Optical Mode Sorter</title>
+      <link>/publication/gecco2023a/</link>
+      <pubDate>Tue, 25 Apr 2023 10:56:44 +0200</pubDate>
+      <guid>/publication/gecco2023a/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Large scale inverse design of planar on-chip mode sorter</title>

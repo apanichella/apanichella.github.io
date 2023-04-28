@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Integrated Photonics | Annibale Panichella</title>
+    <link>/tag/integrated-photonics/</link>
+      <atom:link href="/tag/integrated-photonics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Integrated Photonics</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 25 Apr 2023 10:56:44 +0200</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Integrated Photonics</title>
+      <link>/tag/integrated-photonics/</link>
+    </image>
+    
+    <item>
+      <title>A Fast Multi-objective Evolutionary Approach for Designing Large-Scale Optical Mode Sorter</title>
+      <link>/publication/gecco2023a/</link>
+      <pubDate>Tue, 25 Apr 2023 10:56:44 +0200</pubDate>
+      <guid>/publication/gecco2023a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -631,6 +631,18 @@
     
     
     <div>
+      <h2><a href="/publication/gecco2023b/" >Searching for Quality: Genetic Algorithms and Metamorphic Testing for Software Engineering ML</a></h2>
+      <div class="article-style">
+        
+          More machine learning (ML) models are introduced to the field of Software Engineering (SE) and reached a stage of maturity to be considered for real-world use;But the real world is complex, and testing these models lacks often in explainability, feasability and computational capacities. Existing research introduced metamorphic testing to gain additional insights and certainty about the model, by applying semantic-preserving changes to input-data while observing model-output. As this is currently done at random places, it can lead to potentially unrealistic datapoints and high computational costs. With this work, we introduce genetic search as an additional aid for metamorphic testing in SE ML. Utilizing the delta in output as a fitness function, the evolutionary intelligence optimizes the transformations to produce higher deltas with less changes. We perform a case study minimizing F1-Score and MRR for Code2Vec on a representative sample from java-small with both genetic and random search. Our results show that within the same amount of time, genetic search was able to achieve a decrease of 10% in F1 while random search produced 3% drop.
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
       <h2><a href="/publication/icse-seip2023/" >Evolutionary Approach for Concurrency Testing of Ripple Blockchain Consensus Algorithm</a></h2>
       <div class="article-style">
         
@@ -717,18 +729,6 @@
       <div class="article-style">
         
           Ethereum is the largest and most prominent smart contract platform. One key property of Ethereum is that once a contract is deployed, it can not be updated anymore. This increases the importance of thoroughly testing the behavior and constraints of the smart contract before deployment. Existing approaches in related work either do not scale or are only focused on finding crashing inputs. In this tool demo, we introduce SynTest-Solidity, an automated test case generation and fuzzing framework for Solidity. SynTest-Solidity implements various metaheuristic search algorithms, including random search (traditional fuzzing) and genetic algorithms (i.e., NSGA-II, MOSA, and DynaMOSA). Finally, we performed a preliminary empirical study to assess the effectiveness of SynTest-Solidity in testing Solidity smart contracts.
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/icse2022/" >PropR: Property-Based Automatic Program Repair</a></h2>
-      <div class="article-style">
-        
-          Automatic program repair (APR) regularly faces the challenge of overfitting patches that pass the test suite, but do not actually address the problems when evaluated manually. Currently, overfit detection requires manual inspection or an oracle making quality control of APR an expensive task. With this work, we want to introduce properties in addition to unit tests for APR to address the problem of overfitting. To that end, we design and implement PropR, a program repair tool for Haskell that leverages both property-based testing (via QuickCheck) and the rich type system and synthesis offered by the Haskell compiler. We compare the repair-ratio, time-to-first-patch and overfitting-ratio when using unit tests, property-based tests, and their combination. Our results show that properties lead to quicker results and have a lower overfit ratio than unit tests. The created overfit patches provide valuable insight into the underlying problems of the program to repair (e.g., in terms of fault localization or test quality). We consider this step towards fitter, or at least insightful, patches a critical contribution to bring APR into developer workflows.
         
       </div>
     </div>

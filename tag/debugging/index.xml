@@ -1,70 +1,70 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Debugging | Annibale Panichella</title>
-    <link>/tag/debugging/</link>
-      <atom:link href="/tag/debugging/index.xml" rel="self" type="application/rss+xml" />
+    <title>Debugging | Academic</title>
+    <link>https://example.com/tag/debugging/</link>
+      <atom:link href="https://example.com/tag/debugging/index.xml" rel="self" type="application/rss+xml" />
     <description>Debugging</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 07 Oct 2020 10:14:08 +0200</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 07 Oct 2020 10:14:08 +0200</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Debugging</title>
-      <link>/tag/debugging/</link>
+      <link>https://example.com/tag/debugging/</link>
     </image>
     
     <item>
       <title>Serverless Testing: Tool Vendors&#39; and Experts&#39; Point of View</title>
-      <link>/publication/ieee-software2020/</link>
+      <link>https://example.com/publication/ieee-software2020/</link>
       <pubDate>Wed, 07 Oct 2020 10:14:08 +0200</pubDate>
-      <guid>/publication/ieee-software2020/</guid>
+      <guid>https://example.com/publication/ieee-software2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Botsing, a Search-based Crash Reproduction Framework for Java</title>
-      <link>/publication/ase2020-tool/</link>
+      <link>https://example.com/publication/ase2020-tool/</link>
       <pubDate>Sun, 05 Jul 2020 14:19:53 +0200</pubDate>
-      <guid>/publication/ase2020-tool/</guid>
+      <guid>https://example.com/publication/ase2020-tool/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Search-Based Crash Reproduction and Its Impact on Debugging</title>
-      <link>/publication/ieee-tse2018e/</link>
+      <link>https://example.com/publication/ieee-tse2018e/</link>
       <pubDate>Mon, 13 Aug 2018 18:55:36 +0200</pubDate>
-      <guid>/publication/ieee-tse2018e/</guid>
+      <guid>https://example.com/publication/ieee-tse2018e/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Single-objective versus Multi-Objectivized Optimization for Evolutionary Crash Reproduction</title>
-      <link>/publication/ssbse2018a/</link>
+      <link>https://example.com/publication/ssbse2018a/</link>
       <pubDate>Fri, 20 Jul 2018 00:06:34 +0200</pubDate>
-      <guid>/publication/ssbse2018a/</guid>
+      <guid>https://example.com/publication/ssbse2018a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Guided Genetic Algorithm for Automated Crash Reproduction</title>
-      <link>/publication/icse2017/</link>
+      <link>https://example.com/publication/icse2017/</link>
       <pubDate>Sun, 13 Aug 2017 19:34:17 +0200</pubDate>
-      <guid>/publication/icse2017/</guid>
+      <guid>https://example.com/publication/icse2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Parameterizing and Assembling IR-based Solutions for Software Engineering Tasks using Genetic Algorithms</title>
-      <link>/publication/saner2016/</link>
+      <link>https://example.com/publication/saner2016/</link>
       <pubDate>Thu, 18 Aug 2016 08:00:46 +0200</pubDate>
-      <guid>/publication/saner2016/</guid>
+      <guid>https://example.com/publication/saner2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The impact of test case summaries on bug fixing performance: An empirical investigation</title>
-      <link>/publication/icse2016/</link>
+      <link>https://example.com/publication/icse2016/</link>
       <pubDate>Thu, 18 Aug 2016 07:43:26 +0200</pubDate>
-      <guid>/publication/icse2016/</guid>
+      <guid>https://example.com/publication/icse2016/</guid>
       <description></description>
     </item>
     

@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>EvoMaster | Annibale Panichella</title>
-    <link>/tag/evomaster/</link>
-      <atom:link href="/tag/evomaster/index.xml" rel="self" type="application/rss+xml" />
+    <title>EvoMaster | Academic</title>
+    <link>https://example.com/tag/evomaster/</link>
+      <atom:link href="https://example.com/tag/evomaster/index.xml" rel="self" type="application/rss+xml" />
     <description>EvoMaster</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 07 Jul 2021 22:27:51 +0200</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 07 Jul 2021 22:27:51 +0200</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>EvoMaster</title>
-      <link>/tag/evomaster/</link>
+      <link>https://example.com/tag/evomaster/</link>
     </image>
     
     <item>
       <title>Improving Test Case Generation for REST APIs Through Hierarchical Clustering</title>
-      <link>/publication/ase2021/</link>
+      <link>https://example.com/publication/ase2021/</link>
       <pubDate>Wed, 07 Jul 2021 22:27:51 +0200</pubDate>
-      <guid>/publication/ase2021/</guid>
+      <guid>https://example.com/publication/ase2021/</guid>
       <description></description>
     </item>
     

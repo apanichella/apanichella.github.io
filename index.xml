@@ -1,95 +1,142 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Annibale Panichella</title>
-    <link>/</link>
-      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <title>Annibale Panichella | Academic</title>
+    <link>https://example.com/</link>
+      <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
     <description>Annibale Panichella</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 25 Apr 2023 10:56:44 +0200</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Annibale Panichella</title>
-      <link>/</link>
+      <link>https://example.com/</link>
     </image>
     
     <item>
+      <title>Blog with Jupyter Notebooks!</title>
+      <link>https://example.com/post/blog-with-jupyter/</link>
+      <pubDate>Sat, 04 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/blog-with-jupyter/</guid>
+      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;from&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;IPython.core.display&lt;/span&gt; &lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Image&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;Image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;png&#34; srcset=&#34;
+               /post/blog-with-jupyter/output_1_0_hu1e42f419f47ffd4b1ca9ef8f6670390a_11155_5a714abab5f53c70f7c38e19755638d3.webp 400w,
+               /post/blog-with-jupyter/output_1_0_hu1e42f419f47ffd4b1ca9ef8f6670390a_11155_6b76da17c04a40aee4c1c633206f8065.webp 760w,
+               /post/blog-with-jupyter/output_1_0_hu1e42f419f47ffd4b1ca9ef8f6670390a_11155_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/blog-with-jupyter/output_1_0_hu1e42f419f47ffd4b1ca9ef8f6670390a_11155_5a714abab5f53c70f7c38e19755638d3.webp&#34;
+               width=&#34;601&#34;
+               height=&#34;203&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;Welcome to Academic!&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;pre&gt;&lt;code&gt;Welcome to Academic!
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;organize-your-notebooks&#34;&gt;Organize your notebooks&lt;/h2&gt;
+&lt;p&gt;Place the notebooks that you would like to publish in a &lt;code&gt;notebooks&lt;/code&gt; folder at the root of your website.&lt;/p&gt;
+&lt;h2 id=&#34;import-the-notebooks-into-your-site&#34;&gt;Import the notebooks into your site&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;pipx install academic
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;academic import &lt;span class=&#34;s1&#34;&gt;&amp;#39;notebooks/**.ipynb&amp;#39;&lt;/span&gt; content/post/ --verbose
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;The notebooks will be published to the folder you specify above. In this case, they will be published to your &lt;code&gt;content/post/&lt;/code&gt; folder.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>A Fast Multi-objective Evolutionary Approach for Designing Large-Scale Optical Mode Sorter</title>
-      <link>/publication/gecco2023a/</link>
+      <link>https://example.com/publication/gecco2023a/</link>
       <pubDate>Tue, 25 Apr 2023 10:56:44 +0200</pubDate>
-      <guid>/publication/gecco2023a/</guid>
+      <guid>https://example.com/publication/gecco2023a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Searching for Quality: Genetic Algorithms and Metamorphic Testing for Software Engineering ML</title>
-      <link>/publication/gecco2023b/</link>
+      <link>https://example.com/publication/gecco2023b/</link>
       <pubDate>Tue, 25 Apr 2023 10:56:44 +0200</pubDate>
-      <guid>/publication/gecco2023b/</guid>
+      <guid>https://example.com/publication/gecco2023b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Evolutionary Approach for Concurrency Testing of Ripple Blockchain Consensus Algorithm</title>
-      <link>/publication/icse-seip2023/</link>
+      <link>https://example.com/publication/icse-seip2023/</link>
       <pubDate>Sun, 01 Jan 2023 22:27:51 +0200</pubDate>
-      <guid>/publication/icse-seip2023/</guid>
+      <guid>https://example.com/publication/icse-seip2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>HasBugs - Handpicked Haskell Bugs</title>
-      <link>/publication/msrdata2023/</link>
+      <link>https://example.com/publication/msrdata2023/</link>
       <pubDate>Sun, 01 Jan 2023 17:08:37 +0100</pubDate>
-      <guid>/publication/msrdata2023/</guid>
+      <guid>https://example.com/publication/msrdata2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Grammar-Based Evolutionary Fuzzing for JSON-RPC APIs</title>
-      <link>/publication/sbft2023-rpc/</link>
+      <link>https://example.com/publication/sbft2023-rpc/</link>
       <pubDate>Sun, 01 Jan 2023 17:56:40 +0200</pubDate>
-      <guid>/publication/sbft2023-rpc/</guid>
+      <guid>https://example.com/publication/sbft2023-rpc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On the Strengths of Pure Evolutionary Algorithms in Generating Adversarial Examples</title>
-      <link>/publication/sbft2023-pixelmoo/</link>
+      <link>https://example.com/publication/sbft2023-pixelmoo/</link>
       <pubDate>Sun, 01 Jan 2023 17:56:40 +0200</pubDate>
-      <guid>/publication/sbft2023-pixelmoo/</guid>
+      <guid>https://example.com/publication/sbft2023-pixelmoo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>JUGE: An Infrastructure for Benchmarking Java Unit Test Generators</title>
-      <link>/publication/stvr2022/</link>
+      <link>https://example.com/publication/stvr2022/</link>
       <pubDate>Mon, 12 Dec 2022 11:11:22 +0200</pubDate>
-      <guid>/publication/stvr2022/</guid>
+      <guid>https://example.com/publication/stvr2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Continuous Integration and Delivery practices for Cyber- Physical systems: An interview-based study</title>
-      <link>/publication/acm-tosem2022b/</link>
+      <link>https://example.com/publication/acm-tosem2022b/</link>
       <pubDate>Fri, 11 Nov 2022 11:21:45 +0200</pubDate>
-      <guid>/publication/acm-tosem2022b/</guid>
+      <guid>https://example.com/publication/acm-tosem2022b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Generating Class-Level Integration Tests Using Call Site Information</title>
-      <link>/publication/ieee-tse2022/</link>
+      <link>https://example.com/publication/ieee-tse2022/</link>
       <pubDate>Tue, 13 Sep 2022 09:29:14 +0200</pubDate>
-      <guid>/publication/ieee-tse2022/</guid>
+      <guid>https://example.com/publication/ieee-tse2022/</guid>
       <description>&lt;p&gt;Abstract: Search-based approaches have been used in the literature to automate the process of creating unit test cases. However, related work has shown that generated tests with high code coverage could be ineffective, i.e., they may not detect all faults or kill all injected mutants. In this paper, we propose CLING, an integration-level test case generation approach that exploits how a pair of classes, the caller and the callee, interact with each other through method calls. In particular, CLING generates integration-level test cases that maximize the Coupled Branches Criterion (CBC). Coupled branches are pairs of branches containing a branch of the caller and a branch of the callee such that an integration test that exercises the former also exercises the latter. CBC is a novel integration-level coverage criterion, measuring the degree to which a test suite exercises the interactions between a caller and its callee classes. We implemented CLING and evaluated the approach on 140 pairs of classes from five different open-source Java projects. Our results show that (1) CLING generates test suites with high CBC coverage, thanks to the definition of the test suite generation as a many-objectives problem where each couple of branches is an independent objective; (2) such generated suites trigger different class interactions and can kill on average 7.7% (with a maximum of 50%) of mutants that are not detected by tests generated randomly or at the unit level; (3) CLING can detect integration faults coming from wrong assumptions about the usage of the callee class (25 for our subject systems) that remain undetected when using automatically generated random and unit-level test suites.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Guess What: Test Case Generation for Javascript with Unsupervised Probabilistic Type Inference</title>
-      <link>/publication/ssbse2022/</link>
+      <link>https://example.com/publication/ssbse2022/</link>
       <pubDate>Thu, 18 Aug 2022 09:16:23 +0200</pubDate>
-      <guid>/publication/ssbse2022/</guid>
+      <guid>https://example.com/publication/ssbse2022/</guid>
       <description>&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
 &lt;p&gt;Search-based test case generation approaches make use of static type information to determine which data types should be used for the creation of new test cases. Dynamically typed languages like JavaScript, however, do not have this type information. In this paper, we propose an unsupervised probabilistic type inference approach to infer data types within the test case generation process. We evaluated the proposed approach on a benchmark of 98~units under test (i.e., exported classes and functions) compared to random type sampling w.r.t. branch coverage. Our results show that our type inference approach achieves a statistically significant increase in 56% of the test files with up to 71% of branch coverage compared to the baseline.&lt;/p&gt;
 </description>
@@ -97,89 +144,89 @@
     
     <item>
       <title>Test Smells 20 Years Later: Detectability, Validity, and Reliability</title>
-      <link>/publication/emse2022/</link>
+      <link>https://example.com/publication/emse2022/</link>
       <pubDate>Thu, 21 Jul 2022 11:34:14 +0200</pubDate>
-      <guid>/publication/emse2022/</guid>
+      <guid>https://example.com/publication/emse2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Guiding Automated Test Case Generation for Transaction-Reverting Statements in Smart Contracts</title>
-      <link>/publication/icsme2022/</link>
+      <link>https://example.com/publication/icsme2022/</link>
       <pubDate>Sat, 11 Jun 2022 18:43:48 +0200</pubDate>
-      <guid>/publication/icsme2022/</guid>
+      <guid>https://example.com/publication/icsme2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Single and Multi-objective Test Cases Prioritization for Self-driving Cars in Virtual Environments</title>
-      <link>/publication/acm-tosem2022/</link>
+      <link>https://example.com/publication/acm-tosem2022/</link>
       <pubDate>Mon, 04 Apr 2022 11:21:45 +0200</pubDate>
-      <guid>/publication/acm-tosem2022/</guid>
+      <guid>https://example.com/publication/acm-tosem2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An Improved Pareto Front Modeling Algorithm for Large-scale Many-Objective Optimization</title>
-      <link>/publication/gecco2022/</link>
+      <link>https://example.com/publication/gecco2022/</link>
       <pubDate>Sun, 27 Mar 2022 10:56:44 +0200</pubDate>
-      <guid>/publication/gecco2022/</guid>
+      <guid>https://example.com/publication/gecco2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Do Tests Generated by AI Help Developers? Open Challenges, Applications, and Opportunities</title>
-      <link>/talk/svt2022/</link>
+      <link>https://example.com/talk/do-tests-generated-by-ai-help-developers-open-challenges-applications-and-opportunities/</link>
       <pubDate>Fri, 18 Mar 2022 11:17:15 +0200</pubDate>
-      <guid>/talk/svt2022/</guid>
+      <guid>https://example.com/talk/do-tests-generated-by-ai-help-developers-open-challenges-applications-and-opportunities/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SynTest-Solidity: Automated Test Case Generation and Fuzzing for Smart Contracts</title>
-      <link>/publication/icse-demo2022/</link>
+      <link>https://example.com/publication/icse-demo2022/</link>
       <pubDate>Tue, 18 Jan 2022 14:29:50 +0200</pubDate>
-      <guid>/publication/icse-demo2022/</guid>
+      <guid>https://example.com/publication/icse-demo2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Large scale inverse design of planar on-chip mode sorter</title>
-      <link>/publication/acsphotonics2022/</link>
+      <link>https://example.com/publication/acsphotonics2022/</link>
       <pubDate>Sat, 01 Jan 2022 09:57:31 +0100</pubDate>
-      <guid>/publication/acsphotonics2022/</guid>
+      <guid>https://example.com/publication/acsphotonics2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PropR: Property-Based Automatic Program Repair</title>
-      <link>/publication/icse2022/</link>
+      <link>https://example.com/publication/icse2022/</link>
       <pubDate>Sat, 01 Jan 2022 09:32:39 +0100</pubDate>
-      <guid>/publication/icse2022/</guid>
+      <guid>https://example.com/publication/icse2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>	Assessing Robustness of ML-Based Program Analysis Tools using Metamorphic Program Transformations</title>
-      <link>/publication/ase2021-nier/</link>
+      <link>https://example.com/publication/ase2021-nier/</link>
       <pubDate>Sat, 07 Aug 2021 22:27:51 +0200</pubDate>
-      <guid>/publication/ase2021-nier/</guid>
+      <guid>https://example.com/publication/ase2021-nier/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Improving Test Case Generation for REST APIs Through Hierarchical Clustering</title>
-      <link>/publication/ase2021/</link>
+      <link>https://example.com/publication/ase2021/</link>
       <pubDate>Wed, 07 Jul 2021 22:27:51 +0200</pubDate>
-      <guid>/publication/ase2021/</guid>
+      <guid>https://example.com/publication/ase2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hybrid Multi-level Crossover for Unit Test Case Generation</title>
-      <link>/publication/ssbse2021b/</link>
+      <link>https://example.com/publication/ssbse2021b/</link>
       <pubDate>Tue, 29 Jun 2021 09:16:23 +0200</pubDate>
-      <guid>/publication/ssbse2021b/</guid>
+      <guid>https://example.com/publication/ssbse2021b/</guid>
       <description>&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
 &lt;p&gt;State-of-the-art search-based approaches for test case generation work at test case level, where tests are represented as sequences of statements. These approaches make use of genetic operators (i.e., mutation and crossover) that create test variants by adding, altering, and removing statements from existing tests. While this encoding schema has been shown to be very effective for many-objective test case generation, the standard crossover operator (single-point) only alters the structure of the test cases but not the input data. In this paper, we argue that changing both the test case structure and the input data is necessary to increase the genetic variation and improve the search process. Hence, we propose a hybrid multi-level crossover (HMX) operator that combines the traditional test-level crossover with data-level recombination. The former evolves and alters the test case structures, while the latter evolves the input data using numeric and string-based recombinational operators. We evaluate our new crossover operator by performing an empirical study on more than 100 classes selected from open-source Java libraries for numerical operations and string manipulation. We compare HMX with the single-point crossover that is used in EvoSuite w.r.t structural coverage and fault detection capability. Our results show that HMX achieves a statistically significant increase in 30% of the classes up to 19% in structural coverage compared to the single-point crossover. Moreover, the fault detection capability improved up to 12% measured using strong mutation score.&lt;/p&gt;
 </description>
@@ -187,9 +234,9 @@
     
     <item>
       <title>Multi-objective Test Case Selection Through Linkage Learning-driven Crossover</title>
-      <link>/publication/ssbse2021a/</link>
+      <link>https://example.com/publication/ssbse2021a/</link>
       <pubDate>Tue, 29 Jun 2021 09:16:23 +0200</pubDate>
-      <guid>/publication/ssbse2021a/</guid>
+      <guid>https://example.com/publication/ssbse2021a/</guid>
       <description>&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
 &lt;p&gt;Test case selection (TCS) aims to select a subset of the test suite to run for regression testing. The selection is typically based on past coverage and execution cost data. Researchers have successfully used multi-objective evolutionary algorithms (MOEAs), such as NSGA-II and its variants, to solve the problem. These MOEAs use traditional crossovers to create new candidate solutions during the search. Recent studies in evolutionary computation showed that more effective recombinations can be made by using linkage learning. Inspired by these recent advances in this field, we propose a new variant of NSGA-II, called L2-NSGA, that uses linkage learning to optimize test case selection. In particular, we use an unsupervised clustering algorithm to infer promising patterns among the solutions (sub-test suites). Then, these patterns are used in the next iterations of L2-NSGA to create solutions that contain/preserve these inferred patterns. Our results show that our customizations make NSGA-II more effective for test case selection. Furthermore, the test suite sub-sets generated by L2-NSGA are less expensive and more effective (detect more faults) than those generated by MOEAs used in the literature for regression testing.&lt;/p&gt;
 </description>
@@ -197,169 +244,249 @@
     
     <item>
       <title>What Are We Really Testing in Mutation Testing for Machine Learning? A Critical Reflection</title>
-      <link>/talk/icse-nier2021/</link>
+      <link>https://example.com/talk/what-are-we-really-testing-in-mutation-testing-for-machine-learning-a-critical-reflection/</link>
       <pubDate>Thu, 27 May 2021 11:17:15 +0200</pubDate>
-      <guid>/talk/icse-nier2021/</guid>
+      <guid>https://example.com/talk/what-are-we-really-testing-in-mutation-testing-for-machine-learning-a-critical-reflection/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Log-based Slicing for System-level Test Cases</title>
-      <link>/publication/issta2021/</link>
+      <link>https://example.com/publication/issta2021/</link>
       <pubDate>Mon, 19 Apr 2021 09:03:56 +0200</pubDate>
-      <guid>/publication/issta2021/</guid>
+      <guid>https://example.com/publication/issta2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>EvoSuite at the SBST 2021 Tool Competition</title>
-      <link>/publication/sbst2021/</link>
+      <link>https://example.com/publication/sbst2021/</link>
       <pubDate>Thu, 01 Apr 2021 17:56:40 +0200</pubDate>
-      <guid>/publication/sbst2021/</guid>
+      <guid>https://example.com/publication/sbst2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>What Are We Really Testing in Mutation Testing for Machine Learning? A Critical Reflection</title>
-      <link>/publication/icse-nier2020/</link>
+      <link>https://example.com/publication/icse-nier2020/</link>
       <pubDate>Mon, 18 Jan 2021 14:29:50 +0200</pubDate>
-      <guid>/publication/icse-nier2020/</guid>
+      <guid>https://example.com/publication/icse-nier2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Search-Based Software Re-Modularization: A Case Study at Adyen</title>
-      <link>/publication/icse-seip2020/</link>
+      <link>https://example.com/publication/icse-seip2020/</link>
       <pubDate>Fri, 01 Jan 2021 22:27:51 +0200</pubDate>
-      <guid>/publication/icse-seip2020/</guid>
+      <guid>https://example.com/publication/icse-seip2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ReproducedPaper.org: Openly teaching and structuring machine learning reproducibility</title>
-      <link>/publication/rrpr2021/</link>
+      <link>https://example.com/publication/rrpr2021/</link>
       <pubDate>Fri, 01 Jan 2021 17:32:54 +0200</pubDate>
-      <guid>/publication/rrpr2021/</guid>
+      <guid>https://example.com/publication/rrpr2021/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Welcome to Hugo Blox Builder, the website builder for Hugo</title>
+      <link>https://example.com/post/getting-started/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/getting-started/</guid>
+      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
+&lt;li&gt;The template can be modified and customised to suit your needs. It&amp;rsquo;s a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a &lt;strong&gt;no-code solution (write in Markdown and customize with YAML parameters)&lt;/strong&gt; and having &lt;strong&gt;flexibility to later add even deeper personalization with HTML and CSS&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png&#34; alt=&#34;The template is mobile first with a responsive design to ensure that your site looks stunning on every device.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;get-started&#34;&gt;Get Started&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;👉 &lt;a href=&#34;https://hugoblox.com/templates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Create a new site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📚 &lt;a href=&#34;https://docs.hugoblox.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Personalize your site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💬 &lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chat with the &lt;strong&gt;Wowchemy community&lt;/strong&gt;&lt;/a&gt; or &lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Hugo community&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🐦 Twitter: &lt;a href=&#34;https://twitter.com/wowchemy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@wowchemy&lt;/a&gt; &lt;a href=&#34;https://twitter.com/GeorgeCushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@GeorgeCushen&lt;/a&gt; &lt;a href=&#34;https://twitter.com/search?q=%23MadeWithWowchemy&amp;amp;src=typed_query&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;#MadeWithWowchemy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💡 &lt;a href=&#34;https://github.com/HugoBlox/hugo-blox-builder/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Request a &lt;strong&gt;feature&lt;/strong&gt; or report a &lt;strong&gt;bug&lt;/strong&gt; for &lt;em&gt;Wowchemy&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;⬆️ &lt;strong&gt;Updating Wowchemy?&lt;/strong&gt; View the &lt;a href=&#34;https://docs.hugoblox.com/hugo-tutorials/update/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Update Tutorial&lt;/a&gt; and &lt;a href=&#34;https://hugoblox.com/updates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;crowd-funded-open-source-software&#34;&gt;Crowd-funded open-source software&lt;/h2&gt;
+&lt;p&gt;To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.&lt;/p&gt;
+&lt;h3 id=&#34;-click-here-to-become-a-sponsor-and-help-support-wowchemys-future-httpshugobloxcomsponsor&#34;&gt;&lt;a href=&#34;https://hugoblox.com/sponsor/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;❤️ Click here to become a sponsor and help support Wowchemy&amp;rsquo;s future ❤️&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;As a token of appreciation for sponsoring, you can &lt;strong&gt;unlock &lt;a href=&#34;https://hugoblox.com/sponsor/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;these&lt;/a&gt; awesome rewards and extra features 🦄✨&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/GetRD/academic-file-converter&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Academic CLI&lt;/a&gt;:&lt;/strong&gt; Automatically import publications from BibTeX&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;inspiration&#34;&gt;Inspiration&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href=&#34;https://hugoblox.com/user-stories/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;view the &lt;strong&gt;showcase&lt;/strong&gt;&lt;/a&gt; of personal, project, and business sites.&lt;/p&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Page builder&lt;/strong&gt; - Create &lt;em&gt;anything&lt;/em&gt; with &lt;a href=&#34;https://docs.hugoblox.com/page-builder/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;widgets&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;elements&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Edit any type of content&lt;/strong&gt; - Blog posts, publications, talks, slides, projects, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Create content&lt;/strong&gt; in &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Markdown&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;https://docs.hugoblox.com/import/jupyter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Jupyter&lt;/strong&gt;&lt;/a&gt;, or &lt;a href=&#34;https://docs.hugoblox.com/install-locally/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Plugin System&lt;/strong&gt; - Fully customizable &lt;a href=&#34;https://docs.hugoblox.com/customization/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;color&lt;/strong&gt; and &lt;strong&gt;font themes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Display Code and Math&lt;/strong&gt; - Code highlighting and &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LaTeX math&lt;/a&gt; supported&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Integrations&lt;/strong&gt; - &lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Analytics&lt;/a&gt;, &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Disqus commenting&lt;/a&gt;, Maps, Contact Forms, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Beautiful Site&lt;/strong&gt; - Simple and refreshing one page design&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Industry-Leading SEO&lt;/strong&gt; - Help get your website found on search engines and social media&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Media Galleries&lt;/strong&gt; - Display your images and videos with captions in a customizable gallery&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mobile Friendly&lt;/strong&gt; - Look amazing on every screen with a mobile friendly version of your site&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-language&lt;/strong&gt; - 34+ language packs including English, 中文, and Português&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-user&lt;/strong&gt; - Each author gets their own profile page&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Privacy Pack&lt;/strong&gt; - Assists with GDPR&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Stand Out&lt;/strong&gt; - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;One-Click Deployment&lt;/strong&gt; - No servers. No databases. Only files.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;p&gt;Wowchemy and its templates come with &lt;strong&gt;automatic day (light) and night (dark) mode&lt;/strong&gt; built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo&lt;/a&gt; to see it in action! Day/night mode can also be disabled by the site admin in &lt;code&gt;params.toml&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.hugoblox.com/customization&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Choose a stunning &lt;strong&gt;theme&lt;/strong&gt; and &lt;strong&gt;font&lt;/strong&gt;&lt;/a&gt; for your site. Themes are fully customizable.&lt;/p&gt;
+&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
+&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/HugoBlox/hugo-blox-builder/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>How to Kill Them All: An Exploratory Study on the Impact of Code Observability on Mutation Testing</title>
-      <link>/publication/jss2020/</link>
+      <link>https://example.com/publication/jss2020/</link>
       <pubDate>Tue, 01 Dec 2020 17:32:54 +0200</pubDate>
-      <guid>/publication/jss2020/</guid>
+      <guid>https://example.com/publication/jss2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Serverless Testing: Tool Vendors&#39; and Experts&#39; Point of View</title>
-      <link>/publication/ieee-software2020/</link>
+      <link>https://example.com/publication/ieee-software2020/</link>
       <pubDate>Wed, 07 Oct 2020 10:14:08 +0200</pubDate>
-      <guid>/publication/ieee-software2020/</guid>
+      <guid>https://example.com/publication/ieee-software2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Revisiting test smells in automatically generated tests: limitations, pitfalls, and opportunities</title>
-      <link>/talk/icsme2020/</link>
+      <link>https://example.com/talk/revisiting-test-smells-in-automatically-generated-tests-limitations-pitfalls-and-opportunities/</link>
       <pubDate>Sun, 27 Sep 2020 11:17:15 +0200</pubDate>
-      <guid>/talk/icsme2020/</guid>
+      <guid>https://example.com/talk/revisiting-test-smells-in-automatically-generated-tests-limitations-pitfalls-and-opportunities/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Systematic Comparison of Search-Based Approaches for LDA Hyperparameter Tuning</title>
-      <link>/publication/infsoft2020/</link>
+      <link>https://example.com/publication/infsoft2020/</link>
       <pubDate>Wed, 09 Sep 2020 21:50:29 +0200</pubDate>
-      <guid>/publication/infsoft2020/</guid>
+      <guid>https://example.com/publication/infsoft2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Revisiting Test Smells in Automatically Generated Tests: Limitations, Pitfalls, and Opportunities</title>
-      <link>/publication/icsme2020/</link>
+      <link>https://example.com/publication/icsme2020/</link>
       <pubDate>Tue, 04 Aug 2020 16:05:57 +0200</pubDate>
-      <guid>/publication/icsme2020/</guid>
+      <guid>https://example.com/publication/icsme2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DeepTC-Enhancer: Improving the Readability of Automatically Generated Tests</title>
-      <link>/publication/ase2020b/</link>
+      <link>https://example.com/publication/ase2020b/</link>
       <pubDate>Thu, 30 Jul 2020 22:27:51 +0200</pubDate>
-      <guid>/publication/ase2020b/</guid>
+      <guid>https://example.com/publication/ase2020b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Good Things Come In Threes: Improving Search-based Crash Reproduction With Helper Objectives</title>
-      <link>/publication/ase2020a/</link>
+      <link>https://example.com/publication/ase2020a/</link>
       <pubDate>Thu, 30 Jul 2020 22:27:46 +0200</pubDate>
-      <guid>/publication/ase2020a/</guid>
+      <guid>https://example.com/publication/ase2020a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Automated Repair of Feature Interaction Failures in Automated Driving Systems</title>
-      <link>/talk/issta2020/</link>
+      <link>https://example.com/talk/automated-repair-of-feature-interaction-failures-in-automated-driving-systems/</link>
       <pubDate>Sat, 18 Jul 2020 11:17:15 +0200</pubDate>
-      <guid>/talk/issta2020/</guid>
+      <guid>https://example.com/talk/automated-repair-of-feature-interaction-failures-in-automated-driving-systems/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Generating Highly-structured Input Data by Combining Search-based Testing and Grammar-based Fuzzing</title>
-      <link>/publication/ase2020-nier/</link>
+      <link>https://example.com/publication/ase2020-nier/</link>
       <pubDate>Mon, 06 Jul 2020 14:29:50 +0200</pubDate>
-      <guid>/publication/ase2020-nier/</guid>
+      <guid>https://example.com/publication/ase2020-nier/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Botsing, a Search-based Crash Reproduction Framework for Java</title>
-      <link>/publication/ase2020-tool/</link>
+      <link>https://example.com/publication/ase2020-tool/</link>
       <pubDate>Sun, 05 Jul 2020 14:19:53 +0200</pubDate>
-      <guid>/publication/ase2020-tool/</guid>
+      <guid>https://example.com/publication/ase2020-tool/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Crash Reproduction Using Helper Objectives</title>
-      <link>/publication/gecco2020/</link>
+      <link>https://example.com/publication/gecco2020/</link>
       <pubDate>Sat, 04 Jul 2020 18:56:54 +0200</pubDate>
-      <guid>/publication/gecco2020/</guid>
+      <guid>https://example.com/publication/gecco2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>EvoSuite at the SBST 2020 Tool Competition</title>
-      <link>/publication/sbst2020/</link>
+      <link>https://example.com/publication/sbst2020/</link>
       <pubDate>Fri, 17 Apr 2020 17:56:40 +0200</pubDate>
-      <guid>/publication/sbst2020/</guid>
+      <guid>https://example.com/publication/sbst2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Automated Repair of Feature Interaction Failures in Automated Driving Systems</title>
-      <link>/publication/issta2020/</link>
+      <link>https://example.com/publication/issta2020/</link>
       <pubDate>Fri, 17 Apr 2020 17:32:54 +0200</pubDate>
-      <guid>/publication/issta2020/</guid>
+      <guid>https://example.com/publication/issta2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>LogChunks: A Data Set for Build Log Analysis</title>
-      <link>/publication/msrdata2019/</link>
+      <link>https://example.com/publication/msrdata2019/</link>
       <pubDate>Tue, 03 Mar 2020 17:08:37 +0100</pubDate>
-      <guid>/publication/msrdata2019/</guid>
+      <guid>https://example.com/publication/msrdata2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Oracle Issues in Machine Learning and Where to Find Them</title>
-      <link>/publication/raise2020/</link>
+      <link>https://example.com/publication/raise2020/</link>
       <pubDate>Tue, 03 Mar 2020 16:20:15 +0100</pubDate>
-      <guid>/publication/raise2020/</guid>
+      <guid>https://example.com/publication/raise2020/</guid>
       <description>&lt;p&gt;Abstract:
 The rise in popularity of machine learning (ML), and deep learning in particular, has both led to optimism about achievements of artificial intelligence, as well as concerns about possible weaknesses and vulnerabilities of ML pipelines. Within the software engineering community, this has led to a considerable body of work on ML testing techniques, including white- and black-box testing for ML models. This means the oracle problem needs to be addressed; for supervised ML applications, oracle information is indeed available in the form of dataset &amp;ldquo;ground truth&amp;rdquo;, that encodes input data with corresponding desired output labels. However, while ground truth forms a gold standard, there still is no guarantee it is truly correct. Indeed, syntactic, semantic, and conceptual framing issues in the oracle may negatively affect the ML system integrity. While syntactic issues may be automatically verified and corrected, the higher-level issues traditionally need human judgment and manual analysis.
 In this paper, we employ two heuristics based on information entropy and semantic analysis on well-known computer vision models and benchmark data from ImageNet. The heuristics are used to semi-automatically uncover potential higher-level issues in (i) the label taxonomy used to define the ground truth oracle (labels), and (ii) data encoding and representation. In doing this, beyond existing ML testing efforts, we illustrate the need for SE strategies that especially target and assess the oracle.&lt;/p&gt;
@@ -368,17 +495,17 @@ In this paper, we employ two heuristics based on information entropy and semanti
     
     <item>
       <title>Automated Test Generation for Unit Testing Beyond</title>
-      <link>/talk/ipa2019/</link>
+      <link>https://example.com/talk/automated-test-generation-for-unit-testing-beyond/</link>
       <pubDate>Mon, 28 Oct 2019 11:17:15 +0200</pubDate>
-      <guid>/talk/ipa2019/</guid>
+      <guid>https://example.com/talk/automated-test-generation-for-unit-testing-beyond/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Testing with Fewer Resources: An Adaptive Approach to Performance-Aware Test Case Generation</title>
-      <link>/publication/ieee-tse2019/</link>
+      <link>https://example.com/publication/ieee-tse2019/</link>
       <pubDate>Wed, 09 Oct 2019 09:51:33 +0200</pubDate>
-      <guid>/publication/ieee-tse2019/</guid>
+      <guid>https://example.com/publication/ieee-tse2019/</guid>
       <description>&lt;p&gt;Abstract: Automated test case generation is an effective technique to yield high-coverage test suites.
 While the majority of research effort has been devoted to satisfying coverage criteria, a recent trend emerged towards optimizing other non-coverage aspects.
 In this regard, runtime and memory usage are two essential dimensions: less expensive tests reduce the resource demands for the generation process and later regression testing phases.
@@ -395,42 +522,436 @@ Our empirical investigation also highlights that the usage of performance proxie
     
     <item>
       <title>Testing Autonomous Cars for Feature Interaction Failures using Evolutionary Intelligence</title>
-      <link>/talk/cow2019/</link>
+      <link>https://example.com/talk/testing-autonomous-cars-for-feature-interaction-failures-using-evolutionary-intelligence/</link>
       <pubDate>Tue, 01 Oct 2019 11:17:15 +0200</pubDate>
-      <guid>/talk/cow2019/</guid>
+      <guid>https://example.com/talk/testing-autonomous-cars-for-feature-interaction-failures-using-evolutionary-intelligence/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Writing technical content in Markdown</title>
+      <link>https://example.com/post/writing-technical-content/</link>
+      <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/writing-technical-content/</guid>
+      <description>&lt;p&gt;Hugo Blox Builder is designed to give technical content creators a seamless experience. You can focus on the content and Wowchemy handles the rest.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Wowchemy.&lt;/p&gt;
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+&lt;h3 id=&#34;code&#34;&gt;Code&lt;/h3&gt;
+&lt;p&gt;Wowchemy supports a Markdown extension for highlighting code syntax. You can customize the styles under the &lt;code&gt;syntax_highlighter&lt;/code&gt; option in your &lt;code&gt;config/_default/params.yaml&lt;/code&gt; file.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;```python
+import pandas as pd
+data = pd.read_csv(&amp;quot;data.csv&amp;quot;)
+data.head()
+```
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;pandas&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;as&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;pd&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;data&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;pd&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;read_csv&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;data.csv&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;data&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;head&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;()&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;mindmaps&#34;&gt;Mindmaps&lt;/h3&gt;
+&lt;p&gt;Wowchemy supports a Markdown extension for mindmaps.&lt;/p&gt;
+&lt;p&gt;Simply insert a Markdown &lt;code&gt;markmap&lt;/code&gt; code block and optionally set the height of the mindmap as shown in the example below.&lt;/p&gt;
+&lt;p&gt;A simple mindmap defined as a Markdown list:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;
+&lt;code&gt;
+```markmap {height=&#34;200px&#34;}
+- Hugo Modules
+  - wowchemy
+  - blox-plugins-netlify
+  - blox-plugins-netlify-cms
+  - blox-plugins-reveal
+```
+&lt;/code&gt;
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;div class=&#34;markmap&#34; style=&#34;height: 200px;&#34;&gt;
+
+&lt;pre&gt;- Hugo Modules
+  - wowchemy
+  - blox-plugins-netlify
+  - blox-plugins-netlify-cms
+  - blox-plugins-reveal&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;A more advanced mindmap with formatting, code blocks, and math:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;
+&lt;code&gt;
+```markmap
+- Mindmaps
+  - Links
+    - [Wowchemy Docs](https://docs.hugoblox.com/)
+    - [Discord Community](https://discord.gg/z8wNYzb)
+    - [GitHub](https://github.com/HugoBlox/hugo-blox-builder)
+  - Features
+    - Markdown formatting
+    - **inline** ~~text~~ *styles*
+    - multiline
+      text
+    - `inline code`
+    -
+      ```js
+      console.log(&#39;hello&#39;);
+      console.log(&#39;code block&#39;);
+      ```
+    - Math: $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
+```
+&lt;/code&gt;
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;div class=&#34;markmap&#34; style=&#34;height: 500px;&#34;&gt;
+
+&lt;pre&gt;- Mindmaps
+  - Links
+    - [Wowchemy Docs](https://docs.hugoblox.com/)
+    - [Discord Community](https://discord.gg/z8wNYzb)
+    - [GitHub](https://github.com/HugoBlox/hugo-blox-builder)
+  - Features
+    - Markdown formatting
+    - **inline** ~~text~~ *styles*
+    - multiline
+      text
+    - `inline code`
+    -
+      ```js
+      console.log(&#39;hello&#39;);
+      console.log(&#39;code block&#39;);
+      ```
+    - Math: $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&#34;charts&#34;&gt;Charts&lt;/h3&gt;
+&lt;p&gt;Wowchemy supports the popular &lt;a href=&#34;https://plot.ly/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Plotly&lt;/a&gt; format for interactive charts.&lt;/p&gt;
+&lt;p&gt;Save your Plotly JSON in your page folder, for example &lt;code&gt;line-chart.json&lt;/code&gt;, and then add the &lt;code&gt;{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code&gt; shortcode where you would like the chart to appear.&lt;/p&gt;
+&lt;p&gt;Demo:&lt;/p&gt;
+
+
+
+
+&lt;div id=&#34;chart-172346598&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;script&gt;
+  (function() {
+    let a = setInterval( function() {
+      if ( typeof window.Plotly === &#39;undefined&#39; ) {
+        return;
+      }
+      clearInterval( a );
+
+      Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
+        Plotly.plot(&#39;chart-172346598&#39;, chart.data, chart.layout, {responsive: true});
+      });
+    }, 500 );
+  })();
+&lt;/script&gt;
+
+&lt;p&gt;You might also find the &lt;a href=&#34;http://plotly-json-editor.getforge.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Plotly JSON Editor&lt;/a&gt; useful.&lt;/p&gt;
+&lt;h3 id=&#34;math&#34;&gt;Math&lt;/h3&gt;
+&lt;p&gt;Wowchemy supports a Markdown extension for $\LaTeX$ math. You can enable this feature by toggling the &lt;code&gt;math&lt;/code&gt; option in your &lt;code&gt;config/_default/params.yaml&lt;/code&gt; file.&lt;/p&gt;
+&lt;p&gt;To render &lt;em&gt;inline&lt;/em&gt; or &lt;em&gt;block&lt;/em&gt; math, wrap your LaTeX math with &lt;code&gt;{{&amp;lt; math &amp;gt;}}$...${{&amp;lt; /math &amp;gt;}}&lt;/code&gt; or &lt;code&gt;{{&amp;lt; math &amp;gt;}}$$...$${{&amp;lt; /math &amp;gt;}}&lt;/code&gt;, respectively. (We wrap the LaTeX math in the Wowchemy &lt;em&gt;math&lt;/em&gt; shortcode to prevent Hugo rendering our math as Markdown. The &lt;em&gt;math&lt;/em&gt; shortcode is new in v5.5-dev.)&lt;/p&gt;
+&lt;p&gt;Example &lt;strong&gt;math block&lt;/strong&gt;:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-latex&#34; data-lang=&#34;latex&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;{{&lt;/span&gt;&amp;lt; math &amp;gt;&lt;span class=&#34;nb&#34;&gt;}}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;sb&#34;&gt;$$&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\gamma&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;_{n} &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\frac&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{ &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\left&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; | &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\left&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; x_{n} &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; x_{n&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;} &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\right&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;^T &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\left&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\nabla&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; F &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; x_{n}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\nabla&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; F &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; x_{n&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\right&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\right&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; |}{&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\left&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\|\nabla&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; F&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{x}_{n}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\nabla&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; F&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{x}_{n&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\right&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\|&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;^&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;$$&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;{{&lt;/span&gt;&amp;lt; /math &amp;gt;&lt;span class=&#34;nb&#34;&gt;}}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
+
+
+
+$$\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}$$
+
+&lt;p&gt;Example &lt;strong&gt;inline math&lt;/strong&gt; &lt;code&gt;{{&amp;lt; math &amp;gt;}}$\nabla F(\mathbf{x}_{n})${{&amp;lt; /math &amp;gt;}}&lt;/code&gt; renders as 
+
+$\nabla F(\mathbf{x}_{n})$.&lt;/p&gt;
+&lt;p&gt;Example &lt;strong&gt;multi-line math&lt;/strong&gt; using the math linebreak (&lt;code&gt;\\&lt;/code&gt;):&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-latex&#34; data-lang=&#34;latex&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;{{&lt;/span&gt;&amp;lt; math &amp;gt;&lt;span class=&#34;nb&#34;&gt;}}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;sb&#34;&gt;$$&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;f&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;k;p_{&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}^{&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;*&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\begin&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{cases}p_{&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}^{&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;*&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;} &amp;amp; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\text&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{if }k&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;, &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\\&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;p_{&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}^{&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;*&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;} &amp;amp; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\text&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{if }k&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\end&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{cases}&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;$$&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;{{&lt;/span&gt;&amp;lt; /math &amp;gt;&lt;span class=&#34;nb&#34;&gt;}}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
+
+
+
+
+$$
+f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} &amp; \text{if }k=1, \\
+1-p_{0}^{*} &amp; \text{if }k=0.\end{cases}
+$$
+
+
+&lt;h3 id=&#34;diagrams&#34;&gt;Diagrams&lt;/h3&gt;
+&lt;p&gt;Wowchemy supports a Markdown extension for diagrams. You can enable this feature by toggling the &lt;code&gt;diagram&lt;/code&gt; option in your &lt;code&gt;config/_default/params.toml&lt;/code&gt; file or by adding &lt;code&gt;diagram: true&lt;/code&gt; to your page front matter.&lt;/p&gt;
+&lt;p&gt;An example &lt;strong&gt;flowchart&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;```mermaid
+graph TD
+A[Hard] --&amp;gt;|Text| B(Round)
+B --&amp;gt; C{Decision}
+C --&amp;gt;|One| D[Result 1]
+C --&amp;gt;|Two| E[Result 2]
+```
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;div class=&#34;mermaid&#34;&gt;graph TD
+A[Hard] --&gt;|Text| B(Round)
+B --&gt; C{Decision}
+C --&gt;|One| D[Result 1]
+C --&gt;|Two| E[Result 2]
+&lt;/div&gt;
+&lt;p&gt;An example &lt;strong&gt;sequence diagram&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;```mermaid
+sequenceDiagram
+Alice-&amp;gt;&amp;gt;John: Hello John, how are you?
+loop Healthcheck
+    John-&amp;gt;&amp;gt;John: Fight against hypochondria
+end
+Note right of John: Rational thoughts!
+John--&amp;gt;&amp;gt;Alice: Great!
+John-&amp;gt;&amp;gt;Bob: How about you?
+Bob--&amp;gt;&amp;gt;John: Jolly good!
+```
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;div class=&#34;mermaid&#34;&gt;sequenceDiagram
+Alice-&gt;&gt;John: Hello John, how are you?
+loop Healthcheck
+    John-&gt;&gt;John: Fight against hypochondria
+end
+Note right of John: Rational thoughts!
+John--&gt;&gt;Alice: Great!
+John-&gt;&gt;Bob: How about you?
+Bob--&gt;&gt;John: Jolly good!
+&lt;/div&gt;
+&lt;p&gt;An example &lt;strong&gt;Gantt diagram&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;```mermaid
+gantt
+section Section
+Completed :done,    des1, 2014-01-06,2014-01-08
+Active        :active,  des2, 2014-01-07, 3d
+Parallel 1   :         des3, after des1, 1d
+Parallel 2   :         des4, after des1, 1d
+Parallel 3   :         des5, after des3, 1d
+Parallel 4   :         des6, after des4, 1d
+```
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;div class=&#34;mermaid&#34;&gt;gantt
+section Section
+Completed :done,    des1, 2014-01-06,2014-01-08
+Active        :active,  des2, 2014-01-07, 3d
+Parallel 1   :         des3, after des1, 1d
+Parallel 2   :         des4, after des1, 1d
+Parallel 3   :         des5, after des3, 1d
+Parallel 4   :         des6, after des4, 1d
+&lt;/div&gt;
+&lt;p&gt;An example &lt;strong&gt;class diagram&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;```mermaid
+classDiagram
+Class01 &amp;lt;|-- AveryLongClass : Cool
+Class03 *-- Class04
+Class05 o-- Class06
+Class07 .. Class08
+Class09 --&amp;gt; C2 : Where am i?
+Class09 --* C3
+Class09 --|&amp;gt; Class07
+Class07 : equals()
+Class07 : Object[] elementData
+Class01 : size()
+Class01 : int chimp
+Class01 : int gorilla
+Class08 &amp;lt;--&amp;gt; C2: Cool label
+```
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;div class=&#34;mermaid&#34;&gt;classDiagram
+Class01 &lt;|-- AveryLongClass : Cool
+Class03 *-- Class04
+Class05 o-- Class06
+Class07 .. Class08
+Class09 --&gt; C2 : Where am i?
+Class09 --* C3
+Class09 --|&gt; Class07
+Class07 : equals()
+Class07 : Object[] elementData
+Class01 : size()
+Class01 : int chimp
+Class01 : int gorilla
+Class08 &lt;--&gt; C2: Cool label
+&lt;/div&gt;
+&lt;p&gt;An example &lt;strong&gt;state diagram&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;```mermaid
+stateDiagram
+[*] --&amp;gt; Still
+Still --&amp;gt; [*]
+Still --&amp;gt; Moving
+Moving --&amp;gt; Still
+Moving --&amp;gt; Crash
+Crash --&amp;gt; [*]
+```
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;div class=&#34;mermaid&#34;&gt;stateDiagram
+[*] --&gt; Still
+Still --&gt; [*]
+Still --&gt; Moving
+Moving --&gt; Still
+Moving --&gt; Crash
+Crash --&gt; [*]
+&lt;/div&gt;
+&lt;h3 id=&#34;todo-lists&#34;&gt;Todo lists&lt;/h3&gt;
+&lt;p&gt;You can even write your todo lists in Markdown too:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;- [x]&lt;/span&gt; Write math example
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;k&#34;&gt;- [x]&lt;/span&gt; Write diagram example
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;- [ ]&lt;/span&gt; Do something else
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Write math example
+&lt;ul&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Write diagram example&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Do something else&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;tables&#34;&gt;Tables&lt;/h3&gt;
+&lt;p&gt;Save your spreadsheet as a CSV file in your page&amp;rsquo;s folder and then render it by adding the &lt;em&gt;Table&lt;/em&gt; shortcode to your page:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-go&#34; data-lang=&#34;go&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;{{&amp;lt;&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;table&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;path&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;results.csv&amp;#34;&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;header&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;true&amp;#34;&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;caption&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;Table 1: My results&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;}}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+&lt;table class=&#34;table&#34;&gt;
+  
+    
+    
+    &lt;tr&gt;  &lt;th&gt;customer_id&lt;/th&gt;  &lt;th&gt;score&lt;/th&gt;  &lt;/tr&gt;
+  
+  
+    &lt;tr&gt;
+      
+        
+          &lt;td data-table-dtype=&#34;number&#34;&gt;1&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;number&#34;&gt;0&lt;/td&gt;
+        
+      
+    &lt;/tr&gt;
+  
+    &lt;tr&gt;
+      
+        
+          &lt;td data-table-dtype=&#34;number&#34;&gt;2&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;0.5&lt;/td&gt;
+        
+      
+    &lt;/tr&gt;
+  
+    &lt;tr&gt;
+      
+        
+          &lt;td data-table-dtype=&#34;number&#34;&gt;3&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;number&#34;&gt;1&lt;/td&gt;
+        
+      
+    &lt;/tr&gt;
+  
+  
+    &lt;caption&gt;Table 1: My results&lt;/caption&gt;
+  
+&lt;/table&gt;
+
+&lt;h3 id=&#34;callouts&#34;&gt;Callouts&lt;/h3&gt;
+&lt;p&gt;Academic supports a &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/#callouts&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcode for callouts&lt;/a&gt;, also referred to as &lt;em&gt;asides&lt;/em&gt;, &lt;em&gt;hints&lt;/em&gt;, or &lt;em&gt;alerts&lt;/em&gt;. By wrapping a paragraph in &lt;code&gt;{{% callout note %}} ... {{% /callout %}}&lt;/code&gt;, it will render as an aside.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% callout note %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% /callout %}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h3 id=&#34;spoilers&#34;&gt;Spoilers&lt;/h3&gt;
+&lt;p&gt;Add a spoiler to a page to reveal text, such as an answer to a question, after a button is clicked.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;spoiler&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;text&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;Click to view the spoiler&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;You found me!
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;spoiler&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-6&#34;&gt;
+  &lt;summary&gt;Click to view the spoiler&lt;/summary&gt;
+  &lt;p&gt;You found me!&lt;/p&gt;
+&lt;/details&gt;
+&lt;h3 id=&#34;icons&#34;&gt;Icons&lt;/h3&gt;
+&lt;p&gt;Academic enables you to use a wide range of &lt;a href=&#34;https://docs.hugoblox.com/getting-started/page-builder/#icons&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;icons from &lt;em&gt;Font Awesome&lt;/em&gt; and &lt;em&gt;Academicons&lt;/em&gt;&lt;/a&gt; in addition to &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/#emojis&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;emojis&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Here are some examples using the &lt;code&gt;icon&lt;/code&gt; shortcode to render icons:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;icon&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;terminal&amp;#34;&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;pack&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;fas&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}} Terminal  
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;icon&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;python&amp;#34;&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;pack&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;fab&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}} Python  
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;icon&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;r-project&amp;#34;&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;pack&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;fab&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}} R
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-terminal  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Terminal&lt;br&gt;
+
+  &lt;i class=&#34;fab fa-python  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Python&lt;br&gt;
+
+  &lt;i class=&#34;fab fa-r-project  pr-1 fa-fw&#34;&gt;&lt;/i&gt; R&lt;/p&gt;
+&lt;h3 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
       <title>JCOMIX: A Search-Based Tool to Detect XML Injection Vulnerabilities in Web Applications</title>
-      <link>/publication/esec-fse2019/</link>
+      <link>https://example.com/publication/esec-fse2019/</link>
       <pubDate>Wed, 26 Jun 2019 10:41:41 +0200</pubDate>
-      <guid>/publication/esec-fse2019/</guid>
+      <guid>https://example.com/publication/esec-fse2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Catcher</title>
-      <link>/tools/catcher/</link>
+      <link>https://example.com/tools/catcher/</link>
       <pubDate>Wed, 26 Jun 2019 10:29:32 +0200</pubDate>
-      <guid>/tools/catcher/</guid>
+      <guid>https://example.com/tools/catcher/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cling</title>
-      <link>/tools/cling/</link>
+      <link>https://example.com/tools/cling/</link>
       <pubDate>Wed, 26 Jun 2019 10:29:32 +0200</pubDate>
-      <guid>/tools/cling/</guid>
+      <guid>https://example.com/tools/cling/</guid>
       <description>&lt;p&gt;Towards Integration-Level Test Case Generation Using Call Site Information&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Search-Based-LDA</title>
-      <link>/tools/ssbse-lda/</link>
+      <link>https://example.com/tools/ssbse-lda/</link>
       <pubDate>Wed, 26 Jun 2019 10:29:32 +0200</pubDate>
-      <guid>/tools/ssbse-lda/</guid>
+      <guid>https://example.com/tools/ssbse-lda/</guid>
       <description>&lt;p&gt;A Systematic Comparison of Search Algorithms for Topic Modelling - A Study on DuplicateBug Report Identification&lt;/p&gt;
 &lt;h3 id=&#34;author&#34;&gt;Author&lt;/h3&gt;
 &lt;p&gt;Annibale Panichella&lt;/p&gt;
@@ -439,16 +960,15 @@ Our empirical investigation also highlights that the usage of performance proxie
 &lt;h4 id=&#34;abstract&#34;&gt;Abstract&lt;/h4&gt;
 &lt;p&gt;Latent Dirichlet Allocation (LDA) has been used to supportmany software engineering tasks. Previous studies showed that defaultsettings lead to sub-optimal topic modeling with a dramatic impacton the performance of such approaches in terms of precision andrecall. For this reason, researchers used search algorithms (e.g., geneticalgorithms) to automatically configure topic models in an unsupervisedfashion. While previous work showed the ability of individual search algorithmsin finding near-optimal configurations, it is not clear to whatextent the choice of the meta-heuristic matters for SE tasks. In this paper,we present a systematic comparison of five different meta-heuristicsto configure LDA in the context of duplicate bug reports identification.The results show that (1) no master algorithm outperforms the othersfor all software projects, (2) random search and PSO are the least effectivemeta-heuristics. Finally, the running time strongly depends on thecomputational complexity of LDA while the internal complexity of thesearch algorithms plays a negligible role.&lt;/p&gt;
 &lt;h3 id=&#34;getting-started&#34;&gt;Getting started&lt;/h3&gt;
-&lt;p&gt;The source code is available in GitHub at the link: 
-&lt;a href=&#34;https://github.com/apanichella/Search-Based-LDA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/apanichella/Search-Based-LDA&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The source code is available in GitHub at the link: &lt;a href=&#34;https://github.com/apanichella/Search-Based-LDA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/apanichella/Search-Based-LDA&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Effective and Efficient API Misuse Detection via Exception Propagation and Search-based Testing</title>
-      <link>/publication/issta2019/</link>
+      <link>https://example.com/publication/issta2019/</link>
       <pubDate>Wed, 01 May 2019 20:22:51 +0200</pubDate>
-      <guid>/publication/issta2019/</guid>
+      <guid>https://example.com/publication/issta2019/</guid>
       <description>&lt;p&gt;&lt;b&gt; Abstract &lt;/b&gt;: Application Programming Interfaces (APIs)
 typically come with (implicit) usage constraints.
 The violations of these constraints (API misuses)
@@ -476,9 +996,9 @@ are unexpected to developers i.e., not only unhandled in the source code but als
     
     <item>
       <title>A Systematic Comparison of Search Algorithms for Topic Modelling - A Study on Duplicate Bug Report Identification</title>
-      <link>/publication/ssbse2019/</link>
+      <link>https://example.com/publication/ssbse2019/</link>
       <pubDate>Mon, 29 Apr 2019 23:16:23 +0200</pubDate>
-      <guid>/publication/ssbse2019/</guid>
+      <guid>https://example.com/publication/ssbse2019/</guid>
       <description>&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
 &lt;p&gt;Latent Dirichlet Allocation (LDA) has been used to support many software engineering tasks. Previous studies showed that default settings lead to sub-optimal topic modeling with a dramatic impact on the performance of such approaches in terms of precision and recall. For this reason, researchers used search algorithms (e.g., genetic algorithms) to automatically configure topic models in an unsupervised fashion. While previous work showed the ability of individual search algorithms in finding near-optimal configurations, it is not clear to what extent the choice of the meta-heuristic matters for SE tasks. In this paper, we present a systematic comparison of five different meta-heuristics to configure LDA in the context of duplicate bug reports identification. The results show that (1) no master algorithm outperforms the others for all software projects, (2) random search and PSO are the least effective meta-heuristics. Finally, the running time strongly depends on the computational complexity of LDA while the internal complexity of the search algorithms plays a negligible role.&lt;/p&gt;
 </description>
@@ -486,9 +1006,9 @@ are unexpected to developers i.e., not only unhandled in the source code but als
     
     <item>
       <title>AGE-MOEA</title>
-      <link>/tools/age-moea/</link>
+      <link>https://example.com/tools/age-moea/</link>
       <pubDate>Mon, 08 Apr 2019 11:08:54 +0200</pubDate>
-      <guid>/tools/age-moea/</guid>
+      <guid>https://example.com/tools/age-moea/</guid>
       <description>&lt;h3 id=&#34;title&#34;&gt;Title&lt;/h3&gt;
 &lt;p&gt;An Adaptive Evolutionary Algorithm based on Non-Euclidean Geometry for Many-objective Optimization&lt;/p&gt;
 &lt;h3 id=&#34;author&#34;&gt;Author&lt;/h3&gt;
@@ -505,354 +1025,504 @@ Download the zip file (see link above) and extract its content in the folder &lt
     </item>
     
     <item>
-      <title>DevOps for Complex Cyber-physical Systems</title>
-      <link>/project/cosmos/</link>
-      <pubDate>Mon, 08 Apr 2019 11:08:54 +0200</pubDate>
-      <guid>/project/cosmos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Software Testing Amplification for the DevOps Team</title>
-      <link>/project/stamp/</link>
-      <pubDate>Mon, 08 Apr 2019 11:08:54 +0200</pubDate>
-      <guid>/project/stamp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>University Blockchain Research Initiative </title>
-      <link>/project/ripple/</link>
-      <pubDate>Mon, 08 Apr 2019 11:08:49 +0200</pubDate>
-      <guid>/project/ripple/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>An Adaptive Evolutionary Algorithm based on Non-Euclidean Geometry for Many-objective Optimization</title>
-      <link>/publication/gecco2019/</link>
+      <link>https://example.com/publication/gecco2019/</link>
       <pubDate>Mon, 08 Apr 2019 10:45:30 +0200</pubDate>
-      <guid>/publication/gecco2019/</guid>
+      <guid>https://example.com/publication/gecco2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>EvoSuite at the SBST 2019 Tool Competition</title>
-      <link>/publication/sbst2019b/</link>
+      <link>https://example.com/publication/sbst2019b/</link>
       <pubDate>Mon, 08 Apr 2019 10:41:50 +0200</pubDate>
-      <guid>/publication/sbst2019b/</guid>
+      <guid>https://example.com/publication/sbst2019b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Beyond Unit-Testing in Search-based Test Case Generation: Challenges and Opportunities</title>
-      <link>/publication/sbst2019a/</link>
+      <link>https://example.com/publication/sbst2019a/</link>
       <pubDate>Mon, 08 Apr 2019 10:39:03 +0200</pubDate>
-      <guid>/publication/sbst2019a/</guid>
+      <guid>https://example.com/publication/sbst2019a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Search-based Multi-Vulnerability Testing of XML Injections in Web Applications</title>
-      <link>/publication/emse2019/</link>
+      <link>https://example.com/publication/emse2019/</link>
       <pubDate>Mon, 08 Apr 2019 10:11:19 +0200</pubDate>
-      <guid>/publication/emse2019/</guid>
+      <guid>https://example.com/publication/emse2019/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Slides</title>
+      <link>https://example.com/slides/example/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/slides/example/</guid>
+      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-hugo-blox-builder&#34;&gt;Create slides in Markdown with Hugo Blox Builder&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://hugoblox.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Blox Builder&lt;/a&gt; | &lt;a href=&#34;https://docs.hugoblox.com/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://revealjs.com/pdf-export/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Code block:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;porridge&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;blueberry&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;porridge&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;==&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;blueberry&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;Eating...&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+&lt;p&gt;Block math:&lt;/p&gt;
+&lt;p&gt;$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% fragment %}} One {{% /fragment %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% fragment %}} **Two** {{% /fragment %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% fragment %}} Three {{% /fragment %}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  One
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  &lt;strong&gt;Two&lt;/strong&gt;
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  Three
+&lt;/span&gt;
+&lt;hr&gt;
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% speaker_note %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Only the speaker can read these notes
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Press &lt;span class=&#34;sb&#34;&gt;`S`&lt;/span&gt; key to view
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  {{% /speaker_note %}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/media/boards.jpg&#34;
+  &gt;
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;background-image&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;/media/boards.jpg&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;background-color&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;#0000FF&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;class&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;my-style&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-css&#34; data-lang=&#34;css&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h2&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h3&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;k&#34;&gt;color&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;navy&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.hugoblox.com/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Speeding-up Software Testing using Computational intelligence</title>
-      <link>/talk/sen2019/</link>
+      <link>https://example.com/talk/speeding-up-software-testing-using-computational-intelligence/</link>
       <pubDate>Fri, 01 Feb 2019 11:17:15 +0200</pubDate>
-      <guid>/talk/sen2019/</guid>
+      <guid>https://example.com/talk/speeding-up-software-testing-using-computational-intelligence/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Test Case Prioritization Genetic Algorithm guided by the Hypervolume Indicator</title>
-      <link>/publication/ieee-tse2018f/</link>
+      <link>https://example.com/publication/ieee-tse2018f/</link>
       <pubDate>Sat, 08 Sep 2018 11:51:02 +0200</pubDate>
-      <guid>/publication/ieee-tse2018f/</guid>
+      <guid>https://example.com/publication/ieee-tse2018f/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Large Scale Empirical Comparison of State-of-the-art Search-based Test Case Generators</title>
-      <link>/publication/infsof2018b/</link>
+      <link>https://example.com/publication/infsof2018b/</link>
       <pubDate>Sat, 18 Aug 2018 07:39:53 +0200</pubDate>
-      <guid>/publication/infsof2018b/</guid>
+      <guid>https://example.com/publication/infsof2018b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On the Impact of Code Smells on the Energy Consumption of Mobile Applications</title>
-      <link>/publication/infsoft2018a/</link>
+      <link>https://example.com/publication/infsoft2018a/</link>
       <pubDate>Mon, 13 Aug 2018 19:14:00 +0200</pubDate>
-      <guid>/publication/infsoft2018a/</guid>
+      <guid>https://example.com/publication/infsoft2018a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Search-Based Crash Reproduction and Its Impact on Debugging</title>
-      <link>/publication/ieee-tse2018e/</link>
+      <link>https://example.com/publication/ieee-tse2018e/</link>
       <pubDate>Mon, 13 Aug 2018 18:55:36 +0200</pubDate>
-      <guid>/publication/ieee-tse2018e/</guid>
+      <guid>https://example.com/publication/ieee-tse2018e/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Incremental Control Dependency Frontier Exploration for Many-Criteria Test Case Generation</title>
-      <link>/publication/ssbse2018b/</link>
+      <link>https://example.com/publication/ssbse2018b/</link>
       <pubDate>Fri, 20 Jul 2018 00:07:54 +0200</pubDate>
-      <guid>/publication/ssbse2018b/</guid>
+      <guid>https://example.com/publication/ssbse2018b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Single-objective versus Multi-Objectivized Optimization for Evolutionary Crash Reproduction</title>
-      <link>/publication/ssbse2018a/</link>
+      <link>https://example.com/publication/ssbse2018a/</link>
       <pubDate>Fri, 20 Jul 2018 00:06:34 +0200</pubDate>
-      <guid>/publication/ssbse2018a/</guid>
+      <guid>https://example.com/publication/ssbse2018a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Search-based Approach for Accurate Identification of Log Message Formats</title>
-      <link>/publication/icpc2018/</link>
+      <link>https://example.com/publication/icpc2018/</link>
       <pubDate>Fri, 20 Jul 2018 00:05:13 +0200</pubDate>
-      <guid>/publication/icpc2018/</guid>
+      <guid>https://example.com/publication/icpc2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Search-Based Test Data Generation for SQL Queries</title>
-      <link>/publication/icse2018/</link>
+      <link>https://example.com/publication/icse2018/</link>
       <pubDate>Fri, 20 Jul 2018 00:04:04 +0200</pubDate>
-      <guid>/publication/icse2018/</guid>
+      <guid>https://example.com/publication/icse2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An Investigation of Compression Techniques to Speed up Mutation Testing</title>
-      <link>/publication/icst2018/</link>
+      <link>https://example.com/publication/icst2018/</link>
       <pubDate>Fri, 20 Jul 2018 00:03:02 +0200</pubDate>
-      <guid>/publication/icst2018/</guid>
+      <guid>https://example.com/publication/icst2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Testing Autonomous Cars for Feature Interaction Failures using Many-Objective Search</title>
-      <link>/publication/ase2018/</link>
+      <link>https://example.com/publication/ase2018/</link>
       <pubDate>Fri, 20 Jul 2018 00:01:56 +0200</pubDate>
-      <guid>/publication/ase2018/</guid>
+      <guid>https://example.com/publication/ase2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Java Unit Testing Tool Competition - Sixth Round</title>
-      <link>/publication/sbst2018/</link>
+      <link>https://example.com/publication/sbst2018/</link>
       <pubDate>Fri, 20 Jul 2018 00:01:14 +0200</pubDate>
-      <guid>/publication/sbst2018/</guid>
+      <guid>https://example.com/publication/sbst2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Scent of a Smell: An Extensive Comparison between Textual and Structural Smells</title>
-      <link>/publication/ieee-tse2018d/</link>
+      <link>https://example.com/publication/ieee-tse2018d/</link>
       <pubDate>Tue, 10 Jul 2018 11:25:49 +0200</pubDate>
-      <guid>/publication/ieee-tse2018d/</guid>
+      <guid>https://example.com/publication/ieee-tse2018d/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Developer Testing in The IDE: Patterns, Beliefs, And Behavior</title>
-      <link>/publication/ieee-tse2018c/</link>
+      <link>https://example.com/publication/ieee-tse2018c/</link>
       <pubDate>Tue, 10 Jul 2018 11:24:46 +0200</pubDate>
-      <guid>/publication/ieee-tse2018c/</guid>
+      <guid>https://example.com/publication/ieee-tse2018c/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Automated Test Case Generation as a Many-Objective Optimisation Problem with Dynamic Selection of the Targets</title>
-      <link>/publication/ieee-tse2018b/</link>
+      <link>https://example.com/publication/ieee-tse2018b/</link>
       <pubDate>Tue, 10 Jul 2018 11:23:34 +0200</pubDate>
-      <guid>/publication/ieee-tse2018b/</guid>
+      <guid>https://example.com/publication/ieee-tse2018b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Automatic Generation of Tests to Exploit XML Injection Vulnerabilities in Web Applications</title>
-      <link>/publication/ieee-tse2018a/</link>
+      <link>https://example.com/publication/ieee-tse2018a/</link>
       <pubDate>Tue, 10 Jul 2018 11:21:45 +0200</pubDate>
-      <guid>/publication/ieee-tse2018a/</guid>
+      <guid>https://example.com/publication/ieee-tse2018a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Machine Learning- Driven Evolutionary Approach for Testing Web Application Firewalls</title>
-      <link>/publication/ieee-tr2018/</link>
+      <link>https://example.com/publication/ieee-tr2018/</link>
       <pubDate>Tue, 10 Jul 2018 11:11:22 +0200</pubDate>
-      <guid>/publication/ieee-tr2018/</guid>
+      <guid>https://example.com/publication/ieee-tr2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Systematic Literature Review of How Mutation Testing Supports Quality Assurance Processes</title>
-      <link>/publication/stvr2018/</link>
+      <link>https://example.com/publication/stvr2018/</link>
       <pubDate>Tue, 10 Jul 2018 11:11:22 +0200</pubDate>
-      <guid>/publication/stvr2018/</guid>
+      <guid>https://example.com/publication/stvr2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lightweight Detection of Android-specific Code Smells: the aDoctor Project</title>
-      <link>/publication/saner2017b/</link>
+      <link>https://example.com/publication/saner2017b/</link>
       <pubDate>Sun, 13 Aug 2017 20:10:28 +0200</pubDate>
-      <guid>/publication/saner2017b/</guid>
+      <guid>https://example.com/publication/saner2017b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Software-Based Energy Profiling of Android Apps: Simple, Efficient and Reliable</title>
-      <link>/publication/saner2017a/</link>
+      <link>https://example.com/publication/saner2017a/</link>
       <pubDate>Sun, 13 Aug 2017 20:08:32 +0200</pubDate>
-      <guid>/publication/saner2017a/</guid>
+      <guid>https://example.com/publication/saner2017a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Speeding-Up Mutation Testing via Data Compression and State Infection</title>
-      <link>/publication/icstw2017/</link>
+      <link>https://example.com/publication/icstw2017/</link>
       <pubDate>Sun, 13 Aug 2017 20:06:48 +0200</pubDate>
-      <guid>/publication/icstw2017/</guid>
+      <guid>https://example.com/publication/icstw2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Java Unit Testing Tool Competition - Fifth Round</title>
-      <link>/publication/sbst2017/</link>
+      <link>https://example.com/publication/sbst2017/</link>
       <pubDate>Sun, 13 Aug 2017 20:05:07 +0200</pubDate>
-      <guid>/publication/sbst2017/</guid>
+      <guid>https://example.com/publication/sbst2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PETrA: a Software-Based Tool for Estimating the Energy Profile of Android Applications</title>
-      <link>/publication/icse2017-tool/</link>
+      <link>https://example.com/publication/icse2017-tool/</link>
       <pubDate>Sun, 13 Aug 2017 19:37:11 +0200</pubDate>
-      <guid>/publication/icse2017-tool/</guid>
+      <guid>https://example.com/publication/icse2017-tool/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Guided Genetic Algorithm for Automated Crash Reproduction</title>
-      <link>/publication/icse2017/</link>
+      <link>https://example.com/publication/icse2017/</link>
       <pubDate>Sun, 13 Aug 2017 19:34:17 +0200</pubDate>
-      <guid>/publication/icse2017/</guid>
+      <guid>https://example.com/publication/icse2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Automatically Repairing Web Application Firewalls Based on Successful SQL Injection Attacks</title>
-      <link>/publication/issre2018/</link>
+      <link>https://example.com/publication/issre2018/</link>
       <pubDate>Sun, 13 Aug 2017 19:28:13 +0200</pubDate>
-      <guid>/publication/issre2018/</guid>
+      <guid>https://example.com/publication/issre2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>LIPS vs MOSA: a Replicated Empirical Study on Automated Test Case Generation</title>
-      <link>/publication/ssbse2017/</link>
+      <link>https://example.com/publication/ssbse2017/</link>
       <pubDate>Thu, 13 Jul 2017 20:03:02 +0200</pubDate>
-      <guid>/publication/ssbse2017/</guid>
+      <guid>https://example.com/publication/ssbse2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Parameterizing and Assembling IR-based Solutions for Software Engineering Tasks using Genetic Algorithms</title>
-      <link>/publication/saner2016/</link>
+      <link>https://example.com/publication/saner2016/</link>
       <pubDate>Thu, 18 Aug 2016 08:00:46 +0200</pubDate>
-      <guid>/publication/saner2016/</guid>
+      <guid>https://example.com/publication/saner2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On the Diffusion of Test Smells in Automatically Generated Test Code: An Empirical Study</title>
-      <link>/publication/sbst2016b/</link>
+      <link>https://example.com/publication/sbst2016b/</link>
       <pubDate>Thu, 18 Aug 2016 07:59:02 +0200</pubDate>
-      <guid>/publication/sbst2016b/</guid>
+      <guid>https://example.com/publication/sbst2016b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Evolutionary Testing for Crash Reproduction</title>
-      <link>/publication/sbst2016a/</link>
+      <link>https://example.com/publication/sbst2016a/</link>
       <pubDate>Thu, 18 Aug 2016 07:56:19 +0200</pubDate>
-      <guid>/publication/sbst2016a/</guid>
+      <guid>https://example.com/publication/sbst2016a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How to Catch &#39;Em All: WatchDog, a Family of IDE Plug-Ins to Assess Testing</title>
-      <link>/publication/serip2016/</link>
+      <link>https://example.com/publication/serip2016/</link>
       <pubDate>Thu, 18 Aug 2016 07:54:15 +0200</pubDate>
-      <guid>/publication/serip2016/</guid>
+      <guid>https://example.com/publication/serip2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Textual-based Technique for Smell Detection</title>
-      <link>/publication/icpc2016/</link>
+      <link>https://example.com/publication/icpc2016/</link>
       <pubDate>Thu, 18 Aug 2016 07:52:50 +0200</pubDate>
-      <guid>/publication/icpc2016/</guid>
+      <guid>https://example.com/publication/icpc2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Continuous Delivery Practices in a Large Financial Organization</title>
-      <link>/publication/icsme2016/</link>
+      <link>https://example.com/publication/icsme2016/</link>
       <pubDate>Thu, 18 Aug 2016 07:51:10 +0200</pubDate>
-      <guid>/publication/icsme2016/</guid>
+      <guid>https://example.com/publication/icsme2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Search-based Training Algorithm for Cost-aware Prediction</title>
-      <link>/publication/gecco2016/</link>
+      <link>https://example.com/publication/gecco2016/</link>
       <pubDate>Thu, 18 Aug 2016 07:47:34 +0200</pubDate>
-      <guid>/publication/gecco2016/</guid>
+      <guid>https://example.com/publication/gecco2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Automatic Test Case Generation: What If Test Code Quality Matters?</title>
-      <link>/publication/issta2016/</link>
+      <link>https://example.com/publication/issta2016/</link>
       <pubDate>Thu, 18 Aug 2016 07:45:36 +0200</pubDate>
-      <guid>/publication/issta2016/</guid>
+      <guid>https://example.com/publication/issta2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The impact of test case summaries on bug fixing performance: An empirical investigation</title>
-      <link>/publication/icse2016/</link>
+      <link>https://example.com/publication/icse2016/</link>
       <pubDate>Thu, 18 Aug 2016 07:43:26 +0200</pubDate>
-      <guid>/publication/icse2016/</guid>
+      <guid>https://example.com/publication/icse2016/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>AI for Fintech Research</title>
+      <link>https://example.com/project/afr/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/afr/</guid>
+      <description>&lt;p&gt;AI for Fintech Research (AFR) is a five year collaboration between ING and Delft University of Technology. The mission of AFR is to perform world-class research at the intersection of Artificial Intelligence, Data Analytics, and Software Analytics in the context of FinTech. AFR was launched in 2020.&lt;/p&gt;
+&lt;p&gt;With 36 million customers, activities in 42 countries, and a total of 50,000 employees of which 15,000 work in IT, software and data technology is at the heart of ING’s business and operations. In this context, AFR seeks to develop new AI-driven theories, methods, and tools in large scale data and software analytics.&lt;/p&gt;
+&lt;p&gt;The core of the AFR consists of eight research tracks, in which PhD students work on a range of topics, such as software analytics, data integration, fairness in machine learning, model life cycle management, regulatory compliance, search-based software engineering, and concept drift. In each track, researchers from TU Delft and engineers from ING are involved, as well as bachelor and master students from TU Delft.&lt;/p&gt;
+&lt;p&gt;AFR is bi-located at the TU Delft campus in Delft and at Cumulus Park – the collaborative innovation district in Amsterdam Southeast – bringing together students, engineers, researchers, professors, and entrepreneurs from both organizations at both locations. During the COVID-19 pandemic in 2020 and 2021, all collabaration was virtual, with hybrid meetings returning in 2022.&lt;/p&gt;
+&lt;p&gt;AFR participates in the Innovation Center for Artificial Intelligence (ICAI) as one of its labs. ICAI is a virtual organization consisting of a series of labs of similar size (over five PhD researchers each) working in close collaboration with societal or industrial partners. AFR directly benefits from the experience and expertise of other academic and industrial ICAI partners, such as Qualcomm, Bosch, Ahold Delhaize, the Dutch National Police, the University of Amsterdam, and Vrije Universiteit.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AI4SE Lab</title>
+      <link>https://example.com/project/ai4se/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/ai4se/</guid>
+      <description>&lt;p&gt;The emergence of advanced AI-driven tools has led to a wide range of opportunities and transformations in software engineering practices and education. Recognizing this potential, JetBrains and Delft University of Technology have collaborated to establish the AI for Software Engineering Lab (AI4SE). Together, we are committed to conducting cutting-edge research on the impact and utilization of AI methodologies in software engineering. Our areas of focus include diverse facets of the domain, such as software development, testing, and programming education.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DevOps for Complex Cyber-physical Systems</title>
+      <link>https://example.com/project/cosmos/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/cosmos/</guid>
+      <description>&lt;p&gt;Emerging Cyber-Physical Systems (CPS)—from robotics, transportation, to medical devices—play a crucial role in the quality of life of European citizens and the future of the European economy. Increasing automation to such an extent, however, gives rise to many challenges, at the crux of which lies the hardware and software symbiosis. COSMOS proposes to overcome the strain on developing and evolving high-quality, dependable CPS by employing two key technologies: DevOps and Artificial Intelligence (AI). These technologies offer the potential to address CPS development, verification, and evolution.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>STAMP: Software Testing Amplification for DevOps</title>
+      <link>https://example.com/project/stamp/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/stamp/</guid>
+      <description>&lt;p&gt;STAMP stands for Software Testing AMPlification. Leveraging advanced research in automatic test generation, STAMP aims at pushing automation in DevOps one step further through innovative methods of test amplification. STAMP will reuse existing assets (test cases, API descriptions, dependency models), in order to generate more test cases and test configurations each time the application is updated.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>UBRI: University Blockchain Research Initiative</title>
+      <link>https://example.com/project/ubri/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/ubri/</guid>
+      <description>&lt;p&gt;UBRI is a partnership between Ripple and top universities around the world to support academic research, technical development and innovation in blockchain, cryptocurrency and , digital payments. Ripple is providing both financial and technical resources to university partners and collaborates with faculty and students on research and technical projects.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Defect Prediction as a Multi-Objective Optimization Problem</title>
-      <link>/publication/stvr2015/</link>
+      <link>https://example.com/publication/stvr2015/</link>
       <pubDate>Sun, 19 Jul 2015 23:50:41 +0200</pubDate>
-      <guid>/publication/stvr2015/</guid>
+      <guid>https://example.com/publication/stvr2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Improving Multi-Objective Search Based Test Suite Optimization through Diversity Injection</title>
-      <link>/publication/tse2015/</link>
+      <link>https://example.com/publication/tse2015/</link>
       <pubDate>Sun, 19 Jul 2015 23:46:36 +0200</pubDate>
-      <guid>/publication/tse2015/</guid>
+      <guid>https://example.com/publication/tse2015/</guid>
       <description>&lt;p&gt;Abstract:
 A way to reduce the cost of regression testing consists of selecting or prioritizing subsets of test cases from a test suite according to some criteria. Besides greedy algorithms, cost cognizant additional greedy algorithms, multi-objective optimization algorithms, and multi-objective genetic algorithms (MOGAs), have also been proposed to tackle this problem. However, previous studies have shown that there is no clear winner between greedy and MOGAs, and that their combination does not necessarily produce better results. In this paper we show that the optimality of MOGAs can be significantly improved by diversifying the solutions (sub-sets of the test suite) generated during the search process. Specifically, we introduce a new MOGA, coined as DIversity based Genetic Algorithm (DIV-GA), based on the mechanisms of orthogonal design and orthogonal evolution that increase diversity by injecting new orthogonal individuals during the search process. Results of an empirical study conducted on eleven programs show that DIV-GA outperforms both greedy algorithms and the traditional MOGAs from the optimality point of view. Moreover, the solutions (sub-sets of the test suite) provided by DIV-GA are able to detect more faults than the other algorithms, while keeping the same test execution cost.&lt;/p&gt;
 </description>
@@ -860,33 +1530,25 @@ A way to reduce the cost of regression testing consists of selecting or prioriti
     
     <item>
       <title>Labeling Source Code with Information Retrieval Methods: An Empirical Study.</title>
-      <link>/publication/emse2014/</link>
+      <link>https://example.com/publication/emse2014/</link>
       <pubDate>Sat, 19 Jul 2014 23:52:54 +0200</pubDate>
-      <guid>/publication/emse2014/</guid>
+      <guid>https://example.com/publication/emse2014/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Improving IR-based traceability recovery via noun-based indexing of software artifacts</title>
-      <link>/publication/jse2012/</link>
+      <link>https://example.com/publication/jse2012/</link>
       <pubDate>Thu, 19 Jul 2012 23:55:49 +0200</pubDate>
-      <guid>/publication/jse2012/</guid>
+      <guid>https://example.com/publication/jse2012/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Applying a Smoothing Filter to Improve IR-based Traceability Recovery Processes: An Empirical Investigation.</title>
-      <link>/publication/infsoft/</link>
+      <link>https://example.com/publication/infsoft/</link>
       <pubDate>Thu, 19 Jul 2012 23:54:19 +0200</pubDate>
-      <guid>/publication/infsoft/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/teaching/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/teaching/</guid>
+      <guid>https://example.com/publication/infsoft/</guid>
       <description></description>
     </item>
     

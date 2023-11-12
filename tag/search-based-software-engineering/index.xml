@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Search-based Software Engineering | Annibale Panichella</title>
-    <link>/tag/search-based-software-engineering/</link>
-      <atom:link href="/tag/search-based-software-engineering/index.xml" rel="self" type="application/rss+xml" />
-    <description>Search-based Software Engineering</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 11 Nov 2022 11:21:45 +0200</lastBuildDate>
+    <title>search-based software engineering | Academic</title>
+    <link>https://example.com/tag/search-based-software-engineering/</link>
+      <atom:link href="https://example.com/tag/search-based-software-engineering/index.xml" rel="self" type="application/rss+xml" />
+    <description>search-based software engineering</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 11 Nov 2022 11:21:45 +0200</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Search-based Software Engineering</title>
-      <link>/tag/search-based-software-engineering/</link>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>search-based software engineering</title>
+      <link>https://example.com/tag/search-based-software-engineering/</link>
     </image>
     
     <item>
       <title>Continuous Integration and Delivery practices for Cyber- Physical systems: An interview-based study</title>
-      <link>/publication/acm-tosem2022b/</link>
+      <link>https://example.com/publication/acm-tosem2022b/</link>
       <pubDate>Fri, 11 Nov 2022 11:21:45 +0200</pubDate>
-      <guid>/publication/acm-tosem2022b/</guid>
+      <guid>https://example.com/publication/acm-tosem2022b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Generating Class-Level Integration Tests Using Call Site Information</title>
-      <link>/publication/ieee-tse2022/</link>
+      <link>https://example.com/publication/ieee-tse2022/</link>
       <pubDate>Tue, 13 Sep 2022 09:29:14 +0200</pubDate>
-      <guid>/publication/ieee-tse2022/</guid>
+      <guid>https://example.com/publication/ieee-tse2022/</guid>
       <description>&lt;p&gt;Abstract: Search-based approaches have been used in the literature to automate the process of creating unit test cases. However, related work has shown that generated tests with high code coverage could be ineffective, i.e., they may not detect all faults or kill all injected mutants. In this paper, we propose CLING, an integration-level test case generation approach that exploits how a pair of classes, the caller and the callee, interact with each other through method calls. In particular, CLING generates integration-level test cases that maximize the Coupled Branches Criterion (CBC). Coupled branches are pairs of branches containing a branch of the caller and a branch of the callee such that an integration test that exercises the former also exercises the latter. CBC is a novel integration-level coverage criterion, measuring the degree to which a test suite exercises the interactions between a caller and its callee classes. We implemented CLING and evaluated the approach on 140 pairs of classes from five different open-source Java projects. Our results show that (1) CLING generates test suites with high CBC coverage, thanks to the definition of the test suite generation as a many-objectives problem where each couple of branches is an independent objective; (2) such generated suites trigger different class interactions and can kill on average 7.7% (with a maximum of 50%) of mutants that are not detected by tests generated randomly or at the unit level; (3) CLING can detect integration faults coming from wrong assumptions about the usage of the callee class (25 for our subject systems) that remain undetected when using automatically generated random and unit-level test suites.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Guess What: Test Case Generation for Javascript with Unsupervised Probabilistic Type Inference</title>
-      <link>/publication/ssbse2022/</link>
+      <link>https://example.com/publication/ssbse2022/</link>
       <pubDate>Thu, 18 Aug 2022 09:16:23 +0200</pubDate>
-      <guid>/publication/ssbse2022/</guid>
+      <guid>https://example.com/publication/ssbse2022/</guid>
       <description>&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
 &lt;p&gt;Search-based test case generation approaches make use of static type information to determine which data types should be used for the creation of new test cases. Dynamically typed languages like JavaScript, however, do not have this type information. In this paper, we propose an unsupervised probabilistic type inference approach to infer data types within the test case generation process. We evaluated the proposed approach on a benchmark of 98~units under test (i.e., exported classes and functions) compared to random type sampling w.r.t. branch coverage. Our results show that our type inference approach achieves a statistically significant increase in 56% of the test files with up to 71% of branch coverage compared to the baseline.&lt;/p&gt;
 </description>
@@ -41,25 +41,25 @@
     
     <item>
       <title>Guiding Automated Test Case Generation for Transaction-Reverting Statements in Smart Contracts</title>
-      <link>/publication/icsme2022/</link>
+      <link>https://example.com/publication/icsme2022/</link>
       <pubDate>Sat, 11 Jun 2022 18:43:48 +0200</pubDate>
-      <guid>/publication/icsme2022/</guid>
+      <guid>https://example.com/publication/icsme2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Single and Multi-objective Test Cases Prioritization for Self-driving Cars in Virtual Environments</title>
-      <link>/publication/acm-tosem2022/</link>
+      <link>https://example.com/publication/acm-tosem2022/</link>
       <pubDate>Mon, 04 Apr 2022 11:21:45 +0200</pubDate>
-      <guid>/publication/acm-tosem2022/</guid>
+      <guid>https://example.com/publication/acm-tosem2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multi-objective Test Case Selection Through Linkage Learning-driven Crossover</title>
-      <link>/publication/ssbse2021a/</link>
+      <link>https://example.com/publication/ssbse2021a/</link>
       <pubDate>Tue, 29 Jun 2021 09:16:23 +0200</pubDate>
-      <guid>/publication/ssbse2021a/</guid>
+      <guid>https://example.com/publication/ssbse2021a/</guid>
       <description>&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
 &lt;p&gt;Test case selection (TCS) aims to select a subset of the test suite to run for regression testing. The selection is typically based on past coverage and execution cost data. Researchers have successfully used multi-objective evolutionary algorithms (MOEAs), such as NSGA-II and its variants, to solve the problem. These MOEAs use traditional crossovers to create new candidate solutions during the search. Recent studies in evolutionary computation showed that more effective recombinations can be made by using linkage learning. Inspired by these recent advances in this field, we propose a new variant of NSGA-II, called L2-NSGA, that uses linkage learning to optimize test case selection. In particular, we use an unsupervised clustering algorithm to infer promising patterns among the solutions (sub-test suites). Then, these patterns are used in the next iterations of L2-NSGA to create solutions that contain/preserve these inferred patterns. Our results show that our customizations make NSGA-II more effective for test case selection. Furthermore, the test suite sub-sets generated by L2-NSGA are less expensive and more effective (detect more faults) than those generated by MOEAs used in the literature for regression testing.&lt;/p&gt;
 </description>
@@ -67,73 +67,73 @@
     
     <item>
       <title>Search-Based Software Re-Modularization: A Case Study at Adyen</title>
-      <link>/publication/icse-seip2020/</link>
+      <link>https://example.com/publication/icse-seip2020/</link>
       <pubDate>Fri, 01 Jan 2021 22:27:51 +0200</pubDate>
-      <guid>/publication/icse-seip2020/</guid>
+      <guid>https://example.com/publication/icse-seip2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Systematic Comparison of Search-Based Approaches for LDA Hyperparameter Tuning</title>
-      <link>/publication/infsoft2020/</link>
+      <link>https://example.com/publication/infsoft2020/</link>
       <pubDate>Wed, 09 Sep 2020 21:50:29 +0200</pubDate>
-      <guid>/publication/infsoft2020/</guid>
+      <guid>https://example.com/publication/infsoft2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Good Things Come In Threes: Improving Search-based Crash Reproduction With Helper Objectives</title>
-      <link>/publication/ase2020a/</link>
+      <link>https://example.com/publication/ase2020a/</link>
       <pubDate>Thu, 30 Jul 2020 22:27:46 +0200</pubDate>
-      <guid>/publication/ase2020a/</guid>
+      <guid>https://example.com/publication/ase2020a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Generating Highly-structured Input Data by Combining Search-based Testing and Grammar-based Fuzzing</title>
-      <link>/publication/ase2020-nier/</link>
+      <link>https://example.com/publication/ase2020-nier/</link>
       <pubDate>Mon, 06 Jul 2020 14:29:50 +0200</pubDate>
-      <guid>/publication/ase2020-nier/</guid>
+      <guid>https://example.com/publication/ase2020-nier/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Botsing, a Search-based Crash Reproduction Framework for Java</title>
-      <link>/publication/ase2020-tool/</link>
+      <link>https://example.com/publication/ase2020-tool/</link>
       <pubDate>Sun, 05 Jul 2020 14:19:53 +0200</pubDate>
-      <guid>/publication/ase2020-tool/</guid>
+      <guid>https://example.com/publication/ase2020-tool/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Crash Reproduction Using Helper Objectives</title>
-      <link>/publication/gecco2020/</link>
+      <link>https://example.com/publication/gecco2020/</link>
       <pubDate>Sat, 04 Jul 2020 18:56:54 +0200</pubDate>
-      <guid>/publication/gecco2020/</guid>
+      <guid>https://example.com/publication/gecco2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Automated Repair of Feature Interaction Failures in Automated Driving Systems</title>
-      <link>/publication/issta2020/</link>
+      <link>https://example.com/publication/issta2020/</link>
       <pubDate>Fri, 17 Apr 2020 17:32:54 +0200</pubDate>
-      <guid>/publication/issta2020/</guid>
+      <guid>https://example.com/publication/issta2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Automated Test Generation for Unit Testing Beyond</title>
-      <link>/talk/ipa2019/</link>
+      <link>https://example.com/talk/automated-test-generation-for-unit-testing-beyond/</link>
       <pubDate>Mon, 28 Oct 2019 11:17:15 +0200</pubDate>
-      <guid>/talk/ipa2019/</guid>
+      <guid>https://example.com/talk/automated-test-generation-for-unit-testing-beyond/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Testing with Fewer Resources: An Adaptive Approach to Performance-Aware Test Case Generation</title>
-      <link>/publication/ieee-tse2019/</link>
+      <link>https://example.com/publication/ieee-tse2019/</link>
       <pubDate>Wed, 09 Oct 2019 09:51:33 +0200</pubDate>
-      <guid>/publication/ieee-tse2019/</guid>
+      <guid>https://example.com/publication/ieee-tse2019/</guid>
       <description>&lt;p&gt;Abstract: Automated test case generation is an effective technique to yield high-coverage test suites.
 While the majority of research effort has been devoted to satisfying coverage criteria, a recent trend emerged towards optimizing other non-coverage aspects.
 In this regard, runtime and memory usage are two essential dimensions: less expensive tests reduce the resource demands for the generation process and later regression testing phases.
@@ -150,26 +150,26 @@ Our empirical investigation also highlights that the usage of performance proxie
     
     <item>
       <title>Catcher</title>
-      <link>/tools/catcher/</link>
+      <link>https://example.com/tools/catcher/</link>
       <pubDate>Wed, 26 Jun 2019 10:29:32 +0200</pubDate>
-      <guid>/tools/catcher/</guid>
+      <guid>https://example.com/tools/catcher/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cling</title>
-      <link>/tools/cling/</link>
+      <link>https://example.com/tools/cling/</link>
       <pubDate>Wed, 26 Jun 2019 10:29:32 +0200</pubDate>
-      <guid>/tools/cling/</guid>
+      <guid>https://example.com/tools/cling/</guid>
       <description>&lt;p&gt;Towards Integration-Level Test Case Generation Using Call Site Information&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Search-Based-LDA</title>
-      <link>/tools/ssbse-lda/</link>
+      <link>https://example.com/tools/ssbse-lda/</link>
       <pubDate>Wed, 26 Jun 2019 10:29:32 +0200</pubDate>
-      <guid>/tools/ssbse-lda/</guid>
+      <guid>https://example.com/tools/ssbse-lda/</guid>
       <description>&lt;p&gt;A Systematic Comparison of Search Algorithms for Topic Modelling - A Study on DuplicateBug Report Identification&lt;/p&gt;
 &lt;h3 id=&#34;author&#34;&gt;Author&lt;/h3&gt;
 &lt;p&gt;Annibale Panichella&lt;/p&gt;
@@ -178,16 +178,15 @@ Our empirical investigation also highlights that the usage of performance proxie
 &lt;h4 id=&#34;abstract&#34;&gt;Abstract&lt;/h4&gt;
 &lt;p&gt;Latent Dirichlet Allocation (LDA) has been used to supportmany software engineering tasks. Previous studies showed that defaultsettings lead to sub-optimal topic modeling with a dramatic impacton the performance of such approaches in terms of precision andrecall. For this reason, researchers used search algorithms (e.g., geneticalgorithms) to automatically configure topic models in an unsupervisedfashion. While previous work showed the ability of individual search algorithmsin finding near-optimal configurations, it is not clear to whatextent the choice of the meta-heuristic matters for SE tasks. In this paper,we present a systematic comparison of five different meta-heuristicsto configure LDA in the context of duplicate bug reports identification.The results show that (1) no master algorithm outperforms the othersfor all software projects, (2) random search and PSO are the least effectivemeta-heuristics. Finally, the running time strongly depends on thecomputational complexity of LDA while the internal complexity of thesearch algorithms plays a negligible role.&lt;/p&gt;
 &lt;h3 id=&#34;getting-started&#34;&gt;Getting started&lt;/h3&gt;
-&lt;p&gt;The source code is available in GitHub at the link: 
-&lt;a href=&#34;https://github.com/apanichella/Search-Based-LDA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/apanichella/Search-Based-LDA&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The source code is available in GitHub at the link: &lt;a href=&#34;https://github.com/apanichella/Search-Based-LDA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/apanichella/Search-Based-LDA&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Effective and Efficient API Misuse Detection via Exception Propagation and Search-based Testing</title>
-      <link>/publication/issta2019/</link>
+      <link>https://example.com/publication/issta2019/</link>
       <pubDate>Wed, 01 May 2019 20:22:51 +0200</pubDate>
-      <guid>/publication/issta2019/</guid>
+      <guid>https://example.com/publication/issta2019/</guid>
       <description>&lt;p&gt;&lt;b&gt; Abstract &lt;/b&gt;: Application Programming Interfaces (APIs)
 typically come with (implicit) usage constraints.
 The violations of these constraints (API misuses)
@@ -215,9 +214,9 @@ are unexpected to developers i.e., not only unhandled in the source code but als
     
     <item>
       <title>A Systematic Comparison of Search Algorithms for Topic Modelling - A Study on Duplicate Bug Report Identification</title>
-      <link>/publication/ssbse2019/</link>
+      <link>https://example.com/publication/ssbse2019/</link>
       <pubDate>Mon, 29 Apr 2019 23:16:23 +0200</pubDate>
-      <guid>/publication/ssbse2019/</guid>
+      <guid>https://example.com/publication/ssbse2019/</guid>
       <description>&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
 &lt;p&gt;Latent Dirichlet Allocation (LDA) has been used to support many software engineering tasks. Previous studies showed that default settings lead to sub-optimal topic modeling with a dramatic impact on the performance of such approaches in terms of precision and recall. For this reason, researchers used search algorithms (e.g., genetic algorithms) to automatically configure topic models in an unsupervised fashion. While previous work showed the ability of individual search algorithms in finding near-optimal configurations, it is not clear to what extent the choice of the meta-heuristic matters for SE tasks. In this paper, we present a systematic comparison of five different meta-heuristics to configure LDA in the context of duplicate bug reports identification. The results show that (1) no master algorithm outperforms the others for all software projects, (2) random search and PSO are the least effective meta-heuristics. Finally, the running time strongly depends on the computational complexity of LDA while the internal complexity of the search algorithms plays a negligible role.&lt;/p&gt;
 </description>
@@ -225,49 +224,49 @@ are unexpected to developers i.e., not only unhandled in the source code but als
     
     <item>
       <title>Incremental Control Dependency Frontier Exploration for Many-Criteria Test Case Generation</title>
-      <link>/publication/ssbse2018b/</link>
+      <link>https://example.com/publication/ssbse2018b/</link>
       <pubDate>Fri, 20 Jul 2018 00:07:54 +0200</pubDate>
-      <guid>/publication/ssbse2018b/</guid>
+      <guid>https://example.com/publication/ssbse2018b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Search-based Approach for Accurate Identification of Log Message Formats</title>
-      <link>/publication/icpc2018/</link>
+      <link>https://example.com/publication/icpc2018/</link>
       <pubDate>Fri, 20 Jul 2018 00:05:13 +0200</pubDate>
-      <guid>/publication/icpc2018/</guid>
+      <guid>https://example.com/publication/icpc2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Testing Autonomous Cars for Feature Interaction Failures using Many-Objective Search</title>
-      <link>/publication/ase2018/</link>
+      <link>https://example.com/publication/ase2018/</link>
       <pubDate>Fri, 20 Jul 2018 00:01:56 +0200</pubDate>
-      <guid>/publication/ase2018/</guid>
+      <guid>https://example.com/publication/ase2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Automated Test Case Generation as a Many-Objective Optimisation Problem with Dynamic Selection of the Targets</title>
-      <link>/publication/ieee-tse2018b/</link>
+      <link>https://example.com/publication/ieee-tse2018b/</link>
       <pubDate>Tue, 10 Jul 2018 11:23:34 +0200</pubDate>
-      <guid>/publication/ieee-tse2018b/</guid>
+      <guid>https://example.com/publication/ieee-tse2018b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>LIPS vs MOSA: a Replicated Empirical Study on Automated Test Case Generation</title>
-      <link>/publication/ssbse2017/</link>
+      <link>https://example.com/publication/ssbse2017/</link>
       <pubDate>Thu, 13 Jul 2017 20:03:02 +0200</pubDate>
-      <guid>/publication/ssbse2017/</guid>
+      <guid>https://example.com/publication/ssbse2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Improving Multi-Objective Search Based Test Suite Optimization through Diversity Injection</title>
-      <link>/publication/tse2015/</link>
+      <link>https://example.com/publication/tse2015/</link>
       <pubDate>Sun, 19 Jul 2015 23:46:36 +0200</pubDate>
-      <guid>/publication/tse2015/</guid>
+      <guid>https://example.com/publication/tse2015/</guid>
       <description>&lt;p&gt;Abstract:
 A way to reduce the cost of regression testing consists of selecting or prioritizing subsets of test cases from a test suite according to some criteria. Besides greedy algorithms, cost cognizant additional greedy algorithms, multi-objective optimization algorithms, and multi-objective genetic algorithms (MOGAs), have also been proposed to tackle this problem. However, previous studies have shown that there is no clear winner between greedy and MOGAs, and that their combination does not necessarily produce better results. In this paper we show that the optimality of MOGAs can be significantly improved by diversifying the solutions (sub-sets of the test suite) generated during the search process. Specifically, we introduce a new MOGA, coined as DIversity based Genetic Algorithm (DIV-GA), based on the mechanisms of orthogonal design and orthogonal evolution that increase diversity by injecting new orthogonal individuals during the search process. Results of an empirical study conducted on eleven programs show that DIV-GA outperforms both greedy algorithms and the traditional MOGAs from the optimality point of view. Moreover, the solutions (sub-sets of the test suite) provided by DIV-GA are able to detect more faults than the other algorithms, while keeping the same test execution cost.&lt;/p&gt;
 </description>

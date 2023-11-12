@@ -1,54 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Deep Learning | Annibale Panichella</title>
-    <link>/tag/deep-learning/</link>
-      <atom:link href="/tag/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <title>Deep Learning | Academic</title>
+    <link>https://example.com/tag/deep-learning/</link>
+      <atom:link href="https://example.com/tag/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Deep Learning</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 07 Aug 2021 22:27:51 +0200</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 07 Aug 2021 22:27:51 +0200</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Deep Learning</title>
-      <link>/tag/deep-learning/</link>
+      <link>https://example.com/tag/deep-learning/</link>
     </image>
     
     <item>
       <title>	Assessing Robustness of ML-Based Program Analysis Tools using Metamorphic Program Transformations</title>
-      <link>/publication/ase2021-nier/</link>
+      <link>https://example.com/publication/ase2021-nier/</link>
       <pubDate>Sat, 07 Aug 2021 22:27:51 +0200</pubDate>
-      <guid>/publication/ase2021-nier/</guid>
+      <guid>https://example.com/publication/ase2021-nier/</guid>
       <description></description>
     </item>
     
     <item>
       <title>What Are We Really Testing in Mutation Testing for Machine Learning? A Critical Reflection</title>
-      <link>/talk/icse-nier2021/</link>
+      <link>https://example.com/talk/what-are-we-really-testing-in-mutation-testing-for-machine-learning-a-critical-reflection/</link>
       <pubDate>Thu, 27 May 2021 11:17:15 +0200</pubDate>
-      <guid>/talk/icse-nier2021/</guid>
+      <guid>https://example.com/talk/what-are-we-really-testing-in-mutation-testing-for-machine-learning-a-critical-reflection/</guid>
       <description></description>
     </item>
     
     <item>
       <title>What Are We Really Testing in Mutation Testing for Machine Learning? A Critical Reflection</title>
-      <link>/publication/icse-nier2020/</link>
+      <link>https://example.com/publication/icse-nier2020/</link>
       <pubDate>Mon, 18 Jan 2021 14:29:50 +0200</pubDate>
-      <guid>/publication/icse-nier2020/</guid>
+      <guid>https://example.com/publication/icse-nier2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DeepTC-Enhancer: Improving the Readability of Automatically Generated Tests</title>
-      <link>/publication/ase2020b/</link>
+      <link>https://example.com/publication/ase2020b/</link>
       <pubDate>Thu, 30 Jul 2020 22:27:51 +0200</pubDate>
-      <guid>/publication/ase2020b/</guid>
+      <guid>https://example.com/publication/ase2020b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Oracle Issues in Machine Learning and Where to Find Them</title>
-      <link>/publication/raise2020/</link>
+      <link>https://example.com/publication/raise2020/</link>
       <pubDate>Tue, 03 Mar 2020 16:20:15 +0100</pubDate>
-      <guid>/publication/raise2020/</guid>
+      <guid>https://example.com/publication/raise2020/</guid>
       <description>&lt;p&gt;Abstract:
 The rise in popularity of machine learning (ML), and deep learning in particular, has both led to optimism about achievements of artificial intelligence, as well as concerns about possible weaknesses and vulnerabilities of ML pipelines. Within the software engineering community, this has led to a considerable body of work on ML testing techniques, including white- and black-box testing for ML models. This means the oracle problem needs to be addressed; for supervised ML applications, oracle information is indeed available in the form of dataset &amp;ldquo;ground truth&amp;rdquo;, that encodes input data with corresponding desired output labels. However, while ground truth forms a gold standard, there still is no guarantee it is truly correct. Indeed, syntactic, semantic, and conceptual framing issues in the oracle may negatively affect the ML system integrity. While syntactic issues may be automatically verified and corrected, the higher-level issues traditionally need human judgment and manual analysis.
 In this paper, we employ two heuristics based on information entropy and semantic analysis on well-known computer vision models and benchmark data from ImageNet. The heuristics are used to semi-automatically uncover potential higher-level issues in (i) the label taxonomy used to define the ground truth oracle (labels), and (ii) data encoding and representation. In doing this, beyond existing ML testing efforts, we illustrate the need for SE strategies that especially target and assess the oracle.&lt;/p&gt;

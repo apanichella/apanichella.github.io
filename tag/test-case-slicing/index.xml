@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Test case slicing | Annibale Panichella</title>
-    <link>/tag/test-case-slicing/</link>
-      <atom:link href="/tag/test-case-slicing/index.xml" rel="self" type="application/rss+xml" />
+    <title>Test case slicing | Academic</title>
+    <link>https://example.com/tag/test-case-slicing/</link>
+      <atom:link href="https://example.com/tag/test-case-slicing/index.xml" rel="self" type="application/rss+xml" />
     <description>Test case slicing</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 19 Apr 2021 09:03:56 +0200</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 19 Apr 2021 09:03:56 +0200</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Test case slicing</title>
-      <link>/tag/test-case-slicing/</link>
+      <link>https://example.com/tag/test-case-slicing/</link>
     </image>
     
     <item>
       <title>Log-based Slicing for System-level Test Cases</title>
-      <link>/publication/issta2021/</link>
+      <link>https://example.com/publication/issta2021/</link>
       <pubDate>Mon, 19 Apr 2021 09:03:56 +0200</pubDate>
-      <guid>/publication/issta2021/</guid>
+      <guid>https://example.com/publication/issta2021/</guid>
       <description></description>
     </item>
     

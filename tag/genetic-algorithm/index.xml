@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Genetic Algorithm | Annibale Panichella</title>
-    <link>/tag/genetic-algorithm/</link>
-      <atom:link href="/tag/genetic-algorithm/index.xml" rel="self" type="application/rss+xml" />
+    <title>Genetic Algorithm | Academic</title>
+    <link>https://example.com/tag/genetic-algorithm/</link>
+      <atom:link href="https://example.com/tag/genetic-algorithm/index.xml" rel="self" type="application/rss+xml" />
     <description>Genetic Algorithm</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 25 Apr 2023 10:56:44 +0200</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 25 Apr 2023 10:56:44 +0200</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Genetic Algorithm</title>
-      <link>/tag/genetic-algorithm/</link>
+      <link>https://example.com/tag/genetic-algorithm/</link>
     </image>
     
     <item>
       <title>Searching for Quality: Genetic Algorithms and Metamorphic Testing for Software Engineering ML</title>
-      <link>/publication/gecco2023b/</link>
+      <link>https://example.com/publication/gecco2023b/</link>
       <pubDate>Tue, 25 Apr 2023 10:56:44 +0200</pubDate>
-      <guid>/publication/gecco2023b/</guid>
+      <guid>https://example.com/publication/gecco2023b/</guid>
       <description></description>
     </item>
     

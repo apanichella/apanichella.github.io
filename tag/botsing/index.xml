@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Botsing | Annibale Panichella</title>
-    <link>/tag/botsing/</link>
-      <atom:link href="/tag/botsing/index.xml" rel="self" type="application/rss+xml" />
+    <title>Botsing | Academic</title>
+    <link>https://example.com/tag/botsing/</link>
+      <atom:link href="https://example.com/tag/botsing/index.xml" rel="self" type="application/rss+xml" />
     <description>Botsing</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 30 Jul 2020 22:27:46 +0200</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 30 Jul 2020 22:27:46 +0200</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Botsing</title>
-      <link>/tag/botsing/</link>
+      <link>https://example.com/tag/botsing/</link>
     </image>
     
     <item>
       <title>Good Things Come In Threes: Improving Search-based Crash Reproduction With Helper Objectives</title>
-      <link>/publication/ase2020a/</link>
+      <link>https://example.com/publication/ase2020a/</link>
       <pubDate>Thu, 30 Jul 2020 22:27:46 +0200</pubDate>
-      <guid>/publication/ase2020a/</guid>
+      <guid>https://example.com/publication/ase2020a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Botsing, a Search-based Crash Reproduction Framework for Java</title>
-      <link>/publication/ase2020-tool/</link>
+      <link>https://example.com/publication/ase2020-tool/</link>
       <pubDate>Sun, 05 Jul 2020 14:19:53 +0200</pubDate>
-      <guid>/publication/ase2020-tool/</guid>
+      <guid>https://example.com/publication/ase2020-tool/</guid>
       <description></description>
     </item>
     

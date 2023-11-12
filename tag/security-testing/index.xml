@@ -1,46 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Security Testing | Annibale Panichella</title>
-    <link>/tag/security-testing/</link>
-      <atom:link href="/tag/security-testing/index.xml" rel="self" type="application/rss+xml" />
+    <title>Security Testing | Academic</title>
+    <link>https://example.com/tag/security-testing/</link>
+      <atom:link href="https://example.com/tag/security-testing/index.xml" rel="self" type="application/rss+xml" />
     <description>Security Testing</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 26 Jun 2019 10:41:41 +0200</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 26 Jun 2019 10:41:41 +0200</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Security Testing</title>
-      <link>/tag/security-testing/</link>
+      <link>https://example.com/tag/security-testing/</link>
     </image>
     
     <item>
       <title>JCOMIX: A Search-Based Tool to Detect XML Injection Vulnerabilities in Web Applications</title>
-      <link>/publication/esec-fse2019/</link>
+      <link>https://example.com/publication/esec-fse2019/</link>
       <pubDate>Wed, 26 Jun 2019 10:41:41 +0200</pubDate>
-      <guid>/publication/esec-fse2019/</guid>
+      <guid>https://example.com/publication/esec-fse2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Search-based Multi-Vulnerability Testing of XML Injections in Web Applications</title>
-      <link>/publication/emse2019/</link>
+      <link>https://example.com/publication/emse2019/</link>
       <pubDate>Mon, 08 Apr 2019 10:11:19 +0200</pubDate>
-      <guid>/publication/emse2019/</guid>
+      <guid>https://example.com/publication/emse2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Automatic Generation of Tests to Exploit XML Injection Vulnerabilities in Web Applications</title>
-      <link>/publication/ieee-tse2018a/</link>
+      <link>https://example.com/publication/ieee-tse2018a/</link>
       <pubDate>Tue, 10 Jul 2018 11:21:45 +0200</pubDate>
-      <guid>/publication/ieee-tse2018a/</guid>
+      <guid>https://example.com/publication/ieee-tse2018a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Machine Learning- Driven Evolutionary Approach for Testing Web Application Firewalls</title>
-      <link>/publication/ieee-tr2018/</link>
+      <link>https://example.com/publication/ieee-tr2018/</link>
       <pubDate>Tue, 10 Jul 2018 11:11:22 +0200</pubDate>
-      <guid>/publication/ieee-tr2018/</guid>
+      <guid>https://example.com/publication/ieee-tr2018/</guid>
       <description></description>
     </item>
     

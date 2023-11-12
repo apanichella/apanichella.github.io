@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Haskell | Annibale Panichella</title>
-    <link>/tag/haskell/</link>
-      <atom:link href="/tag/haskell/index.xml" rel="self" type="application/rss+xml" />
+    <title>Haskell | Academic</title>
+    <link>https://example.com/tag/haskell/</link>
+      <atom:link href="https://example.com/tag/haskell/index.xml" rel="self" type="application/rss+xml" />
     <description>Haskell</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 09:32:39 +0100</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 09:32:39 +0100</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Haskell</title>
-      <link>/tag/haskell/</link>
+      <link>https://example.com/tag/haskell/</link>
     </image>
     
     <item>
       <title>PropR: Property-Based Automatic Program Repair</title>
-      <link>/publication/icse2022/</link>
+      <link>https://example.com/publication/icse2022/</link>
       <pubDate>Sat, 01 Jan 2022 09:32:39 +0100</pubDate>
-      <guid>/publication/icse2022/</guid>
+      <guid>https://example.com/publication/icse2022/</guid>
       <description></description>
     </item>
     

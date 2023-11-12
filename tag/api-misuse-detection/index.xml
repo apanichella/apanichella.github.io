@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>API Misuse Detection | Annibale Panichella</title>
-    <link>/tag/api-misuse-detection/</link>
-      <atom:link href="/tag/api-misuse-detection/index.xml" rel="self" type="application/rss+xml" />
+    <title>API Misuse Detection | Academic</title>
+    <link>https://example.com/tag/api-misuse-detection/</link>
+      <atom:link href="https://example.com/tag/api-misuse-detection/index.xml" rel="self" type="application/rss+xml" />
     <description>API Misuse Detection</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 26 Jun 2019 10:29:32 +0200</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 26 Jun 2019 10:29:32 +0200</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>API Misuse Detection</title>
-      <link>/tag/api-misuse-detection/</link>
+      <link>https://example.com/tag/api-misuse-detection/</link>
     </image>
     
     <item>
       <title>Catcher</title>
-      <link>/tools/catcher/</link>
+      <link>https://example.com/tools/catcher/</link>
       <pubDate>Wed, 26 Jun 2019 10:29:32 +0200</pubDate>
-      <guid>/tools/catcher/</guid>
+      <guid>https://example.com/tools/catcher/</guid>
       <description></description>
     </item>
     

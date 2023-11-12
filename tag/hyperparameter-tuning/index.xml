@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hyperparameter Tuning | Annibale Panichella</title>
-    <link>/tag/hyperparameter-tuning/</link>
-      <atom:link href="/tag/hyperparameter-tuning/index.xml" rel="self" type="application/rss+xml" />
+    <title>Hyperparameter Tuning | Academic</title>
+    <link>https://example.com/tag/hyperparameter-tuning/</link>
+      <atom:link href="https://example.com/tag/hyperparameter-tuning/index.xml" rel="self" type="application/rss+xml" />
     <description>Hyperparameter Tuning</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 29 Apr 2019 23:16:23 +0200</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 29 Apr 2019 23:16:23 +0200</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Hyperparameter Tuning</title>
-      <link>/tag/hyperparameter-tuning/</link>
+      <link>https://example.com/tag/hyperparameter-tuning/</link>
     </image>
     
     <item>
       <title>A Systematic Comparison of Search Algorithms for Topic Modelling - A Study on Duplicate Bug Report Identification</title>
-      <link>/publication/ssbse2019/</link>
+      <link>https://example.com/publication/ssbse2019/</link>
       <pubDate>Mon, 29 Apr 2019 23:16:23 +0200</pubDate>
-      <guid>/publication/ssbse2019/</guid>
+      <guid>https://example.com/publication/ssbse2019/</guid>
       <description>&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
 &lt;p&gt;Latent Dirichlet Allocation (LDA) has been used to support many software engineering tasks. Previous studies showed that default settings lead to sub-optimal topic modeling with a dramatic impact on the performance of such approaches in terms of precision and recall. For this reason, researchers used search algorithms (e.g., genetic algorithms) to automatically configure topic models in an unsupervised fashion. While previous work showed the ability of individual search algorithms in finding near-optimal configurations, it is not clear to what extent the choice of the meta-heuristic matters for SE tasks. In this paper, we present a systematic comparison of five different meta-heuristics to configure LDA in the context of duplicate bug reports identification. The results show that (1) no master algorithm outperforms the others for all software projects, (2) random search and PSO are the least effective meta-heuristics. Finally, the running time strongly depends on the computational complexity of LDA while the internal complexity of the search algorithms plays a negligible role.&lt;/p&gt;
 </description>

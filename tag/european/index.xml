@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>european | Academic</title>
+    <link>https://example.com/tag/european/</link>
+      <atom:link href="https://example.com/tag/european/index.xml" rel="self" type="application/rss+xml" />
+    <description>european</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>european</title>
+      <link>https://example.com/tag/european/</link>
+    </image>
+    
+    <item>
+      <title>DevOps for Complex Cyber-physical Systems</title>
+      <link>https://example.com/project/cosmos/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/cosmos/</guid>
+      <description>&lt;p&gt;Emerging Cyber-Physical Systems (CPS)—from robotics, transportation, to medical devices—play a crucial role in the quality of life of European citizens and the future of the European economy. Increasing automation to such an extent, however, gives rise to many challenges, at the crux of which lies the hardware and software symbiosis. COSMOS proposes to overcome the strain on developing and evolving high-quality, dependable CPS by employing two key technologies: DevOps and Artificial Intelligence (AI). These technologies offer the potential to address CPS development, verification, and evolution.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>STAMP: Software Testing Amplification for DevOps</title>
+      <link>https://example.com/project/stamp/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/stamp/</guid>
+      <description>&lt;p&gt;STAMP stands for Software Testing AMPlification. Leveraging advanced research in automatic test generation, STAMP aims at pushing automation in DevOps one step further through innovative methods of test amplification. STAMP will reuse existing assets (test cases, API descriptions, dependency models), in order to generate more test cases and test configurations each time the application is updated.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

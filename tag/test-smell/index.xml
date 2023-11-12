@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Test Smell | Annibale Panichella</title>
-    <link>/tag/test-smell/</link>
-      <atom:link href="/tag/test-smell/index.xml" rel="self" type="application/rss+xml" />
+    <title>Test Smell | Academic</title>
+    <link>https://example.com/tag/test-smell/</link>
+      <atom:link href="https://example.com/tag/test-smell/index.xml" rel="self" type="application/rss+xml" />
     <description>Test Smell</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 19 Apr 2021 09:03:56 +0200</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 19 Apr 2021 09:03:56 +0200</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Test Smell</title>
-      <link>/tag/test-smell/</link>
+      <link>https://example.com/tag/test-smell/</link>
     </image>
     
     <item>
       <title>Log-based Slicing for System-level Test Cases</title>
-      <link>/publication/issta2021/</link>
+      <link>https://example.com/publication/issta2021/</link>
       <pubDate>Mon, 19 Apr 2021 09:03:56 +0200</pubDate>
-      <guid>/publication/issta2021/</guid>
+      <guid>https://example.com/publication/issta2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On the Diffusion of Test Smells in Automatically Generated Test Code: An Empirical Study</title>
-      <link>/publication/sbst2016b/</link>
+      <link>https://example.com/publication/sbst2016b/</link>
       <pubDate>Thu, 18 Aug 2016 07:59:02 +0200</pubDate>
-      <guid>/publication/sbst2016b/</guid>
+      <guid>https://example.com/publication/sbst2016b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Automatic Test Case Generation: What If Test Code Quality Matters?</title>
-      <link>/publication/issta2016/</link>
+      <link>https://example.com/publication/issta2016/</link>
       <pubDate>Thu, 18 Aug 2016 07:45:36 +0200</pubDate>
-      <guid>/publication/issta2016/</guid>
+      <guid>https://example.com/publication/issta2016/</guid>
       <description></description>
     </item>
     

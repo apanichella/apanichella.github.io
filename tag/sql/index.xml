@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>SQL | Annibale Panichella</title>
-    <link>/tag/sql/</link>
-      <atom:link href="/tag/sql/index.xml" rel="self" type="application/rss+xml" />
+    <title>SQL | Academic</title>
+    <link>https://example.com/tag/sql/</link>
+      <atom:link href="https://example.com/tag/sql/index.xml" rel="self" type="application/rss+xml" />
     <description>SQL</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 20 Jul 2018 00:04:04 +0200</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 20 Jul 2018 00:04:04 +0200</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>SQL</title>
-      <link>/tag/sql/</link>
+      <link>https://example.com/tag/sql/</link>
     </image>
     
     <item>
       <title>Search-Based Test Data Generation for SQL Queries</title>
-      <link>/publication/icse2018/</link>
+      <link>https://example.com/publication/icse2018/</link>
       <pubDate>Fri, 20 Jul 2018 00:04:04 +0200</pubDate>
-      <guid>/publication/icse2018/</guid>
+      <guid>https://example.com/publication/icse2018/</guid>
       <description></description>
     </item>
     

@@ -1,39 +1,64 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects | Annibale Panichella</title>
-    <link>/project/</link>
-      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <title>Projects | Academic</title>
+    <link>https://example.com/project/</link>
+      <atom:link href="https://example.com/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 08 Apr 2019 11:08:54 +0200</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
-      <link>/project/</link>
+      <link>https://example.com/project/</link>
     </image>
     
     <item>
+      <title>AI for Fintech Research</title>
+      <link>https://example.com/project/afr/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/afr/</guid>
+      <description>&lt;p&gt;AI for Fintech Research (AFR) is a five year collaboration between ING and Delft University of Technology. The mission of AFR is to perform world-class research at the intersection of Artificial Intelligence, Data Analytics, and Software Analytics in the context of FinTech. AFR was launched in 2020.&lt;/p&gt;
+&lt;p&gt;With 36 million customers, activities in 42 countries, and a total of 50,000 employees of which 15,000 work in IT, software and data technology is at the heart of ING’s business and operations. In this context, AFR seeks to develop new AI-driven theories, methods, and tools in large scale data and software analytics.&lt;/p&gt;
+&lt;p&gt;The core of the AFR consists of eight research tracks, in which PhD students work on a range of topics, such as software analytics, data integration, fairness in machine learning, model life cycle management, regulatory compliance, search-based software engineering, and concept drift. In each track, researchers from TU Delft and engineers from ING are involved, as well as bachelor and master students from TU Delft.&lt;/p&gt;
+&lt;p&gt;AFR is bi-located at the TU Delft campus in Delft and at Cumulus Park – the collaborative innovation district in Amsterdam Southeast – bringing together students, engineers, researchers, professors, and entrepreneurs from both organizations at both locations. During the COVID-19 pandemic in 2020 and 2021, all collabaration was virtual, with hybrid meetings returning in 2022.&lt;/p&gt;
+&lt;p&gt;AFR participates in the Innovation Center for Artificial Intelligence (ICAI) as one of its labs. ICAI is a virtual organization consisting of a series of labs of similar size (over five PhD researchers each) working in close collaboration with societal or industrial partners. AFR directly benefits from the experience and expertise of other academic and industrial ICAI partners, such as Qualcomm, Bosch, Ahold Delhaize, the Dutch National Police, the University of Amsterdam, and Vrije Universiteit.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AI4SE Lab</title>
+      <link>https://example.com/project/ai4se/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/ai4se/</guid>
+      <description>&lt;p&gt;The emergence of advanced AI-driven tools has led to a wide range of opportunities and transformations in software engineering practices and education. Recognizing this potential, JetBrains and Delft University of Technology have collaborated to establish the AI for Software Engineering Lab (AI4SE). Together, we are committed to conducting cutting-edge research on the impact and utilization of AI methodologies in software engineering. Our areas of focus include diverse facets of the domain, such as software development, testing, and programming education.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>DevOps for Complex Cyber-physical Systems</title>
-      <link>/project/cosmos/</link>
-      <pubDate>Mon, 08 Apr 2019 11:08:54 +0200</pubDate>
-      <guid>/project/cosmos/</guid>
-      <description></description>
+      <link>https://example.com/project/cosmos/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/cosmos/</guid>
+      <description>&lt;p&gt;Emerging Cyber-Physical Systems (CPS)—from robotics, transportation, to medical devices—play a crucial role in the quality of life of European citizens and the future of the European economy. Increasing automation to such an extent, however, gives rise to many challenges, at the crux of which lies the hardware and software symbiosis. COSMOS proposes to overcome the strain on developing and evolving high-quality, dependable CPS by employing two key technologies: DevOps and Artificial Intelligence (AI). These technologies offer the potential to address CPS development, verification, and evolution.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Software Testing Amplification for the DevOps Team</title>
-      <link>/project/stamp/</link>
-      <pubDate>Mon, 08 Apr 2019 11:08:54 +0200</pubDate>
-      <guid>/project/stamp/</guid>
-      <description></description>
+      <title>STAMP: Software Testing Amplification for DevOps</title>
+      <link>https://example.com/project/stamp/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/stamp/</guid>
+      <description>&lt;p&gt;STAMP stands for Software Testing AMPlification. Leveraging advanced research in automatic test generation, STAMP aims at pushing automation in DevOps one step further through innovative methods of test amplification. STAMP will reuse existing assets (test cases, API descriptions, dependency models), in order to generate more test cases and test configurations each time the application is updated.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>University Blockchain Research Initiative </title>
-      <link>/project/ripple/</link>
-      <pubDate>Mon, 08 Apr 2019 11:08:49 +0200</pubDate>
-      <guid>/project/ripple/</guid>
-      <description></description>
+      <title>UBRI: University Blockchain Research Initiative</title>
+      <link>https://example.com/project/ubri/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/ubri/</guid>
+      <description>&lt;p&gt;UBRI is a partnership between Ripple and top universities around the world to support academic research, technical development and innovation in blockchain, cryptocurrency and , digital payments. Ripple is providing both financial and technical resources to university partners and collaborates with faculty and students on research and technical projects.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

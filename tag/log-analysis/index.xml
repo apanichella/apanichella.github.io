@@ -1,46 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Log Analysis | Annibale Panichella</title>
-    <link>/tag/log-analysis/</link>
-      <atom:link href="/tag/log-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <title>Log Analysis | Academic</title>
+    <link>https://example.com/tag/log-analysis/</link>
+      <atom:link href="https://example.com/tag/log-analysis/index.xml" rel="self" type="application/rss+xml" />
     <description>Log Analysis</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 17:08:37 +0100</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 17:08:37 +0100</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Log Analysis</title>
-      <link>/tag/log-analysis/</link>
+      <link>https://example.com/tag/log-analysis/</link>
     </image>
     
     <item>
       <title>HasBugs - Handpicked Haskell Bugs</title>
-      <link>/publication/msrdata2023/</link>
+      <link>https://example.com/publication/msrdata2023/</link>
       <pubDate>Sun, 01 Jan 2023 17:08:37 +0100</pubDate>
-      <guid>/publication/msrdata2023/</guid>
+      <guid>https://example.com/publication/msrdata2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Log-based Slicing for System-level Test Cases</title>
-      <link>/publication/issta2021/</link>
+      <link>https://example.com/publication/issta2021/</link>
       <pubDate>Mon, 19 Apr 2021 09:03:56 +0200</pubDate>
-      <guid>/publication/issta2021/</guid>
+      <guid>https://example.com/publication/issta2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>LogChunks: A Data Set for Build Log Analysis</title>
-      <link>/publication/msrdata2019/</link>
+      <link>https://example.com/publication/msrdata2019/</link>
       <pubDate>Tue, 03 Mar 2020 17:08:37 +0100</pubDate>
-      <guid>/publication/msrdata2019/</guid>
+      <guid>https://example.com/publication/msrdata2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Search-based Approach for Accurate Identification of Log Message Formats</title>
-      <link>/publication/icpc2018/</link>
+      <link>https://example.com/publication/icpc2018/</link>
       <pubDate>Fri, 20 Jul 2018 00:05:13 +0200</pubDate>
-      <guid>/publication/icpc2018/</guid>
+      <guid>https://example.com/publication/icpc2018/</guid>
       <description></description>
     </item>
     

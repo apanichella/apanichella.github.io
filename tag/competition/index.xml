@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Competition | Annibale Panichella</title>
-    <link>/tag/competition/</link>
-      <atom:link href="/tag/competition/index.xml" rel="self" type="application/rss+xml" />
+    <title>Competition | Academic</title>
+    <link>https://example.com/tag/competition/</link>
+      <atom:link href="https://example.com/tag/competition/index.xml" rel="self" type="application/rss+xml" />
     <description>Competition</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 20 Jul 2018 00:01:14 +0200</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 20 Jul 2018 00:01:14 +0200</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Competition</title>
-      <link>/tag/competition/</link>
+      <link>https://example.com/tag/competition/</link>
     </image>
     
     <item>
       <title>Java Unit Testing Tool Competition - Sixth Round</title>
-      <link>/publication/sbst2018/</link>
+      <link>https://example.com/publication/sbst2018/</link>
       <pubDate>Fri, 20 Jul 2018 00:01:14 +0200</pubDate>
-      <guid>/publication/sbst2018/</guid>
+      <guid>https://example.com/publication/sbst2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Java Unit Testing Tool Competition - Fifth Round</title>
-      <link>/publication/sbst2017/</link>
+      <link>https://example.com/publication/sbst2017/</link>
       <pubDate>Sun, 13 Aug 2017 20:05:07 +0200</pubDate>
-      <guid>/publication/sbst2017/</guid>
+      <guid>https://example.com/publication/sbst2017/</guid>
       <description></description>
     </item>
     

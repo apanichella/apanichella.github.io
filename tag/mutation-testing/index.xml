@@ -1,62 +1,62 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mutation Testing | Annibale Panichella</title>
-    <link>/tag/mutation-testing/</link>
-      <atom:link href="/tag/mutation-testing/index.xml" rel="self" type="application/rss+xml" />
+    <title>Mutation Testing | Academic</title>
+    <link>https://example.com/tag/mutation-testing/</link>
+      <atom:link href="https://example.com/tag/mutation-testing/index.xml" rel="self" type="application/rss+xml" />
     <description>Mutation Testing</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 12 Dec 2022 11:11:22 +0200</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 12 Dec 2022 11:11:22 +0200</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Mutation Testing</title>
-      <link>/tag/mutation-testing/</link>
+      <link>https://example.com/tag/mutation-testing/</link>
     </image>
     
     <item>
       <title>JUGE: An Infrastructure for Benchmarking Java Unit Test Generators</title>
-      <link>/publication/stvr2022/</link>
+      <link>https://example.com/publication/stvr2022/</link>
       <pubDate>Mon, 12 Dec 2022 11:11:22 +0200</pubDate>
-      <guid>/publication/stvr2022/</guid>
+      <guid>https://example.com/publication/stvr2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>What Are We Really Testing in Mutation Testing for Machine Learning? A Critical Reflection</title>
-      <link>/talk/icse-nier2021/</link>
+      <link>https://example.com/talk/what-are-we-really-testing-in-mutation-testing-for-machine-learning-a-critical-reflection/</link>
       <pubDate>Thu, 27 May 2021 11:17:15 +0200</pubDate>
-      <guid>/talk/icse-nier2021/</guid>
+      <guid>https://example.com/talk/what-are-we-really-testing-in-mutation-testing-for-machine-learning-a-critical-reflection/</guid>
       <description></description>
     </item>
     
     <item>
       <title>What Are We Really Testing in Mutation Testing for Machine Learning? A Critical Reflection</title>
-      <link>/publication/icse-nier2020/</link>
+      <link>https://example.com/publication/icse-nier2020/</link>
       <pubDate>Mon, 18 Jan 2021 14:29:50 +0200</pubDate>
-      <guid>/publication/icse-nier2020/</guid>
+      <guid>https://example.com/publication/icse-nier2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How to Kill Them All: An Exploratory Study on the Impact of Code Observability on Mutation Testing</title>
-      <link>/publication/jss2020/</link>
+      <link>https://example.com/publication/jss2020/</link>
       <pubDate>Tue, 01 Dec 2020 17:32:54 +0200</pubDate>
-      <guid>/publication/jss2020/</guid>
+      <guid>https://example.com/publication/jss2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An Investigation of Compression Techniques to Speed up Mutation Testing</title>
-      <link>/publication/icst2018/</link>
+      <link>https://example.com/publication/icst2018/</link>
       <pubDate>Fri, 20 Jul 2018 00:03:02 +0200</pubDate>
-      <guid>/publication/icst2018/</guid>
+      <guid>https://example.com/publication/icst2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Systematic Literature Review of How Mutation Testing Supports Quality Assurance Processes</title>
-      <link>/publication/stvr2018/</link>
+      <link>https://example.com/publication/stvr2018/</link>
       <pubDate>Tue, 10 Jul 2018 11:11:22 +0200</pubDate>
-      <guid>/publication/stvr2018/</guid>
+      <guid>https://example.com/publication/stvr2018/</guid>
       <description></description>
     </item>
     

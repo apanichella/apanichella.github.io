@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Defect Prediction | Annibale Panichella</title>
-    <link>/tag/defect-prediction/</link>
-      <atom:link href="/tag/defect-prediction/index.xml" rel="self" type="application/rss+xml" />
+    <title>Defect Prediction | Academic</title>
+    <link>https://example.com/tag/defect-prediction/</link>
+      <atom:link href="https://example.com/tag/defect-prediction/index.xml" rel="self" type="application/rss+xml" />
     <description>Defect Prediction</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 18 Aug 2016 07:47:34 +0200</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 18 Aug 2016 07:47:34 +0200</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Defect Prediction</title>
-      <link>/tag/defect-prediction/</link>
+      <link>https://example.com/tag/defect-prediction/</link>
     </image>
     
     <item>
       <title>A Search-based Training Algorithm for Cost-aware Prediction</title>
-      <link>/publication/gecco2016/</link>
+      <link>https://example.com/publication/gecco2016/</link>
       <pubDate>Thu, 18 Aug 2016 07:47:34 +0200</pubDate>
-      <guid>/publication/gecco2016/</guid>
+      <guid>https://example.com/publication/gecco2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Defect Prediction as a Multi-Objective Optimization Problem</title>
-      <link>/publication/stvr2015/</link>
+      <link>https://example.com/publication/stvr2015/</link>
       <pubDate>Sun, 19 Jul 2015 23:50:41 +0200</pubDate>
-      <guid>/publication/stvr2015/</guid>
+      <guid>https://example.com/publication/stvr2015/</guid>
       <description></description>
     </item>
     

@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Many-objective Optimization | Annibale Panichella</title>
-    <link>/tag/many-objective-optimization/</link>
-      <atom:link href="/tag/many-objective-optimization/index.xml" rel="self" type="application/rss+xml" />
+    <title>Many-objective Optimization | Academic</title>
+    <link>https://example.com/tag/many-objective-optimization/</link>
+      <atom:link href="https://example.com/tag/many-objective-optimization/index.xml" rel="self" type="application/rss+xml" />
     <description>Many-objective Optimization</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 13 Sep 2022 09:29:14 +0200</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 13 Sep 2022 09:29:14 +0200</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Many-objective Optimization</title>
-      <link>/tag/many-objective-optimization/</link>
+      <link>https://example.com/tag/many-objective-optimization/</link>
     </image>
     
     <item>
       <title>Generating Class-Level Integration Tests Using Call Site Information</title>
-      <link>/publication/ieee-tse2022/</link>
+      <link>https://example.com/publication/ieee-tse2022/</link>
       <pubDate>Tue, 13 Sep 2022 09:29:14 +0200</pubDate>
-      <guid>/publication/ieee-tse2022/</guid>
+      <guid>https://example.com/publication/ieee-tse2022/</guid>
       <description>&lt;p&gt;Abstract: Search-based approaches have been used in the literature to automate the process of creating unit test cases. However, related work has shown that generated tests with high code coverage could be ineffective, i.e., they may not detect all faults or kill all injected mutants. In this paper, we propose CLING, an integration-level test case generation approach that exploits how a pair of classes, the caller and the callee, interact with each other through method calls. In particular, CLING generates integration-level test cases that maximize the Coupled Branches Criterion (CBC). Coupled branches are pairs of branches containing a branch of the caller and a branch of the callee such that an integration test that exercises the former also exercises the latter. CBC is a novel integration-level coverage criterion, measuring the degree to which a test suite exercises the interactions between a caller and its callee classes. We implemented CLING and evaluated the approach on 140 pairs of classes from five different open-source Java projects. Our results show that (1) CLING generates test suites with high CBC coverage, thanks to the definition of the test suite generation as a many-objectives problem where each couple of branches is an independent objective; (2) such generated suites trigger different class interactions and can kill on average 7.7% (with a maximum of 50%) of mutants that are not detected by tests generated randomly or at the unit level; (3) CLING can detect integration faults coming from wrong assumptions about the usage of the callee class (25 for our subject systems) that remain undetected when using automatically generated random and unit-level test suites.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Guess What: Test Case Generation for Javascript with Unsupervised Probabilistic Type Inference</title>
-      <link>/publication/ssbse2022/</link>
+      <link>https://example.com/publication/ssbse2022/</link>
       <pubDate>Thu, 18 Aug 2022 09:16:23 +0200</pubDate>
-      <guid>/publication/ssbse2022/</guid>
+      <guid>https://example.com/publication/ssbse2022/</guid>
       <description>&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
 &lt;p&gt;Search-based test case generation approaches make use of static type information to determine which data types should be used for the creation of new test cases. Dynamically typed languages like JavaScript, however, do not have this type information. In this paper, we propose an unsupervised probabilistic type inference approach to infer data types within the test case generation process. We evaluated the proposed approach on a benchmark of 98~units under test (i.e., exported classes and functions) compared to random type sampling w.r.t. branch coverage. Our results show that our type inference approach achieves a statistically significant increase in 56% of the test files with up to 71% of branch coverage compared to the baseline.&lt;/p&gt;
 </description>
@@ -33,17 +33,17 @@
     
     <item>
       <title>An Improved Pareto Front Modeling Algorithm for Large-scale Many-Objective Optimization</title>
-      <link>/publication/gecco2022/</link>
+      <link>https://example.com/publication/gecco2022/</link>
       <pubDate>Sun, 27 Mar 2022 10:56:44 +0200</pubDate>
-      <guid>/publication/gecco2022/</guid>
+      <guid>https://example.com/publication/gecco2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hybrid Multi-level Crossover for Unit Test Case Generation</title>
-      <link>/publication/ssbse2021b/</link>
+      <link>https://example.com/publication/ssbse2021b/</link>
       <pubDate>Tue, 29 Jun 2021 09:16:23 +0200</pubDate>
-      <guid>/publication/ssbse2021b/</guid>
+      <guid>https://example.com/publication/ssbse2021b/</guid>
       <description>&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
 &lt;p&gt;State-of-the-art search-based approaches for test case generation work at test case level, where tests are represented as sequences of statements. These approaches make use of genetic operators (i.e., mutation and crossover) that create test variants by adding, altering, and removing statements from existing tests. While this encoding schema has been shown to be very effective for many-objective test case generation, the standard crossover operator (single-point) only alters the structure of the test cases but not the input data. In this paper, we argue that changing both the test case structure and the input data is necessary to increase the genetic variation and improve the search process. Hence, we propose a hybrid multi-level crossover (HMX) operator that combines the traditional test-level crossover with data-level recombination. The former evolves and alters the test case structures, while the latter evolves the input data using numeric and string-based recombinational operators. We evaluate our new crossover operator by performing an empirical study on more than 100 classes selected from open-source Java libraries for numerical operations and string manipulation. We compare HMX with the single-point crossover that is used in EvoSuite w.r.t structural coverage and fault detection capability. Our results show that HMX achieves a statistically significant increase in 30% of the classes up to 19% in structural coverage compared to the single-point crossover. Moreover, the fault detection capability improved up to 12% measured using strong mutation score.&lt;/p&gt;
 </description>
@@ -51,17 +51,17 @@
     
     <item>
       <title>Generating Highly-structured Input Data by Combining Search-based Testing and Grammar-based Fuzzing</title>
-      <link>/publication/ase2020-nier/</link>
+      <link>https://example.com/publication/ase2020-nier/</link>
       <pubDate>Mon, 06 Jul 2020 14:29:50 +0200</pubDate>
-      <guid>/publication/ase2020-nier/</guid>
+      <guid>https://example.com/publication/ase2020-nier/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AGE-MOEA</title>
-      <link>/tools/age-moea/</link>
+      <link>https://example.com/tools/age-moea/</link>
       <pubDate>Mon, 08 Apr 2019 11:08:54 +0200</pubDate>
-      <guid>/tools/age-moea/</guid>
+      <guid>https://example.com/tools/age-moea/</guid>
       <description>&lt;h3 id=&#34;title&#34;&gt;Title&lt;/h3&gt;
 &lt;p&gt;An Adaptive Evolutionary Algorithm based on Non-Euclidean Geometry for Many-objective Optimization&lt;/p&gt;
 &lt;h3 id=&#34;author&#34;&gt;Author&lt;/h3&gt;
@@ -79,41 +79,41 @@ Download the zip file (see link above) and extract its content in the folder &lt
     
     <item>
       <title>An Adaptive Evolutionary Algorithm based on Non-Euclidean Geometry for Many-objective Optimization</title>
-      <link>/publication/gecco2019/</link>
+      <link>https://example.com/publication/gecco2019/</link>
       <pubDate>Mon, 08 Apr 2019 10:45:30 +0200</pubDate>
-      <guid>/publication/gecco2019/</guid>
+      <guid>https://example.com/publication/gecco2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Search-based Multi-Vulnerability Testing of XML Injections in Web Applications</title>
-      <link>/publication/emse2019/</link>
+      <link>https://example.com/publication/emse2019/</link>
       <pubDate>Mon, 08 Apr 2019 10:11:19 +0200</pubDate>
-      <guid>/publication/emse2019/</guid>
+      <guid>https://example.com/publication/emse2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Large Scale Empirical Comparison of State-of-the-art Search-based Test Case Generators</title>
-      <link>/publication/infsof2018b/</link>
+      <link>https://example.com/publication/infsof2018b/</link>
       <pubDate>Sat, 18 Aug 2018 07:39:53 +0200</pubDate>
-      <guid>/publication/infsof2018b/</guid>
+      <guid>https://example.com/publication/infsof2018b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Incremental Control Dependency Frontier Exploration for Many-Criteria Test Case Generation</title>
-      <link>/publication/ssbse2018b/</link>
+      <link>https://example.com/publication/ssbse2018b/</link>
       <pubDate>Fri, 20 Jul 2018 00:07:54 +0200</pubDate>
-      <guid>/publication/ssbse2018b/</guid>
+      <guid>https://example.com/publication/ssbse2018b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Automated Test Case Generation as a Many-Objective Optimisation Problem with Dynamic Selection of the Targets</title>
-      <link>/publication/ieee-tse2018b/</link>
+      <link>https://example.com/publication/ieee-tse2018b/</link>
       <pubDate>Tue, 10 Jul 2018 11:23:34 +0200</pubDate>
-      <guid>/publication/ieee-tse2018b/</guid>
+      <guid>https://example.com/publication/ieee-tse2018b/</guid>
       <description></description>
     </item>
     

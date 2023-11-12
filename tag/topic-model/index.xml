@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Topic Model | Annibale Panichella</title>
-    <link>/tag/topic-model/</link>
-      <atom:link href="/tag/topic-model/index.xml" rel="self" type="application/rss+xml" />
+    <title>Topic Model | Academic</title>
+    <link>https://example.com/tag/topic-model/</link>
+      <atom:link href="https://example.com/tag/topic-model/index.xml" rel="self" type="application/rss+xml" />
     <description>Topic Model</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 26 Jun 2019 10:29:32 +0200</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 26 Jun 2019 10:29:32 +0200</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Topic Model</title>
-      <link>/tag/topic-model/</link>
+      <link>https://example.com/tag/topic-model/</link>
     </image>
     
     <item>
       <title>Search-Based-LDA</title>
-      <link>/tools/ssbse-lda/</link>
+      <link>https://example.com/tools/ssbse-lda/</link>
       <pubDate>Wed, 26 Jun 2019 10:29:32 +0200</pubDate>
-      <guid>/tools/ssbse-lda/</guid>
+      <guid>https://example.com/tools/ssbse-lda/</guid>
       <description>&lt;p&gt;A Systematic Comparison of Search Algorithms for Topic Modelling - A Study on DuplicateBug Report Identification&lt;/p&gt;
 &lt;h3 id=&#34;author&#34;&gt;Author&lt;/h3&gt;
 &lt;p&gt;Annibale Panichella&lt;/p&gt;
@@ -25,16 +25,15 @@
 &lt;h4 id=&#34;abstract&#34;&gt;Abstract&lt;/h4&gt;
 &lt;p&gt;Latent Dirichlet Allocation (LDA) has been used to supportmany software engineering tasks. Previous studies showed that defaultsettings lead to sub-optimal topic modeling with a dramatic impacton the performance of such approaches in terms of precision andrecall. For this reason, researchers used search algorithms (e.g., geneticalgorithms) to automatically configure topic models in an unsupervisedfashion. While previous work showed the ability of individual search algorithmsin finding near-optimal configurations, it is not clear to whatextent the choice of the meta-heuristic matters for SE tasks. In this paper,we present a systematic comparison of five different meta-heuristicsto configure LDA in the context of duplicate bug reports identification.The results show that (1) no master algorithm outperforms the othersfor all software projects, (2) random search and PSO are the least effectivemeta-heuristics. Finally, the running time strongly depends on thecomputational complexity of LDA while the internal complexity of thesearch algorithms plays a negligible role.&lt;/p&gt;
 &lt;h3 id=&#34;getting-started&#34;&gt;Getting started&lt;/h3&gt;
-&lt;p&gt;The source code is available in GitHub at the link: 
-&lt;a href=&#34;https://github.com/apanichella/Search-Based-LDA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/apanichella/Search-Based-LDA&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The source code is available in GitHub at the link: &lt;a href=&#34;https://github.com/apanichella/Search-Based-LDA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/apanichella/Search-Based-LDA&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>A Systematic Comparison of Search Algorithms for Topic Modelling - A Study on Duplicate Bug Report Identification</title>
-      <link>/publication/ssbse2019/</link>
+      <link>https://example.com/publication/ssbse2019/</link>
       <pubDate>Mon, 29 Apr 2019 23:16:23 +0200</pubDate>
-      <guid>/publication/ssbse2019/</guid>
+      <guid>https://example.com/publication/ssbse2019/</guid>
       <description>&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
 &lt;p&gt;Latent Dirichlet Allocation (LDA) has been used to support many software engineering tasks. Previous studies showed that default settings lead to sub-optimal topic modeling with a dramatic impact on the performance of such approaches in terms of precision and recall. For this reason, researchers used search algorithms (e.g., genetic algorithms) to automatically configure topic models in an unsupervised fashion. While previous work showed the ability of individual search algorithms in finding near-optimal configurations, it is not clear to what extent the choice of the meta-heuristic matters for SE tasks. In this paper, we present a systematic comparison of five different meta-heuristics to configure LDA in the context of duplicate bug reports identification. The results show that (1) no master algorithm outperforms the others for all software projects, (2) random search and PSO are the least effective meta-heuristics. Finally, the running time strongly depends on the computational complexity of LDA while the internal complexity of the search algorithms plays a negligible role.&lt;/p&gt;
 </description>
@@ -42,17 +41,17 @@
     
     <item>
       <title>Parameterizing and Assembling IR-based Solutions for Software Engineering Tasks using Genetic Algorithms</title>
-      <link>/publication/saner2016/</link>
+      <link>https://example.com/publication/saner2016/</link>
       <pubDate>Thu, 18 Aug 2016 08:00:46 +0200</pubDate>
-      <guid>/publication/saner2016/</guid>
+      <guid>https://example.com/publication/saner2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Labeling Source Code with Information Retrieval Methods: An Empirical Study.</title>
-      <link>/publication/emse2014/</link>
+      <link>https://example.com/publication/emse2014/</link>
       <pubDate>Sat, 19 Jul 2014 23:52:54 +0200</pubDate>
-      <guid>/publication/emse2014/</guid>
+      <guid>https://example.com/publication/emse2014/</guid>
       <description></description>
     </item>
     

@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>AI for SE | Annibale Panichella</title>
-    <link>/tag/ai-for-se/</link>
-      <atom:link href="/tag/ai-for-se/index.xml" rel="self" type="application/rss+xml" />
+    <title>AI for SE | Academic</title>
+    <link>https://example.com/tag/ai-for-se/</link>
+      <atom:link href="https://example.com/tag/ai-for-se/index.xml" rel="self" type="application/rss+xml" />
     <description>AI for SE</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 07 Aug 2021 22:27:51 +0200</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 07 Aug 2021 22:27:51 +0200</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>AI for SE</title>
-      <link>/tag/ai-for-se/</link>
+      <link>https://example.com/tag/ai-for-se/</link>
     </image>
     
     <item>
       <title>	Assessing Robustness of ML-Based Program Analysis Tools using Metamorphic Program Transformations</title>
-      <link>/publication/ase2021-nier/</link>
+      <link>https://example.com/publication/ase2021-nier/</link>
       <pubDate>Sat, 07 Aug 2021 22:27:51 +0200</pubDate>
-      <guid>/publication/ase2021-nier/</guid>
+      <guid>https://example.com/publication/ase2021-nier/</guid>
       <description></description>
     </item>
     

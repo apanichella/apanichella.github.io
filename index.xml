@@ -13,6 +13,19 @@
     </image>
     
     <item>
+      <title>Breaking the Silence: the Threats of Using LLMs in Software Engineering</title>
+      <link>https://example.com/publication/icse-nier2024/</link>
+      <pubDate>Tue, 12 Dec 2023 14:29:50 +0200</pubDate>
+      <guid>https://example.com/publication/icse-nier2024/</guid>
+      <description>&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+&lt;p&gt;Large Language Models (LLMs) have gained considerable traction within the Software Engineering (SE) community, impacting various SE tasks from code completion to test generation, from program repair to code summarization. Despite their promise, researchers must still be careful as numerous intricate factors can influence the outcomes of experiments involving LLMs.
+This paper initiates an open discussion on potential threats to the validity of LLM-based research including issues such as closed-source models, possible data leakage between LLM training data and research evaluation, and the reproducibility of LLM-based findings.
+In response, this paper proposes a set of guidelines tailored for SE researchers and Language Model (LM) providers to mitigate these concerns.
+The implications of the guidelines are illustrated using existing good practices followed by LLM providers and a practical example for SE researchers in the context of test case generation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>The Slow and The Furious? Performance Antipattern Detection in Cyber-Physical Systems</title>
       <link>https://example.com/publication/jss2023/</link>
       <pubDate>Fri, 01 Dec 2023 17:32:54 +0200</pubDate>
@@ -650,7 +663,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-356297418&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-247513698&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -660,7 +673,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-356297418&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-247513698&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

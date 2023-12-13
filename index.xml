@@ -13,6 +13,14 @@
     </image>
     
     <item>
+      <title>The Slow and The Furious? Performance Antipattern Detection in Cyber-Physical Systems</title>
+      <link>https://example.com/publication/jss2023/</link>
+      <pubDate>Fri, 01 Dec 2023 17:32:54 +0200</pubDate>
+      <guid>https://example.com/publication/jss2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Blog with Jupyter Notebooks!</title>
       <link>https://example.com/post/blog-with-jupyter/</link>
       <pubDate>Sat, 04 Nov 2023 00:00:00 +0000</pubDate>
@@ -632,7 +640,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-178329456&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-481526937&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -642,7 +650,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-178329456&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-481526937&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Test Case Prioritization | Academic</title>
-    <link>https://example.com/tag/test-case-prioritization/</link>
-      <atom:link href="https://example.com/tag/test-case-prioritization/index.xml" rel="self" type="application/rss+xml" />
-    <description>Test Case Prioritization</description>
+    <title>Natural Language Processing | Academic</title>
+    <link>https://example.com/tag/natural-language-processing/</link>
+      <atom:link href="https://example.com/tag/natural-language-processing/index.xml" rel="self" type="application/rss+xml" />
+    <description>Natural Language Processing</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 18 Oct 2023 09:16:23 +0200</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Test Case Prioritization</title>
-      <link>https://example.com/tag/test-case-prioritization/</link>
+      <title>Natural Language Processing</title>
+      <link>https://example.com/tag/natural-language-processing/</link>
     </image>
     
     <item>
@@ -20,14 +20,6 @@
       <description>&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
 &lt;p&gt;Test case prioritization techniques have emerged as effective strategies to optimize this process and mitigate the regression testing costs. Commonly, black-box heuristics guide optimal test ordering, leveraging information retrieval (e.g., cosine distance) to measure the test case distance and sort them accordingly. However, a challenge arises when dealing with tests of varying granularity levels, as they may employ distinct vocabularies (e.g., name identifiers). In this paper, we propose to measure the distance between test cases based on the shortest path between their identifiers within the WordNet lexical database. This additional heuristic is combined with the traditional cosine distance to prioritize test cases in a multi-objective fashion. Our preliminary study conducted with two different Java projects shows that test cases prioritized with WordNet achieve larger fault detection capability (APFD) compared to the traditional cosine distance used in the literature.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>A Test Case Prioritization Genetic Algorithm guided by the Hypervolume Indicator</title>
-      <link>https://example.com/publication/ieee-tse2018f/</link>
-      <pubDate>Sat, 08 Sep 2018 11:51:02 +0200</pubDate>
-      <guid>https://example.com/publication/ieee-tse2018f/</guid>
-      <description></description>
     </item>
     
   </channel>

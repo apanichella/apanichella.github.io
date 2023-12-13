@@ -51,7 +51,31 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/publication-type/1/</loc>
-    <lastmod>2023-04-25T10:56:44+02:00</lastmod>
+    <lastmod>2023-10-18T09:16:23+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication/ssbse-nier2023/</loc>
+    <lastmod>2023-10-18T09:16:23+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tag/multi-objective-optimization/</loc>
+    <lastmod>2023-10-18T09:16:23+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tag/natural-language-processing/</loc>
+    <lastmod>2023-10-18T09:16:23+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tag/search-based-software-testing/</loc>
+    <lastmod>2023-10-18T09:16:23+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tag/test-case-prioritization/</loc>
+    <lastmod>2023-10-18T09:16:23+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tag/wordnet/</loc>
+    <lastmod>2023-10-18T09:16:23+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/publication/gecco2023a/</loc>
@@ -83,10 +107,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/tag/mode-sorter/</loc>
-    <lastmod>2023-04-25T10:56:44+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/tag/multi-objective-optimization/</loc>
     <lastmod>2023-04-25T10:56:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -655,10 +675,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/tag/hypervolume/</loc>
-    <lastmod>2018-09-08T11:51:02+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/tag/test-case-prioritization/</loc>
     <lastmod>2018-09-08T11:51:02+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>

@@ -13,6 +13,16 @@
     </image>
     
     <item>
+      <title>CATMA: Conformance Analysis Tool For Microservice Applications</title>
+      <link>https://example.com/publication/icse2024-tool/</link>
+      <pubDate>Mon, 01 Jan 2024 19:37:11 +0200</pubDate>
+      <guid>https://example.com/publication/icse2024-tool/</guid>
+      <description>&lt;p&gt;Abstract:&lt;/p&gt;
+&lt;p&gt;The microservice architecture allows developers to divide the core functionality of their software system into multiple smaller services. However, this architectural style also makes it harder for them to debug and assess whether the system&amp;rsquo;s deployment conforms to its implementation. We present CATMA, an automated tool that detects non-conformances between the system&amp;rsquo;s deployment and implementation. It automatically visualizes and generates potential interpretations for the detected discrepancies. Our evaluation of CATMA shows promising results in terms of performance and providing useful insights. CATMA is available at &lt;a href=&#34;https://cyber-analytics.nl/catma.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://cyber-analytics.nl/catma.github.io/&lt;/a&gt;, and a demonstration video is available at &lt;a href=&#34;https://youtu.be/WKP1hG-TDKc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://youtu.be/WKP1hG-TDKc&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Breaking the Silence: the Threats of Using LLMs in Software Engineering</title>
       <link>https://example.com/publication/icse-nier2024/</link>
       <pubDate>Tue, 12 Dec 2023 14:29:50 +0200</pubDate>
@@ -663,7 +673,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-247513698&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-798625431&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -673,7 +683,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-247513698&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-798625431&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

@@ -23,6 +23,36 @@
     </item>
     
     <item>
+      <title>TestSpark: IntelliJ IDEA’s Ultimate Test Generation Companion</title>
+      <link>https://example.com/publication/icse2024-tool2/</link>
+      <pubDate>Mon, 01 Jan 2024 19:37:11 +0200</pubDate>
+      <guid>https://example.com/publication/icse2024-tool2/</guid>
+      <description>&lt;p&gt;Abstract:&lt;/p&gt;
+&lt;p&gt;Writing software tests is laborious and time-consuming. To address
+this, prior studies introduced various automated test-generation
+techniques. A well-explored research direction in this field is unit
+test generation, wherein artificial intelligence (AI) techniques create
+tests for a method/class under test. While many of these techniques
+have primarily found applications in a research context, existing
+tools (e.g., EvoSuite, Randoop, and AthenaTest) are not user-friendly
+and are tailored to a single technique. This paper introduces Test-
+Spark, a plugin for IntelliJ IDEA that enables users to generate unit
+tests with only a few clicks directly within their Integrated De-
+velopment Environment (IDE). Furthermore, TestSpark also allows
+users to easily modify and run each generated test and integrate
+them into the project workflow. TestSpark leverages the advances of
+search-based test generation tools, and it introduces a technique to
+generate unit tests using Large Language Models (LLMs) by creating
+a feedback cycle between the IDE and the LLM. Since TestSpark is
+an open-source (&lt;a href=&#34;https://github.com/JetBrains-Research/TestSpark%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/JetBrains-Research/TestSpark)&lt;/a&gt;,
+extendable, and well-documented tool, it is possible to add new test
+generation methods into the plugin with the minimum effort. This
+paper also explains our future studies related to TestSpark and our
+preliminary results.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Breaking the Silence: the Threats of Using LLMs in Software Engineering</title>
       <link>https://example.com/publication/icse-nier2024/</link>
       <pubDate>Tue, 12 Dec 2023 14:29:50 +0200</pubDate>
@@ -673,7 +703,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-296457183&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-572631849&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -683,7 +713,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-296457183&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-572631849&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

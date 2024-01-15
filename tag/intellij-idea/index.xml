@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Intellij IDEA | Academic</title>
+    <link>https://example.com/tag/intellij-idea/</link>
+      <atom:link href="https://example.com/tag/intellij-idea/index.xml" rel="self" type="application/rss+xml" />
+    <description>Intellij IDEA</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 19:37:11 +0200</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Intellij IDEA</title>
+      <link>https://example.com/tag/intellij-idea/</link>
+    </image>
+    
+    <item>
+      <title>TestSpark: IntelliJ IDEA’s Ultimate Test Generation Companion</title>
+      <link>https://example.com/publication/icse2024-tool2/</link>
+      <pubDate>Mon, 01 Jan 2024 19:37:11 +0200</pubDate>
+      <guid>https://example.com/publication/icse2024-tool2/</guid>
+      <description>&lt;p&gt;Abstract:&lt;/p&gt;
+&lt;p&gt;Writing software tests is laborious and time-consuming. To address
+this, prior studies introduced various automated test-generation
+techniques. A well-explored research direction in this field is unit
+test generation, wherein artificial intelligence (AI) techniques create
+tests for a method/class under test. While many of these techniques
+have primarily found applications in a research context, existing
+tools (e.g., EvoSuite, Randoop, and AthenaTest) are not user-friendly
+and are tailored to a single technique. This paper introduces Test-
+Spark, a plugin for IntelliJ IDEA that enables users to generate unit
+tests with only a few clicks directly within their Integrated De-
+velopment Environment (IDE). Furthermore, TestSpark also allows
+users to easily modify and run each generated test and integrate
+them into the project workflow. TestSpark leverages the advances of
+search-based test generation tools, and it introduces a technique to
+generate unit tests using Large Language Models (LLMs) by creating
+a feedback cycle between the IDE and the LLM. Since TestSpark is
+an open-source (&lt;a href=&#34;https://github.com/JetBrains-Research/TestSpark%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/JetBrains-Research/TestSpark)&lt;/a&gt;,
+extendable, and well-documented tool, it is possible to add new test
+generation methods into the plugin with the minimum effort. This
+paper also explains our future studies related to TestSpark and our
+preliminary results.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,12 +5,28 @@
     <link>https://example.com/publication-type/1/</link>
       <atom:link href="https://example.com/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 19:37:11 +0200</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 04 Apr 2024 17:56:40 +0200</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
       <link>https://example.com/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>Evolutionary Generative Fuzzing for Differential Testing of the Kotlin Compiler</title>
+      <link>https://example.com/publication/fse2024/</link>
+      <pubDate>Thu, 04 Apr 2024 17:56:40 +0200</pubDate>
+      <guid>https://example.com/publication/fse2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Syntest-JavaScript: Automated Unit-Level Test Case Generation for JavaScript</title>
+      <link>https://example.com/publication/sbft2024/</link>
+      <pubDate>Fri, 02 Feb 2024 17:56:40 +0200</pubDate>
+      <guid>https://example.com/publication/sbft2024/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>CATMA: Conformance Analysis Tool For Microservice Applications</title>
@@ -55,7 +71,7 @@ preliminary results.&lt;/p&gt;
     <item>
       <title>Breaking the Silence: the Threats of Using LLMs in Software Engineering</title>
       <link>https://example.com/publication/icse-nier2024/</link>
-      <pubDate>Tue, 12 Dec 2023 14:29:50 +0200</pubDate>
+      <pubDate>Mon, 01 Jan 2024 14:29:50 +0200</pubDate>
       <guid>https://example.com/publication/icse-nier2024/</guid>
       <description>&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
 &lt;p&gt;Large Language Models (LLMs) have gained considerable traction within the Software Engineering (SE) community, impacting various SE tasks from code completion to test generation, from program repair to code summarization. Despite their promise, researchers must still be careful as numerous intricate factors can influence the outcomes of experiments involving LLMs.

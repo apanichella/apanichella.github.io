@@ -5,7 +5,7 @@
     <link>https://example.com/tag/ai4se/</link>
       <atom:link href="https://example.com/tag/ai4se/index.xml" rel="self" type="application/rss+xml" />
     <description>AI4SE</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 12 Dec 2023 14:29:50 +0200</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 14:29:50 +0200</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>AI4SE</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Breaking the Silence: the Threats of Using LLMs in Software Engineering</title>
       <link>https://example.com/publication/icse-nier2024/</link>
-      <pubDate>Tue, 12 Dec 2023 14:29:50 +0200</pubDate>
+      <pubDate>Mon, 01 Jan 2024 14:29:50 +0200</pubDate>
       <guid>https://example.com/publication/icse-nier2024/</guid>
       <description>&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
 &lt;p&gt;Large Language Models (LLMs) have gained considerable traction within the Software Engineering (SE) community, impacting various SE tasks from code completion to test generation, from program repair to code summarization. Despite their promise, researchers must still be careful as numerous intricate factors can influence the outcomes of experiments involving LLMs.

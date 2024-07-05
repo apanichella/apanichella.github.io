@@ -14,6 +14,14 @@
     <lastmod>2024-06-06T09:16:23+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://example.com/publication/ssbse2024/</loc>
+    <lastmod>2024-06-06T09:16:23+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tag/many-objective-optimization/</loc>
+    <lastmod>2024-06-06T09:16:23+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://example.com/tag/multi-objective-optimization/</loc>
     <lastmod>2024-06-06T09:16:23+02:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -26,6 +34,10 @@
     <lastmod>2024-06-06T09:16:23+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://example.com/tag/search-based-software-engineering/</loc>
+    <lastmod>2024-06-06T09:16:23+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://example.com/tag/self-driving-cars/</loc>
     <lastmod>2024-06-06T09:16:23+02:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -34,7 +46,15 @@
     <lastmod>2024-06-06T09:16:23+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://example.com/tag/software-testing/</loc>
+    <lastmod>2024-06-06T09:16:23+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://example.com/tags/</loc>
+    <lastmod>2024-06-06T09:16:23+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tag/test-case-generation/</loc>
     <lastmod>2024-06-06T09:16:23+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -74,15 +94,7 @@
     <lastmod>2024-01-01T19:37:11+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/tag/software-testing/</loc>
-    <lastmod>2024-01-01T19:37:11+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://example.com/tag/static-analysis/</loc>
-    <lastmod>2024-01-01T19:37:11+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/tag/test-case-generation/</loc>
     <lastmod>2024-01-01T19:37:11+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -259,14 +271,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/publication/ieee-tse2022/</loc>
-    <lastmod>2022-09-13T09:29:14+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/tag/many-objective-optimization/</loc>
-    <lastmod>2022-09-13T09:29:14+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/tag/search-based-software-engineering/</loc>
     <lastmod>2022-09-13T09:29:14+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>

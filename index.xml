@@ -13,6 +13,16 @@
     </image>
     
     <item>
+      <title>Danger is My Middle Lane: Simulations from Real-World Dangerous Roads</title>
+      <link>https://example.com/publication/ssbse-nier2024/</link>
+      <pubDate>Thu, 06 Jun 2024 09:16:23 +0200</pubDate>
+      <guid>https://example.com/publication/ssbse-nier2024/</guid>
+      <description>&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+&lt;p&gt;Test case prioritization techniques have emerged as effective strategies to optimize this process and mitigate the regression testing costs. Commonly, black-box heuristics guide optimal test ordering, leveraging information retrieval (e.g., cosine distance) to measure the test case distance and sort them accordingly. However, a challenge arises when dealing with tests of varying granularity levels, as they may employ distinct vocabularies (e.g., name identifiers). In this paper, we propose to measure the distance between test cases based on the shortest path between their identifiers within the WordNet lexical database. This additional heuristic is combined with the traditional cosine distance to prioritize test cases in a multi-objective fashion. Our preliminary study conducted with two different Java projects shows that test cases prioritized with WordNet achieve larger fault detection capability (APFD) compared to the traditional cosine distance used in the literature.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Evolutionary Generative Fuzzing for Differential Testing of the Kotlin Compiler</title>
       <link>https://example.com/publication/fse2024/</link>
       <pubDate>Thu, 04 Apr 2024 17:56:40 +0200</pubDate>
@@ -69,6 +79,14 @@ preliminary results.&lt;/p&gt;
     </item>
     
     <item>
+      <title>The Slow and The Furious? Performance Antipattern Detection in Cyber-Physical Systems</title>
+      <link>https://example.com/publication/jss2023/</link>
+      <pubDate>Mon, 01 Jan 2024 17:32:54 +0200</pubDate>
+      <guid>https://example.com/publication/jss2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Breaking the Silence: the Threats of Using LLMs in Software Engineering</title>
       <link>https://example.com/publication/icse-nier2024/</link>
       <pubDate>Mon, 01 Jan 2024 14:29:50 +0200</pubDate>
@@ -79,14 +97,6 @@ This paper initiates an open discussion on potential threats to the validity of 
 In response, this paper proposes a set of guidelines tailored for SE researchers and Language Model (LM) providers to mitigate these concerns.
 The implications of the guidelines are illustrated using existing good practices followed by LLM providers and a practical example for SE researchers in the context of test case generation.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>The Slow and The Furious? Performance Antipattern Detection in Cyber-Physical Systems</title>
-      <link>https://example.com/publication/jss2023/</link>
-      <pubDate>Fri, 01 Dec 2023 17:32:54 +0200</pubDate>
-      <guid>https://example.com/publication/jss2023/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -719,7 +729,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-352917648&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-682934157&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -729,7 +739,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-352917648&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-682934157&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hyperparameter Tuning | Academic</title>
+    <title>Hyperparameter Tuning | Annibale Panichella</title>
     <link>https://example.com/tag/hyperparameter-tuning/</link>
       <atom:link href="https://example.com/tag/hyperparameter-tuning/index.xml" rel="self" type="application/rss+xml" />
     <description>Hyperparameter Tuning</description>

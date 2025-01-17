@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>API Misuse Detection | Academic</title>
+    <title>API Misuse Detection | Annibale Panichella</title>
     <link>https://example.com/tag/api-misuse-detection/</link>
       <atom:link href="https://example.com/tag/api-misuse-detection/index.xml" rel="self" type="application/rss+xml" />
     <description>API Misuse Detection</description>

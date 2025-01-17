@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Annibale Panichella | Academic</title>
+    <title>Annibale Panichella</title>
     <link>https://example.com/</link>
       <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
     <description>Annibale Panichella</description>
@@ -743,7 +743,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-832647591&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-361957824&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -753,7 +753,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-832647591&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-361957824&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

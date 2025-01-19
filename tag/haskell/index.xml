@@ -5,12 +5,20 @@
     <link>https://example.com/tag/haskell/</link>
       <atom:link href="https://example.com/tag/haskell/index.xml" rel="self" type="application/rss+xml" />
     <description>Haskell</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 09:32:39 +0100</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:03:02 +0100</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Haskell</title>
       <link>https://example.com/tag/haskell/</link>
     </image>
+    
+    <item>
+      <title>Suspicious Types and Bad Neighborhoods - Filtering Spectra with Compiler Information</title>
+      <link>https://example.com/publication/icst2025b/</link>
+      <pubDate>Wed, 01 Jan 2025 00:03:02 +0100</pubDate>
+      <guid>https://example.com/publication/icst2025b/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>PropR: Property-Based Automatic Program Repair</title>

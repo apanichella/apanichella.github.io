@@ -13,6 +13,30 @@
     </image>
     
     <item>
+      <title>Metamorphic-Based Many-Objective Distillation of LLMs for Code-related Tasks</title>
+      <link>https://example.com/publication/icse2025/</link>
+      <pubDate>Sun, 19 Jan 2025 09:32:39 +0100</pubDate>
+      <guid>https://example.com/publication/icse2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Suspicious Types and Bad Neighborhoods - Filtering Spectra with Compiler Information</title>
+      <link>https://example.com/publication/icst2025b/</link>
+      <pubDate>Wed, 01 Jan 2025 00:03:02 +0100</pubDate>
+      <guid>https://example.com/publication/icst2025b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test Wars: A Comparative Study of SBST, Symbolic Execution, and LLM-Based Approaches to Unit Test Generation</title>
+      <link>https://example.com/publication/icst2025a/</link>
+      <pubDate>Wed, 01 Jan 2025 00:03:02 +0200</pubDate>
+      <guid>https://example.com/publication/icst2025a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Multi-objective differential evolution in the generation of adversarial examples</title>
       <link>https://example.com/publication/scp2024/</link>
       <pubDate>Thu, 06 Jun 2024 17:56:40 +0200</pubDate>
@@ -743,7 +767,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-361957824&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-492365187&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -753,7 +777,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-361957824&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-492365187&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

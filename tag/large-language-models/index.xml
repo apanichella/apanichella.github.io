@@ -5,12 +5,28 @@
     <link>https://example.com/tag/large-language-models/</link>
       <atom:link href="https://example.com/tag/large-language-models/index.xml" rel="self" type="application/rss+xml" />
     <description>Large Language Models</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 19:37:11 +0200</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 19 Jan 2025 09:32:39 +0100</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Large Language Models</title>
       <link>https://example.com/tag/large-language-models/</link>
     </image>
+    
+    <item>
+      <title>Metamorphic-Based Many-Objective Distillation of LLMs for Code-related Tasks</title>
+      <link>https://example.com/publication/icse2025/</link>
+      <pubDate>Sun, 19 Jan 2025 09:32:39 +0100</pubDate>
+      <guid>https://example.com/publication/icse2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test Wars: A Comparative Study of SBST, Symbolic Execution, and LLM-Based Approaches to Unit Test Generation</title>
+      <link>https://example.com/publication/icst2025a/</link>
+      <pubDate>Wed, 01 Jan 2025 00:03:02 +0200</pubDate>
+      <guid>https://example.com/publication/icst2025a/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>TestSpark: IntelliJ IDEA’s Ultimate Test Generation Companion</title>

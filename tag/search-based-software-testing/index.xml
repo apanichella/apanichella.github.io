@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Search-based Software Testing | Annibale Panichella</title>
+    <title>Search-Based Software Testing | Annibale Panichella</title>
     <link>https://example.com/tag/search-based-software-testing/</link>
       <atom:link href="https://example.com/tag/search-based-software-testing/index.xml" rel="self" type="application/rss+xml" />
-    <description>Search-based Software Testing</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 18 Oct 2023 09:16:23 +0200</lastBuildDate>
+    <description>Search-Based Software Testing</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:03:02 +0200</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Search-based Software Testing</title>
+      <title>Search-Based Software Testing</title>
       <link>https://example.com/tag/search-based-software-testing/</link>
     </image>
+    
+    <item>
+      <title>Test Wars: A Comparative Study of SBST, Symbolic Execution, and LLM-Based Approaches to Unit Test Generation</title>
+      <link>https://example.com/publication/icst2025a/</link>
+      <pubDate>Wed, 01 Jan 2025 00:03:02 +0200</pubDate>
+      <guid>https://example.com/publication/icst2025a/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Multi-objective Black-Box Test Case Prioritization Based on Wordnet Distances</title>

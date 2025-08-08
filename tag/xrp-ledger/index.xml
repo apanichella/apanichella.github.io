@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>XRP Ledger | Annibale Panichella</title>
+    <link>https://example.com/tag/xrp-ledger/</link>
+      <atom:link href="https://example.com/tag/xrp-ledger/index.xml" rel="self" type="application/rss+xml" />
+    <description>XRP Ledger</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:03:02 +0100</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>XRP Ledger</title>
+      <link>https://example.com/tag/xrp-ledger/</link>
+    </image>
+    
+    <item>
+      <title>DRVN at the ICST 2025 Tool Competition – Self-Driving Car Testing Track</title>
+      <link>https://example.com/publication/icst2025-competition/</link>
+      <pubDate>Wed, 01 Jan 2025 00:03:02 +0100</pubDate>
+      <guid>https://example.com/publication/icst2025-competition/</guid>
+      <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;DRVN is a regression testing tool that aims to diversify the test scenarios (road maps) to execute for testing and validating self-driving cars. DRVN harnesses the power of convolutional neural networks to identify possible failing roads in a set of generated examples before applying a greedy algorithm that selects and prioritizes the most diverse roads during regression testing. Initial testing discovered that DRVN performed well against random-based test selection.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Rocket: A System-Level Fuzz-Testing Framework for the XRPL Consensus Algorithm</title>
+      <link>https://example.com/publication/icst2025-tool/</link>
+      <pubDate>Wed, 01 Jan 2025 00:03:02 +0100</pubDate>
+      <guid>https://example.com/publication/icst2025-tool/</guid>
+      <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Byzantine fault tolerant algorithms are critical for achieving consistency and reliability in distributed systems, especially in the presence of faults or adversarial behavior. The consensus algorithm used by the XRP Ledger falls into this category. In practice, the implementation of these algorithms is prone to errors, which can lead to undesired behavior in the system. This paper introduces Rocket, a fuzz-testing framework designed for the XRPL consensus algorithm. Rocket enables researchers and developers to automatically inject network and process faults into a locally simulated network of XRPL validator nodes to test if the system behaves as expected. This technique has previously been shown to be effective in finding implementation errors. Rocket has been designed to focus on extensibility and ease of use, enabling users to run complex test scenarios with minimal setup. Video: &lt;a href=&#34;https://www.youtube.com/watch?v=07Z3ufRa51Y&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.youtube.com/watch?v=07Z3ufRa51Y&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

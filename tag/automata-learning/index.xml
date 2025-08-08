@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Automata Learning | Annibale Panichella</title>
+    <link>https://example.com/tag/automata-learning/</link>
+      <atom:link href="https://example.com/tag/automata-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Automata Learning</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 05 May 2025 14:29:50 +0200</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Automata Learning</title>
+      <link>https://example.com/tag/automata-learning/</link>
+    </image>
+    
+    <item>
+      <title>Automated Test-Case Generation for REST APIs Using Model Inference Search Heuristic</title>
+      <link>https://example.com/publication/ast2025/</link>
+      <pubDate>Mon, 05 May 2025 14:29:50 +0200</pubDate>
+      <guid>https://example.com/publication/ast2025/</guid>
+      <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;The rising popularity of the microservice architectural style has led to a growing demand for automated testing approaches tailored to these systems. EvoMaster is a state-of-the-art tool that uses Evolutionary Algorithms (EAs) to automatically generate test cases for microservices’ REST APIs. One limitation of these EAs is the use of unit-level search heuristics, such as branch distances, which focus on fine-grained code coverage and may not effectively capture the complex, interconnected behaviors characteristic of system-level testing. To address this limitation, we propose a new search heuristic (MISH) that uses real-time automaton learning to guide the test case generation process. We capture the sequential call patterns exhibited by a test case by learning an automaton from the stream of log events outputted by different microservices within the same system. Therefore, MISH learns a representation of the systemwide behavior, allowing us to define the fitness of a test case based on the path it traverses within the inferred automaton. We empirically evaluate MISH’s effectiveness on six real-world benchmark microservice applications and compare it against a state-of-the-art technique, MOSA, for testing REST APIs. Our evaluation shows promising results for using MISH to guide the automated test case generation within EvoMaster&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

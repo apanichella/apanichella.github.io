@@ -5,7 +5,7 @@
     <link>https://example.com/publication-type/1/</link>
       <atom:link href="https://example.com/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 19 Jan 2025 09:32:39 +0100</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 08 Aug 2025 14:29:50 +0200</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
@@ -13,11 +13,51 @@
     </image>
     
     <item>
+      <title>The Future of Software Transparency: Bridging Understanding, Measurement, and Practice</title>
+      <link>https://example.com/publication/ase2025-nier/</link>
+      <pubDate>Fri, 08 Aug 2025 14:29:50 +0200</pubDate>
+      <guid>https://example.com/publication/ase2025-nier/</guid>
+      <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Although the study of software transparency has deep roots in software engineering, a shared definition and practical application in real-world development contexts remain elusive. Through an in-depth analysis of the academic and industrial landscape, this article provides an overview of the current state of knowledge on software transparency, outlining a path to a deeper understanding of the subject for both developers and researchers. The challenge of software transparency involves not only establishing a formal, widely accepted understanding within the community, but also measuring and quantifying it in production environments. To this end, we survey academics and developers to evaluate an innovative approach to defining transparency and present a vision of a new framework for its quantification.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Automated Test-Case Generation for REST APIs Using Model Inference Search Heuristic</title>
+      <link>https://example.com/publication/ast2025/</link>
+      <pubDate>Mon, 05 May 2025 14:29:50 +0200</pubDate>
+      <guid>https://example.com/publication/ast2025/</guid>
+      <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;The rising popularity of the microservice architectural style has led to a growing demand for automated testing approaches tailored to these systems. EvoMaster is a state-of-the-art tool that uses Evolutionary Algorithms (EAs) to automatically generate test cases for microservices’ REST APIs. One limitation of these EAs is the use of unit-level search heuristics, such as branch distances, which focus on fine-grained code coverage and may not effectively capture the complex, interconnected behaviors characteristic of system-level testing. To address this limitation, we propose a new search heuristic (MISH) that uses real-time automaton learning to guide the test case generation process. We capture the sequential call patterns exhibited by a test case by learning an automaton from the stream of log events outputted by different microservices within the same system. Therefore, MISH learns a representation of the systemwide behavior, allowing us to define the fitness of a test case based on the path it traverses within the inferred automaton. We empirically evaluate MISH’s effectiveness on six real-world benchmark microservice applications and compare it against a state-of-the-art technique, MOSA, for testing REST APIs. Our evaluation shows promising results for using MISH to guide the automated test case generation within EvoMaster&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Metamorphic-Based Many-Objective Distillation of LLMs for Code-related Tasks</title>
       <link>https://example.com/publication/icse2025/</link>
       <pubDate>Sun, 19 Jan 2025 09:32:39 +0100</pubDate>
       <guid>https://example.com/publication/icse2025/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>DRVN at the ICST 2025 Tool Competition – Self-Driving Car Testing Track</title>
+      <link>https://example.com/publication/icst2025-competition/</link>
+      <pubDate>Wed, 01 Jan 2025 00:03:02 +0100</pubDate>
+      <guid>https://example.com/publication/icst2025-competition/</guid>
+      <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;DRVN is a regression testing tool that aims to diversify the test scenarios (road maps) to execute for testing and validating self-driving cars. DRVN harnesses the power of convolutional neural networks to identify possible failing roads in a set of generated examples before applying a greedy algorithm that selects and prioritizes the most diverse roads during regression testing. Initial testing discovered that DRVN performed well against random-based test selection.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Rocket: A System-Level Fuzz-Testing Framework for the XRPL Consensus Algorithm</title>
+      <link>https://example.com/publication/icst2025-tool/</link>
+      <pubDate>Wed, 01 Jan 2025 00:03:02 +0100</pubDate>
+      <guid>https://example.com/publication/icst2025-tool/</guid>
+      <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Byzantine fault tolerant algorithms are critical for achieving consistency and reliability in distributed systems, especially in the presence of faults or adversarial behavior. The consensus algorithm used by the XRP Ledger falls into this category. In practice, the implementation of these algorithms is prone to errors, which can lead to undesired behavior in the system. This paper introduces Rocket, a fuzz-testing framework designed for the XRPL consensus algorithm. Rocket enables researchers and developers to automatically inject network and process faults into a locally simulated network of XRPL validator nodes to test if the system behaves as expected. This technique has previously been shown to be effective in finding implementation errors. Rocket has been designed to focus on extensibility and ease of use, enabling users to run complex test scenarios with minimal setup. Video: &lt;a href=&#34;https://www.youtube.com/watch?v=07Z3ufRa51Y&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.youtube.com/watch?v=07Z3ufRa51Y&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>

@@ -1,16 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Metamorphic testing | Annibale Panichella</title>
+    <title>Metamorphic Testing | Annibale Panichella</title>
     <link>https://example.com/tag/metamorphic-testing/</link>
       <atom:link href="https://example.com/tag/metamorphic-testing/index.xml" rel="self" type="application/rss+xml" />
-    <description>Metamorphic testing</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 19 Jan 2025 09:32:39 +0100</lastBuildDate>
+    <description>Metamorphic Testing</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 09 Sep 2025 11:21:45 +0200</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Metamorphic testing</title>
+      <title>Metamorphic Testing</title>
       <link>https://example.com/tag/metamorphic-testing/</link>
     </image>
+    
+    <item>
+      <title>Metamorphic Testing of Deep Code Models: A Systematic Literature Review</title>
+      <link>https://example.com/publication/acm-tosem2025/</link>
+      <pubDate>Tue, 09 Sep 2025 11:21:45 +0200</pubDate>
+      <guid>https://example.com/publication/acm-tosem2025/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;
+Large language models and deep learning models designed for code intelligence have revolutionized the software engineering field due to their ability to perform various code-related tasks. These models can process source code and software artifacts with high accuracy in tasks such as code completion, defect detection, and code summarization; therefore, they can potentially become an integral part of modern software engineering practices. Despite these capabilities, robustness remains a critical quality attribute for deep-code models as they may produce different results under varied and adversarial conditions (e.g., variable renaming). Metamorphic testing has become a widely used approach to evaluate models’ robustness by applying semantic-preserving transformations to input programs and analyzing the stability of model outputs. While prior research has explored testing deep learning models, this systematic literature review focuses specifically on metamorphic testing for deep code models. By studying 45 primary papers, we analyze the transformations, techniques, and evaluation methods used to assess robustness. Our review summarizes the current landscape, identifying frequently evaluated models, programming tasks, datasets, target languages, and evaluation metrics, and highlights key challenges and future directions for advancing the field.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Metamorphic-Based Many-Objective Distillation of LLMs for Code-related Tasks</title>

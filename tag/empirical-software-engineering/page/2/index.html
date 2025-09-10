@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!-- This site was created with Hugo Blox. https://hugoblox.com -->
-<!-- Last Published: January 15, 2024 --><html lang="en-us" >
+<!-- Last Published: September 10, 2025 --><html lang="en-us" >
 
 
 <head>
@@ -241,6 +241,53 @@
 
 
 
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-V2SWTHWJ0E"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-V2SWTHWJ0E', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
+
+
+<script>
+  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','G-V2SWTHWJ0E');
+</script>
 
 
 
@@ -325,13 +372,13 @@
   
 
 <meta property="og:type" content="website" />
-<meta property="og:site_name" content="Academic" />
+<meta property="og:site_name" content="Annibale Panichella" />
 <meta property="og:url" content="https://example.com/tag/empirical-software-engineering/" />
-<meta property="og:title" content="Empirical Software Engineering | Academic" />
+<meta property="og:title" content="Empirical Software Engineering | Annibale Panichella" />
 <meta property="og:description" content="A highly-customizable Hugo academic resume theme powered by Hugo Blox Builder." /><meta property="og:image" content="https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
 
   
-    <meta property="og:updated_time" content="2024-01-01T19:37:11&#43;02:00" />
+    <meta property="og:updated_time" content="2025-09-09T11:21:45&#43;02:00" />
   
 
 
@@ -349,14 +396,14 @@
 
   
   
-    <link rel="alternate" href="/tag/empirical-software-engineering/index.xml" type="application/rss+xml" title="Academic" />
+    <link rel="alternate" href="/tag/empirical-software-engineering/index.xml" type="application/rss+xml" title="Annibale Panichella" />
   
 
   
 
 
   
-  <title>Empirical Software Engineering | Academic</title>
+  <title>Empirical Software Engineering | Annibale Panichella</title>
 
   
   
@@ -455,7 +502,7 @@
 
       
       <div class="d-none d-lg-inline-flex">
-        <a class="navbar-brand" href="/">Academic</a>
+        <a class="navbar-brand" href="/">Annibale Panichella</a>
       </div>
       
 
@@ -468,7 +515,7 @@
 
       
       <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
-        <a class="navbar-brand" href="/">Academic</a>
+        <a class="navbar-brand" href="/">Annibale Panichella</a>
       </div>
       
 
@@ -880,7 +927,7 @@
 
   
   <p class="powered-by copyright-license-text">
-    © 2024 Me. This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank">CC BY NC ND 4.0</a>
+    © 2025 Me. This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank">CC BY NC ND 4.0</a>
   </p>
   
 

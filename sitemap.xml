@@ -2,23 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://example.com/publication-type/2/</loc>
+    <lastmod>2025-09-09T11:21:45+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tag/continuous-integration-and-delivery/</loc>
+    <lastmod>2025-09-09T11:21:45+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tag/cyber-physical-systems/</loc>
+    <lastmod>2025-09-09T11:21:45+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tag/empirical-software-engineering/</loc>
+    <lastmod>2025-09-09T11:21:45+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication/acm-tosem2025/</loc>
+    <lastmod>2025-09-09T11:21:45+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication_types/</loc>
+    <lastmod>2025-09-09T11:21:45+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication/</loc>
+    <lastmod>2025-09-09T11:21:45+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tags/</loc>
+    <lastmod>2025-09-09T11:21:45+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://example.com/publication-type/1/</loc>
     <lastmod>2025-08-08T14:29:50+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication_types/</loc>
-    <lastmod>2025-08-08T14:29:50+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/publication/</loc>
-    <lastmod>2025-08-08T14:29:50+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://example.com/tag/software-transparency/</loc>
-    <lastmod>2025-08-08T14:29:50+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/tags/</loc>
     <lastmod>2025-08-08T14:29:50+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -142,16 +162,8 @@
     <lastmod>2025-01-01T00:03:02+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication-type/2/</loc>
-    <lastmod>2024-06-06T17:56:40+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://example.com/publication/scp2024/</loc>
     <lastmod>2024-06-06T17:56:40+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/tag/cyber-physical-systems/</loc>
-    <lastmod>2024-06-06T09:16:23+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/publication/ssbse-nier2024/</loc>
@@ -192,10 +204,6 @@
   </url><url>
     <loc>https://example.com/tag/dynamic-analysis/</loc>
     <lastmod>2024-01-01T19:37:11+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/tag/empirical-software-engineering/</loc>
-    <lastmod>2024-01-04T14:29:50+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/tag/evolutionary-testing/</loc>
@@ -352,10 +360,6 @@
   </url><url>
     <loc>https://example.com/tag/mutation-testing/</loc>
     <lastmod>2022-12-12T11:11:22+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/tag/continuous-integration-and-delivery/</loc>
-    <lastmod>2022-11-11T11:21:45+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/publication/acm-tosem2022b/</loc>

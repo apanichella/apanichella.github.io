@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Multi-objective Search | Annibale Panichella</title>
+    <link>https://example.com/tag/multi-objective-search/</link>
+      <atom:link href="https://example.com/tag/multi-objective-search/index.xml" rel="self" type="application/rss+xml" />
+    <description>Multi-objective Search</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 09 Sep 2025 09:16:23 +0200</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Multi-objective Search</title>
+      <link>https://example.com/tag/multi-objective-search/</link>
+    </image>
+    
+    <item>
+      <title>The Last Dependency Crusade: Solving Python Dependency Conflicts with LLMs</title>
+      <link>https://example.com/publication/agenticse/</link>
+      <pubDate>Tue, 09 Sep 2025 09:16:23 +0200</pubDate>
+      <guid>https://example.com/publication/agenticse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Pursuit of Diversity: Multi-Objective Testing of Deep Reinforcement Learning Agents</title>
+      <link>https://example.com/publication/ssbse2025/</link>
+      <pubDate>Tue, 09 Sep 2025 09:16:23 +0200</pubDate>
+      <guid>https://example.com/publication/ssbse2025/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

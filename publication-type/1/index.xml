@@ -5,12 +5,28 @@
     <link>https://example.com/publication-type/1/</link>
       <atom:link href="https://example.com/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 08 Aug 2025 14:29:50 +0200</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 09 Sep 2025 09:16:23 +0200</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
       <link>https://example.com/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>The Last Dependency Crusade: Solving Python Dependency Conflicts with LLMs</title>
+      <link>https://example.com/publication/agenticse/</link>
+      <pubDate>Tue, 09 Sep 2025 09:16:23 +0200</pubDate>
+      <guid>https://example.com/publication/agenticse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Pursuit of Diversity: Multi-Objective Testing of Deep Reinforcement Learning Agents</title>
+      <link>https://example.com/publication/ssbse2025/</link>
+      <pubDate>Tue, 09 Sep 2025 09:16:23 +0200</pubDate>
+      <guid>https://example.com/publication/ssbse2025/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The Future of Software Transparency: Bridging Understanding, Measurement, and Practice</title>

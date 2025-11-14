@@ -43,7 +43,27 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/publication-type/1/</loc>
-    <lastmod>2025-08-08T14:29:50+02:00</lastmod>
+    <lastmod>2025-09-09T09:16:23+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tag/deep-reinforcement-learning/</loc>
+    <lastmod>2025-09-09T09:16:23+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tag/multi-objective-search/</loc>
+    <lastmod>2025-09-09T09:16:23+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tag/surrogate-modeling/</loc>
+    <lastmod>2025-09-09T09:16:23+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication/agenticse/</loc>
+    <lastmod>2025-09-09T09:16:23+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication/ssbse2025/</loc>
+    <lastmod>2025-09-09T09:16:23+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/tag/software-transparency/</loc>

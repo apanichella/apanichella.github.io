@@ -5,12 +5,28 @@
     <link>https://example.com/tag/deep-reinforcement-learning/</link>
       <atom:link href="https://example.com/tag/deep-reinforcement-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Deep Reinforcement Learning</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 09 Sep 2025 09:16:23 +0200</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 02 Feb 2026 09:16:23 +0200</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Deep Reinforcement Learning</title>
       <link>https://example.com/tag/deep-reinforcement-learning/</link>
     </image>
+    
+    <item>
+      <title>BreachT5: Ensembling CodeT5&#43; Models for Multi-Label Vulnerability Detection in Smart Contracts</title>
+      <link>https://example.com/publication/wetseb2026/</link>
+      <pubDate>Mon, 02 Feb 2026 09:16:23 +0200</pubDate>
+      <guid>https://example.com/publication/wetseb2026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Exploration of Autonomous Driving System Safety Boundaries</title>
+      <link>https://example.com/publication/iv2026/</link>
+      <pubDate>Mon, 02 Feb 2026 09:16:23 +0200</pubDate>
+      <guid>https://example.com/publication/iv2026/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The Last Dependency Crusade: Solving Python Dependency Conflicts with LLMs</title>

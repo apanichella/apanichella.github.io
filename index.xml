@@ -13,6 +13,22 @@
     </image>
     
     <item>
+      <title>BreachT5: Ensembling CodeT5&#43; Models for Multi-Label Vulnerability Detection in Smart Contracts</title>
+      <link>https://example.com/publication/wetseb2026/</link>
+      <pubDate>Mon, 02 Feb 2026 09:16:23 +0200</pubDate>
+      <guid>https://example.com/publication/wetseb2026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Exploration of Autonomous Driving System Safety Boundaries</title>
+      <link>https://example.com/publication/iv2026/</link>
+      <pubDate>Mon, 02 Feb 2026 09:16:23 +0200</pubDate>
+      <guid>https://example.com/publication/iv2026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Metamorphic Testing of Deep Code Models: A Systematic Literature Review</title>
       <link>https://example.com/publication/acm-tosem2025/</link>
       <pubDate>Tue, 09 Sep 2025 11:21:45 +0200</pubDate>
@@ -833,7 +849,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-475231986&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-789234165&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -843,7 +859,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-475231986&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-789234165&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

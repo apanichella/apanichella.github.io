@@ -2,6 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://example.com/publication-type/1/</loc>
+    <lastmod>2026-02-02T09:16:23+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication/wetseb2026/</loc>
+    <lastmod>2026-02-02T09:16:23+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tag/deep-reinforcement-learning/</loc>
+    <lastmod>2026-02-02T09:16:23+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication/iv2026/</loc>
+    <lastmod>2026-02-02T09:16:23+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tag/multi-objective-search/</loc>
+    <lastmod>2026-02-02T09:16:23+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication_types/</loc>
+    <lastmod>2026-02-02T09:16:23+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication/</loc>
+    <lastmod>2026-02-02T09:16:23+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tag/software-testing/</loc>
+    <lastmod>2026-02-02T09:16:23+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tag/surrogate-modeling/</loc>
+    <lastmod>2026-02-02T09:16:23+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tags/</loc>
+    <lastmod>2026-02-02T09:16:23+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://example.com/publication-type/2/</loc>
     <lastmod>2025-09-09T11:21:45+02:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -24,38 +64,6 @@
   </url><url>
     <loc>https://example.com/publication/acm-tosem2025/</loc>
     <lastmod>2025-09-09T11:21:45+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/publication_types/</loc>
-    <lastmod>2025-09-09T11:21:45+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/publication/</loc>
-    <lastmod>2025-09-09T11:21:45+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/tag/software-testing/</loc>
-    <lastmod>2025-09-09T11:21:45+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/tags/</loc>
-    <lastmod>2025-09-09T11:21:45+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/publication-type/1/</loc>
-    <lastmod>2025-09-09T09:16:23+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/tag/deep-reinforcement-learning/</loc>
-    <lastmod>2025-09-09T09:16:23+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/tag/multi-objective-search/</loc>
-    <lastmod>2025-09-09T09:16:23+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/tag/surrogate-modeling/</loc>
-    <lastmod>2025-09-09T09:16:23+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/publication/agenticse/</loc>

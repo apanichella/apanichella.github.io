@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!-- This site was created with Hugo Blox. https://hugoblox.com -->
-<!-- Last Published: June 11, 2026 --><html lang="en-us" >
+<!-- Last Published: June 25, 2026 --><html lang="en-us" >
 
 
 <head>
@@ -378,7 +378,7 @@
 <meta property="og:description" content="A highly-customizable Hugo academic resume theme powered by Hugo Blox Builder." /><meta property="og:image" content="https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
 
   
-    <meta property="og:updated_time" content="2026-02-02T09:16:23&#43;02:00" />
+    <meta property="og:updated_time" content="2026-06-20T00:00:00&#43;02:00" />
   
 
 
@@ -585,54 +585,10 @@
               
             
             
-              
-              
-              
-                
-              
-              
-            
           
 
           <li class="nav-item">
-            <a class="nav-link " href="/#projects"><span>Projects</span></a>
-          </li>
-
-          
-          
-
-          
-
-          
-          
-          
-            
-          
-
-          
-
-          
-          
-          
-          
-
-          
-            
-              
-              
-            
-            
-              
-              
-              
-                
-              
-              
-            
-          
-
-          <li class="nav-item">
-            <a class="nav-link " href="/#talks"><span>Talks</span></a>
+            <a class="nav-link " href="/project/"><span>Projects</span></a>
           </li>
 
           
@@ -662,7 +618,7 @@
           
 
           <li class="nav-item">
-            <a class="nav-link  active" href="/publication"><span>Publications</span></a>
+            <a class="nav-link " href="/event/"><span>Talks</span></a>
           </li>
 
           
@@ -689,17 +645,70 @@
               
             
             
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/publication/"><span>Publications</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
               
               
-              
-                
-              
-              
+            
             
           
 
           <li class="nav-item">
-            <a class="nav-link " href="/#contact"><span>Contact</span></a>
+            <a class="nav-link " href="/awards/"><span>Awards</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/contact/"><span>Contact</span></a>
           </li>
 
           
@@ -802,6 +811,404 @@
   
 
   
+  
+    
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item view-compact">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publication/sbst2021/" >EvoSuite at the SBST 2021 Tool Competition</a>
+    </div>
+
+    
+    <a href="/publication/sbst2021/"  class="summary-link">
+      <div class="article-style">
+        EvoSuite is a search-based tool that automatically generates executable unit tests for Java code (JUnit tests). This paper summarises the results and experiences of EvoSuite participation at the ninth unit testing competition at SBST 2021, where EvoSuite achieved the highest overall score.
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  <span >
+      S. Vogl</span>, <span >
+      S. Schweikl</span>, <span >
+      G. Fraser</span>, <span >
+      A. Arcuri</span>, <span >
+      J. Campos</span>, <span >
+      A. Panichella</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/EvoSuite/evosuite" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="http://www.evosuite.org" target="_blank" rel="noopener">
+  Project
+</a>
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+  
+    
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item view-compact">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publication/icse-nier2020/" >What Are We Really Testing in Mutation Testing for Machine Learning? A Critical Reflection</a>
+    </div>
+
+    
+    <a href="/publication/icse-nier2020/"  class="summary-link">
+      <div class="article-style">
+        Mutation testing is a well-established technique for assessing a test suite&rsquo;s effectiveness by injecting artificial faults into production code. In recent years, mutation testing has been extended to machine learning (ML) systems and deep learning (DL) in particular. Researchers have proposed approaches, tools, and statistically sound heuristics to determine whether mutants in DL systems are killed or not. However, as we will argue in this work, questions can be raised to what extent currently used mutation testing techniques in DL are actually in line with the classical interpretation of mutation testing. As we will discuss, in current approaches, the distinction between production and test code is blurry, the realism of mutation operators can be challenged, and generally, the degree to which the hypotheses underlying classical mutation testing (competent programmer hypothesis and coupling effect hypothesis) are followed lacks focus and explicit mappings. In this paper, we observe that ML model development follows a test-driven development (TDD) process, where data points (test data) with labels (implicit assertions) correspond to test cases in traditional software. Based on this perspective, we critically revisit existing mutation operators for ML, the mutation testing paradigm for ML, and its fundamental hypotheses. Based on our observations, we propose several action points for better alignment of mutation testing techniques for ML with paradigms and vocabularies of classical mutation testing.
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  <span >
+      Annibale Panichella</span>, <span >
+      Cynthia C. S. Liem</span>
+      </div>
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+  
+    
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+<div class="media stream-item view-compact">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publication/icse-seip2020/" >Search-Based Software Re-Modularization: A Case Study at Adyen</a>
+    </div>
+
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  <span >
+      Casper Schroder</span>, <span >
+      A. van der Feltz</span>, <span >
+      Annibale Panichella</span>, <span >
+      Mauricio Aniche</span>
+      </div>
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+  
+    
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item view-compact">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publication/rrpr2021/" >ReproducedPaper.org: Openly teaching and structuring machine learning reproducibility</a>
+    </div>
+
+    
+    <a href="/publication/rrpr2021/"  class="summary-link">
+      <div class="article-style">
+        We present ReproducedPaper.org: an open online repository for teaching and structuring machine learning reproducibility. We evaluate doing a reproduction project among students and the added value of an online reproduction repository among AI researchers. We use  anonymous self-assessment surveys and obtained 144 responses. Results suggest that students who do a reproduction project place more value on scientific reproductions and become more critical thinkers.  Students and AI researchers agree that our online reproduction repository is valuable.
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  <span >
+      B. Yildiz</span>, <span >
+      H. Hung</span>, <span >
+      J. H. Krijthe</span>, <span >
+      C. C. S. Liem</span>, <span >
+      M. Loog</span>, <span >
+      G. Migut</span>, <span >
+      F. Oliehoek</span>, <span >
+      A. Panichella</span>, <span >
+      P. Paweczak</span>, <span >
+      S. Picek</span>, <span >
+      M. de Weerdt</span>, <span >
+      J. van Gemert</span>
+      </div>
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+  
+    
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item view-compact">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publication/icsme2020/" >Revisiting Test Smells in Automatically Generated Tests: Limitations, Pitfalls, and Opportunities</a>
+    </div>
+
+    
+    <a href="/publication/icsme2020/"  class="summary-link">
+      <div class="article-style">
+        Test smells attempt to capture design issues in test code that reduce their maintainability. Previous work found such smells to be highly common in automatically generated test-cases, but based this result on specific static detection rules; although these are based on the original definition of “test smells”, a recent empirical study showed that developers perceive these as overly strict and non-representative of the maintainability and quality of test suites. This leads us to investigate how effective such test smell detection tools are on automatically generated test suites. In this paper, we build dataset of 2,340 test cases automatically generated by EVOSUITE for 100 Java classes. We performed a multi-stage, cross-validated manual analysis to identify six types of test smells and label their instances. We benchmark the performance of two test smell detection tools: one widely used in prior work, and one recently introduced with the express goal to match developer perceptions of test smells. Our results show that these test smell detection strategies poorly characterized the issues in automatically generated test suites; the older tool’s detection strategies, especially, misclassified over 70% of test smells, both missing real instances (false negatives) and marking many smell- free tests as smelly (false positives). We identify common patterns in these tests that can be used to improve the tools, refine and update the definition of certain test smells, and highlight as of yet uncharacterized issues. Our findings suggest the need for (i) more appropriate metrics to match development practice; and (ii) more accurate detection strategies, to be evaluated primarily in industrial contexts.
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  <span >
+      Annibale Panichella</span>, <span >
+      Sebastiano Panichella</span>, <span >
+      Gordon Fraser</span>, <span >
+      Anand Ashok Sawant</span>, <span >
+      Vincent Hellendoorn</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="http://pure.tudelft.nl/ws/portalfiles/portal/82718732/main.pdf" target="_blank" rel="noopener">
+  Preprint
+</a>
+
+
+
+
+  
+
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.5281/zenodo.4000852" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
   
     
 
@@ -1338,541 +1745,6 @@
 
 
 
-
-
-
-
-
-    </div>
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-  </div>
-</div>
-
-  
-    
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-  
-
-
-<div class="media stream-item view-compact">
-  <div class="media-body">
-
-    <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/publication/sbst2020/" >EvoSuite at the SBST 2020 Tool Competition</a>
-    </div>
-
-    
-    <a href="/publication/sbst2020/"  class="summary-link">
-      <div class="article-style">
-        EvoSuite is a search-based tool that automatically generates executable unit tests for Java code (JUnit tests). This paper summarizes the results and experiences of EvoSuite’s participation at the eighth unit testing competition at SBST 2020, where EvoSuite achieved the highest overall score (406.14 points) for the seventh time in eight editions of the competition.
-      </div>
-    </a>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-      <div>
-        
-
-  <span >
-      A. Panichella</span>, <span >
-      J. Campos</span>, <span >
-      G. Fraser</span>
-      </div>
-      
-    </div>
-
-    
-    <div class="btn-links">
-      
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/EvoSuite/evosuite" target="_blank" rel="noopener">
-  Code
-</a>
-
-
-
-
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="http://www.evosuite.org" target="_blank" rel="noopener">
-  Project
-</a>
-
-
-
-
-
-
-
-
-
-
-
-    </div>
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-  </div>
-</div>
-
-  
-    
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-  
-
-
-<div class="media stream-item view-compact">
-  <div class="media-body">
-
-    <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/publication/issta2020/" >Automated Repair of Feature Interaction Failures in Automated Driving Systems</a>
-    </div>
-
-    
-    <a href="/publication/issta2020/"  class="summary-link">
-      <div class="article-style">
-        The rise in popularity of machine learning (ML), and deep learning in particular, has both led to optimism about achievements of artificial intelligence, as well as concerns about possible weaknesses and vulnerabilities of ML pipelines. Within the software engineering community, this has led to a considerable body of work on ML testing techniques, including white- and black-box testing for ML models. This means the oracle problem needs to be addressed; for supervised ML applications, oracle information is indeed available in the form of dataset “ground truth”, that encodes input data with corresponding desired output labels. However, while ground truth forms a gold standard, there still is no guarantee it is truly correct. Indeed, syntactic, semantic, and conceptual framing issues in the oracle may negatively affect the ML system integrity. While syntactic issues may be automatically verified and corrected, the higher-level issues traditionally need human judgment and manual analysis. In this paper, we employ two heuristics based on information entropy and semantic analysis on well-known computer vision models and benchmark data from ImageNet. The heuristics are used to semi-automatically uncover potential higher-level issues in (i) the label taxonomy used to define the ground truth oracle (labels), and (ii) data encoding and representation. In doing this, beyond existing ML testing efforts, we illustrate the need for SE strategies that especially target and assess the oracle.
-      </div>
-    </a>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-      <div>
-        
-
-  <span >
-      Raja Ben Abdessalem</span>, <span >
-      Annibale Panichella</span>, <span >
-      Shiva Nejati</span>, <span >
-      Lionel Briand</span>, <span >
-      Thomas Stifter</span>
-      </div>
-      
-    </div>
-
-    
-    <div class="btn-links">
-      
-
-
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="http://pure.tudelft.nl/ws/portalfiles/portal/73375949/paper.pdf" target="_blank" rel="noopener">
-  Preprint
-</a>
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.slideshare.net/briand_lionel/automated-repair-of-feature-interaction-failures-in-automated-driving-systems" target="_blank" rel="noopener">
-  Slides
-</a>
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.youtube.com/watch?v=9ZsHL2iIgOU" target="_blank" rel="noopener">
-  Video
-</a>
-
-
-
-
-
-    </div>
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-  </div>
-</div>
-
-  
-    
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-  
-
-
-<div class="media stream-item view-compact">
-  <div class="media-body">
-
-    <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/publication/msrdata2019/" >LogChunks: A Data Set for Build Log Analysis</a>
-    </div>
-
-    
-    <a href="/publication/msrdata2019/"  class="summary-link">
-      <div class="article-style">
-        Build logs are textual by-products that a software build process creates, often as part of its Continuous Integration (CI) pipeline. Build logs are a paramount source of information for developers when debugging into and understanding a build failure. Recently, attempts to partly automate this time-consuming, purely manual activity have come up, such as rule- or information-retrieval-based techniques. We believe that having a common data set to compare different build log analysis techniques will advance the research area. It will ultimately increase our understanding of CI build failures. In this paper, we present LogChunks, a collection of 797 annotated Travis CI build logs from 80 GitHub repositories in 29 programming languages. For each build log, LogChunks contains a manually labeled log part (chunk) describing why the build failed. We externally validated the data set with the developers who caused the original build failure. The width and depth of the LogChunks data set are intended to make it the default benchmark for automated build log analysis techniques
-      </div>
-    </a>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-      <div>
-        
-
-  <span >
-      Carolin E. Brandt</span>, <span >
-      Annibale Panichella</span>, <span >
-      Andy Zaidman</span>, <span >
-      Moritz Beller</span>
-      </div>
-      
-    </div>
-
-    
-    <div class="btn-links">
-      
-
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://pure.tudelft.nl/portal/files/71450840/paper.pdf" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://zenodo.org/record/3632351" target="_blank" rel="noopener">
-  Dataset
-</a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-    </div>
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-  </div>
-</div>
-
-  
-    
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-  
-
-
-<div class="media stream-item view-compact">
-  <div class="media-body">
-
-    <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/publication/raise2020/" >Oracle Issues in Machine Learning and Where to Find Them</a>
-    </div>
-
-    
-    <a href="/publication/raise2020/"  class="summary-link">
-      <div class="article-style">
-        The rise in popularity of machine learning (ML), and deep learning in particular, has both led to optimism about achievements of artificial intelligence, as well as concerns about possible weaknesses and vulnerabilities of ML pipelines. Within the software engineering community, this has led to a considerable body of work on ML testing techniques, including white- and black-box testing for ML models. This means the oracle problem needs to be addressed. For supervised ML applications, oracle information is indeed available in the form of dataset ‘ground truth’, that encodes input data with corresponding desired output labels. However, while ground truth forms a gold standard, there still is no guarantee it is truly correct. Indeed, syntactic, semantic, and conceptual framing issues in the oracle may negatively affect the ML system&rsquo;s integrity. While syntactic issues may automatically be verified and corrected, the higher-level issues traditionally need human judgment and manual analysis. In this paper, we employ two heuristics based on information entropy and semantic analysis on well-known computer vision models and benchmark data from ImageNet. The heuristics are used to semi-automatically uncover potential higher-level issues in (i) the label taxonomy used to define the ground truth oracle (labels), and (ii) data encoding and representation. In doing this, beyond existing ML testing efforts, we illustrate the need for software engineering strategies that especially target and assess the oracle.
-      </div>
-    </a>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-      <div>
-        
-
-  <span >
-      Cynthia C. S. Liem</span>, <span >
-      Annibale Panichella</span>
-      </div>
-      
-    </div>
-
-    
-    <div class="btn-links">
-      
-
-
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://pure.tudelft.nl/admin/files/71936040/Liem_and_Panichella_2020_Oracle_Issues_in_ML_and_Where_to_Find_Them.pdf" target="_blank" rel="noopener">
-  Preprint
-</a>
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.youtube.com/watch?v=4KUgMOREzjs" target="_blank" rel="noopener">
-  Video
-</a>
-
-
-
-
-
-    </div>
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-  </div>
-</div>
-
-  
-    
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-<div class="media stream-item view-compact">
-  <div class="media-body">
-
-    <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/publication/esec-fse2019/" >JCOMIX: A Search-Based Tool to Detect XML Injection Vulnerabilities in Web Applications</a>
-    </div>
-
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-      <div>
-        
-
-  <span >
-      Dimitri Michel Stallenberg</span>, <span >
-      Annibale Panichella</span>
-      </div>
-      
-    </div>
-
-    
-    <div class="btn-links">
-      
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/SERG-Delft/JCOMIX" target="_blank" rel="noopener">
-  Code
-</a>
-
-
-
-
-
-
-
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.youtube.com/channel/UC4-RPvCXPHyf13GQKT18igw" target="_blank" rel="noopener">
-  Video
-</a>
 
 
 

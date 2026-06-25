@@ -5,12 +5,52 @@
     <link>https://example.com/publication/</link>
       <atom:link href="https://example.com/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 02 Feb 2026 09:16:23 +0200</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 20 Jun 2026 00:00:00 +0200</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://example.com/publication/</link>
     </image>
+    
+    <item>
+      <title>Test Case Selection for Deep Neural Networks: A Replication Study on LLMs for Code (Replicability Study)</title>
+      <link>https://example.com/publication/issta2026/</link>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 +0200</pubDate>
+      <guid>https://example.com/publication/issta2026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Metamorphic Testing Approach to Diagnosing Memorization in LLM-Based Program Repair</title>
+      <link>https://example.com/publication/qrs2026/</link>
+      <pubDate>Fri, 15 May 2026 00:00:00 +0200</pubDate>
+      <guid>https://example.com/publication/qrs2026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Agentic Based Python Dependency Resolution</title>
+      <link>https://example.com/publication/aiware2026-competition/</link>
+      <pubDate>Wed, 15 Apr 2026 00:00:00 +0200</pubDate>
+      <guid>https://example.com/publication/aiware2026-competition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Observability and Fault Injection for LLM-Based Multi-Agent Systems in Software Engineering</title>
+      <link>https://example.com/publication/icst2026-tool/</link>
+      <pubDate>Sun, 15 Mar 2026 00:00:01 +0100</pubDate>
+      <guid>https://example.com/publication/icst2026-tool/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-World Fault Detection for C-Extended Python Projects with Automated Unit Test Generation</title>
+      <link>https://example.com/publication/icst2026/</link>
+      <pubDate>Sun, 15 Mar 2026 00:00:00 +0100</pubDate>
+      <guid>https://example.com/publication/icst2026/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>BreachT5: Ensembling CodeT5&#43; Models for Multi-Label Vulnerability Detection in Smart Contracts</title>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News | Annibale Panichella</title>
+    <link>https://example.com/news/</link>
+      <atom:link href="https://example.com/news/index.xml" rel="self" type="application/rss+xml" />
+    <description>News</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 15 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>News</title>
+      <link>https://example.com/news/</link>
+    </image>
+    
+    <item>
+      <title>Paper accepted at ISSTA 2026 (main research track)</title>
+      <link>https://example.com/news/issta-2026/</link>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.com/news/issta-2026/</guid>
+      <description>&lt;p&gt;Our paper has been accepted at &lt;strong&gt;ISSTA 2026&lt;/strong&gt;, the ACM SIGSOFT International
+Symposium on Software Testing and Analysis, in the main research track.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>General Co-Chair of ICST 2027</title>
+      <link>https://example.com/news/icst-2027-co-chair/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.com/news/icst-2027-co-chair/</guid>
+      <description>&lt;p&gt;I am honored to serve as &lt;strong&gt;General Co-Chair of ICST 2027&lt;/strong&gt;, the IEEE
+International Conference on Software Testing, Verification and Validation.
+More information: &lt;a href=&#34;https://conf.researchr.org/home/icst-2027&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;conf.researchr.org/home/icst-2027&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Paper accepted at QRS 2026 (main track)</title>
+      <link>https://example.com/news/qrs-2026/</link>
+      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.com/news/qrs-2026/</guid>
+      <description>&lt;p&gt;Our paper has been accepted at &lt;strong&gt;QRS 2026&lt;/strong&gt;, the IEEE International Conference
+on Software Quality, Reliability, and Security, in the main track.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Paper accepted at FSE 2026 (AI-Aware Competition/Challenge track)</title>
+      <link>https://example.com/news/fse-2026-ai-aware/</link>
+      <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.com/news/fse-2026-ai-aware/</guid>
+      <description>&lt;p&gt;Our paper has been accepted at &lt;strong&gt;FSE 2026&lt;/strong&gt;, the ACM International Conference on
+the Foundations of Software Engineering, in the AI-Aware Competition/Challenge track.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Papers accepted at ICST 2026 (main and tool demo tracks)</title>
+      <link>https://example.com/news/icst-2026/</link>
+      <pubDate>Sun, 15 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.com/news/icst-2026/</guid>
+      <description>&lt;p&gt;Our papers have been accepted at &lt;strong&gt;ICST 2026&lt;/strong&gt;, the IEEE International Conference
+on Software Testing, Verification and Validation, in the main research track and
+the tool demo track.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Paper accepted at IEEE Intelligent Vehicles Symposium (IV) 2026</title>
+      <link>https://example.com/news/ieee-iv-2026/</link>
+      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.com/news/ieee-iv-2026/</guid>
+      <description>&lt;p&gt;Our paper has been accepted at the &lt;strong&gt;IEEE Intelligent Vehicles Symposium (IV) 2026&lt;/strong&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
